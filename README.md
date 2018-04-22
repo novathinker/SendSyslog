@@ -19,4 +19,5 @@ Example - TCP를 사용하여 localhost의 6514 포트로 src_log.txt 로그를 
     java -jar SendSyslog.jar tcp localhost 6514 src_log.txt
 
      
-     
+## TCP 시스로그를 전송하고 이를 로그프레소 시스로그 수집기를 통해 수집, 저장된 모습    
+![image](https://user-images.githubusercontent.com/641604/39091744-d0d70712-4636-11e8-88fc-2cf38d5972fd.png)
