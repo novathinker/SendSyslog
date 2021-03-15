@@ -1,0 +1,7831 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<root>
+  <row>
+    <code>A</code>
+    <industry>농업, 임업 및 어업 (01 ~ 03)</industry>
+  </row>
+  <row>
+    <code>01</code>
+    <industry>농업</industry>
+  </row>
+  <row>
+    <code>011</code>
+    <industry>작물 재배업</industry>
+  </row>
+  <row>
+    <code>0111</code>
+    <industry>곡물 및 기타 식량작물 재배업</industry>
+  </row>
+  <row>
+    <code>01110</code>
+    <industry>곡물 및 기타 식량작물 재배업</industry>
+  </row>
+  <row>
+    <code>0112</code>
+    <industry>채소, 화훼작물 및 종묘 재배업</industry>
+  </row>
+  <row>
+    <code>01121</code>
+    <industry>채소작물 재배업</industry>
+  </row>
+  <row>
+    <code>01122</code>
+    <industry>화훼작물 재배업</industry>
+  </row>
+  <row>
+    <code>01123</code>
+    <industry>종자 및 묘목 생산업</industry>
+  </row>
+  <row>
+    <code>0113</code>
+    <industry>과실, 음료용 및 향신용 작물 재배업</industry>
+  </row>
+  <row>
+    <code>01131</code>
+    <industry>과실작물 재배업</industry>
+  </row>
+  <row>
+    <code>01132</code>
+    <industry>음료용 및 향신용 작물 재배업</industry>
+  </row>
+  <row>
+    <code>0114</code>
+    <industry>기타 작물 재배업</industry>
+  </row>
+  <row>
+    <code>01140</code>
+    <industry>기타 작물 재배업</industry>
+  </row>
+  <row>
+    <code>0115</code>
+    <industry>시설작물 재배업</industry>
+  </row>
+  <row>
+    <code>01151</code>
+    <industry>콩나물 재배업</industry>
+  </row>
+  <row>
+    <code>01152</code>
+    <industry>채소, 화훼 및 과실작물 시설 재배업</industry>
+  </row>
+  <row>
+    <code>01159</code>
+    <industry>기타 시설작물 재배업</industry>
+  </row>
+  <row>
+    <code>012</code>
+    <industry>축산업</industry>
+  </row>
+  <row>
+    <code>0121</code>
+    <industry>소 사육업</industry>
+  </row>
+  <row>
+    <code>01211</code>
+    <industry>젖소 사육업</industry>
+  </row>
+  <row>
+    <code>01212</code>
+    <industry>육우 사육업</industry>
+  </row>
+  <row>
+    <code>0122</code>
+    <industry>양돈업</industry>
+  </row>
+  <row>
+    <code>01220</code>
+    <industry>양돈업</industry>
+  </row>
+  <row>
+    <code>0123</code>
+    <industry>가금류 및 조류 사육업</industry>
+  </row>
+  <row>
+    <code>01231</code>
+    <industry>양계업</industry>
+  </row>
+  <row>
+    <code>01239</code>
+    <industry>기타 가금류 및 조류 사육업</industry>
+  </row>
+  <row>
+    <code>0129</code>
+    <industry>기타 축산업</industry>
+  </row>
+  <row>
+    <code>01291</code>
+    <industry>말 및 양 사육업</industry>
+  </row>
+  <row>
+    <code>01299</code>
+    <industry>그외 기타 축산업</industry>
+  </row>
+  <row>
+    <code>013</code>
+    <industry>작물재배 및 축산 복합농업</industry>
+  </row>
+  <row>
+    <code>0130</code>
+    <industry>작물재배 및 축산 복합농업</industry>
+  </row>
+  <row>
+    <code>01300</code>
+    <industry>작물재배 및 축산 복합농업</industry>
+  </row>
+  <row>
+    <code>014</code>
+    <industry>작물재배 및 축산 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>0141</code>
+    <industry>작물재배 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>01411</code>
+    <industry>작물재배 지원 서비스업</industry>
+  </row>
+  <row>
+    <code>01412</code>
+    <industry>농산물 건조, 선별 및 기타 수확후 서비스업</industry>
+  </row>
+  <row>
+    <code>0142</code>
+    <industry>축산 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>01420</code>
+    <industry>축산 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>015</code>
+    <industry>수렵 및 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>0150</code>
+    <industry>수렵 및 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>01500</code>
+    <industry>수렵 및 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>02</code>
+    <industry>임업</industry>
+  </row>
+  <row>
+    <code>020</code>
+    <industry>임업</industry>
+  </row>
+  <row>
+    <code>0201</code>
+    <industry>영림업</industry>
+  </row>
+  <row>
+    <code>02011</code>
+    <industry>임업용 종묘 생산업</industry>
+  </row>
+  <row>
+    <code>02012</code>
+    <industry>육림업</industry>
+  </row>
+  <row>
+    <code>0202</code>
+    <industry>벌목업</industry>
+  </row>
+  <row>
+    <code>02020</code>
+    <industry>벌목업</industry>
+  </row>
+  <row>
+    <code>0203</code>
+    <industry>임산물 채취업</industry>
+  </row>
+  <row>
+    <code>02030</code>
+    <industry>임산물 채취업</industry>
+  </row>
+  <row>
+    <code>0204</code>
+    <industry>임업 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>02040</code>
+    <industry>임업 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>03</code>
+    <industry>어업</industry>
+  </row>
+  <row>
+    <code>031</code>
+    <industry>어로 어업</industry>
+  </row>
+  <row>
+    <code>0311</code>
+    <industry>해면 어업</industry>
+  </row>
+  <row>
+    <code>03111</code>
+    <industry>원양 어업</industry>
+  </row>
+  <row>
+    <code>03112</code>
+    <industry>연근해 어업</industry>
+  </row>
+  <row>
+    <code>0312</code>
+    <industry>내수면 어업</industry>
+  </row>
+  <row>
+    <code>03120</code>
+    <industry>내수면 어업</industry>
+  </row>
+  <row>
+    <code>032</code>
+    <industry>양식어업 및 어업관련 서비스업</industry>
+  </row>
+  <row>
+    <code>0321</code>
+    <industry>양식 어업</industry>
+  </row>
+  <row>
+    <code>03211</code>
+    <industry>해면 양식 어업</industry>
+  </row>
+  <row>
+    <code>03212</code>
+    <industry>내수면 양식 어업</industry>
+  </row>
+  <row>
+    <code>03213</code>
+    <industry>수산물 부화 및 종묘 생산업</industry>
+  </row>
+  <row>
+    <code>0322</code>
+    <industry>어업 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>03220</code>
+    <industry>어업 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>B</code>
+    <industry>광업 (05 ~ 08)</industry>
+  </row>
+  <row>
+    <code>05</code>
+    <industry>석탄, 원유 및 천연가스 광업</industry>
+  </row>
+  <row>
+    <code>051</code>
+    <industry>석탄 광업</industry>
+  </row>
+  <row>
+    <code>0510</code>
+    <industry>석탄 광업</industry>
+  </row>
+  <row>
+    <code>05100</code>
+    <industry>석탄 광업</industry>
+  </row>
+  <row>
+    <code>052</code>
+    <industry>원유 및 천연가스 채굴업</industry>
+  </row>
+  <row>
+    <code>0520</code>
+    <industry>원유 및 천연가스 채굴업</industry>
+  </row>
+  <row>
+    <code>05200</code>
+    <industry>원유 및 천연가스 채굴업</industry>
+  </row>
+  <row>
+    <code>06</code>
+    <industry>금속 광업</industry>
+  </row>
+  <row>
+    <code>061</code>
+    <industry>철 광업</industry>
+  </row>
+  <row>
+    <code>0610</code>
+    <industry>철 광업</industry>
+  </row>
+  <row>
+    <code>06100</code>
+    <industry>철 광업</industry>
+  </row>
+  <row>
+    <code>062</code>
+    <industry>비철금속 광업</industry>
+  </row>
+  <row>
+    <code>0621</code>
+    <industry>우라늄 및 토륨 광업</industry>
+  </row>
+  <row>
+    <code>06210</code>
+    <industry>우라늄 및 토륨 광업</industry>
+  </row>
+  <row>
+    <code>0629</code>
+    <industry>기타 비철금속 광업</industry>
+  </row>
+  <row>
+    <code>06291</code>
+    <industry>금·은 및 백금 광업</industry>
+  </row>
+  <row>
+    <code>06292</code>
+    <industry>연 및 아연 광업</industry>
+  </row>
+  <row>
+    <code>06299</code>
+    <industry>그외 기타 비철금속 광업</industry>
+  </row>
+  <row>
+    <code>07</code>
+    <industry>비금속광물 광업;연료용 제외</industry>
+  </row>
+  <row>
+    <code>071</code>
+    <industry>토사석 광업</industry>
+  </row>
+  <row>
+    <code>0711</code>
+    <industry>석회석 및 점토 광업</industry>
+  </row>
+  <row>
+    <code>07111</code>
+    <industry>석회석 광업</industry>
+  </row>
+  <row>
+    <code>07112</code>
+    <industry>고령토 및 기타 점토 광업</industry>
+  </row>
+  <row>
+    <code>0712</code>
+    <industry>석재, 쇄석 및 모래자갈 채취업</industry>
+  </row>
+  <row>
+    <code>07121</code>
+    <industry>건설용 석재 채굴업</industry>
+  </row>
+  <row>
+    <code>07122</code>
+    <industry>건설용 쇄석 생산업</industry>
+  </row>
+  <row>
+    <code>07123</code>
+    <industry>모래 및 자갈 채취업</industry>
+  </row>
+  <row>
+    <code>072</code>
+    <industry>기타 비금속광물 광업</industry>
+  </row>
+  <row>
+    <code>0721</code>
+    <industry>화학용 및 비료원료용 광물 광업</industry>
+  </row>
+  <row>
+    <code>07210</code>
+    <industry>화학용 및 비료원료용 광물 광업</industry>
+  </row>
+  <row>
+    <code>0722</code>
+    <industry>소금 채취업</industry>
+  </row>
+  <row>
+    <code>07220</code>
+    <industry>소금 채취업</industry>
+  </row>
+  <row>
+    <code>0729</code>
+    <industry>그외 기타 비금속광물 광업</industry>
+  </row>
+  <row>
+    <code>07290</code>
+    <industry>그외 기타 비금속광물 광업</industry>
+  </row>
+  <row>
+    <code>08</code>
+    <industry>광업 지원 서비스업</industry>
+  </row>
+  <row>
+    <code>080</code>
+    <industry>광업 지원 서비스업</industry>
+  </row>
+  <row>
+    <code>0801</code>
+    <industry>원유 및 천연가스 채굴관련 서비스업</industry>
+  </row>
+  <row>
+    <code>08010</code>
+    <industry>원유 및 천연가스 채굴관련 서비스업</industry>
+  </row>
+  <row>
+    <code>0809</code>
+    <industry>기타 광업 지원 서비스업</industry>
+  </row>
+  <row>
+    <code>08090</code>
+    <industry>기타 광업 지원 서비스업</industry>
+  </row>
+  <row>
+    <code>C</code>
+    <industry>제조업 (10 ~ 33)</industry>
+  </row>
+  <row>
+    <code>10</code>
+    <industry>식료품 제조업</industry>
+  </row>
+  <row>
+    <code>101</code>
+    <industry>도축, 육류 가공 및 저장 처리업</industry>
+  </row>
+  <row>
+    <code>1011</code>
+    <industry>도축업</industry>
+  </row>
+  <row>
+    <code>10110</code>
+    <industry>도축업</industry>
+  </row>
+  <row>
+    <code>1012</code>
+    <industry>육류 가공 및 저장 처리업</industry>
+  </row>
+  <row>
+    <code>10121</code>
+    <industry>가금류 가공 및 저장 처리업</industry>
+  </row>
+  <row>
+    <code>10129</code>
+    <industry>기타 육류 가공 및 저장처리업</industry>
+  </row>
+  <row>
+    <code>102</code>
+    <industry>수산물 가공 및 저장 처리업</industry>
+  </row>
+  <row>
+    <code>1021</code>
+    <industry>수산동물 가공 및 저장 처리업</industry>
+  </row>
+  <row>
+    <code>10211</code>
+    <industry>수산동물 훈제, 조리 및 유사 조제식품 제조업</industry>
+  </row>
+  <row>
+    <code>10212</code>
+    <industry>수산동물 건조 및 염장품 제조업</industry>
+  </row>
+  <row>
+    <code>10213</code>
+    <industry>수산동물 냉동품 제조업</industry>
+  </row>
+  <row>
+    <code>10219</code>
+    <industry>기타 수산동물 가공 및 저장처리업</industry>
+  </row>
+  <row>
+    <code>1022</code>
+    <industry>수산식물 가공 및 저장 처리업</industry>
+  </row>
+  <row>
+    <code>10220</code>
+    <industry>수산식물 가공 및 저장 처리업</industry>
+  </row>
+  <row>
+    <code>103</code>
+    <industry>과실, 채소 가공 및 저장 처리업</industry>
+  </row>
+  <row>
+    <code>1030</code>
+    <industry>과실, 채소 가공 및 저장 처리업</industry>
+  </row>
+  <row>
+    <code>10301</code>
+    <industry>과실 및 채소 절임식품 제조업</industry>
+  </row>
+  <row>
+    <code>10309</code>
+    <industry>기타 과실·채소 가공 및 저장처리업</industry>
+  </row>
+  <row>
+    <code>104</code>
+    <industry>동물성 및 식물성 유지 제조업</industry>
+  </row>
+  <row>
+    <code>1040</code>
+    <industry>동물성 및 식물성 유지 제조업</industry>
+  </row>
+  <row>
+    <code>10401</code>
+    <industry>동물성 유지 제조업</industry>
+  </row>
+  <row>
+    <code>10402</code>
+    <industry>식물성 유지 제조업</industry>
+  </row>
+  <row>
+    <code>10403</code>
+    <industry>식용 정제유 및 가공유 제조업</industry>
+  </row>
+  <row>
+    <code>105</code>
+    <industry>낙농제품 및 식용빙과류 제조업</industry>
+  </row>
+  <row>
+    <code>1050</code>
+    <industry>낙농제품 및 식용빙과류 제조업</industry>
+  </row>
+  <row>
+    <code>10501</code>
+    <industry>액상시유 및 기타 낙농제품 제조업</industry>
+  </row>
+  <row>
+    <code>10502</code>
+    <industry>아이스크림 및 기타 식용빙과류 제조업</industry>
+  </row>
+  <row>
+    <code>106</code>
+    <industry>곡물가공품, 전분 및 전분제품 제조업</industry>
+  </row>
+  <row>
+    <code>1061</code>
+    <industry>곡물 가공품 제조업</industry>
+  </row>
+  <row>
+    <code>10611</code>
+    <industry>곡물 도정업</industry>
+  </row>
+  <row>
+    <code>10612</code>
+    <industry>곡물 제분업</industry>
+  </row>
+  <row>
+    <code>10613</code>
+    <industry>제과용 혼합분말 및 반죽 제조업</industry>
+  </row>
+  <row>
+    <code>10619</code>
+    <industry>기타 곡물가공품 제조업</industry>
+  </row>
+  <row>
+    <code>1062</code>
+    <industry>전분제품 및 당류 제조업</industry>
+  </row>
+  <row>
+    <code>10620</code>
+    <industry>전분제품 및 당류 제조업</industry>
+  </row>
+  <row>
+    <code>107</code>
+    <industry>기타 식품 제조업</industry>
+  </row>
+  <row>
+    <code>1071</code>
+    <industry>떡, 빵 및 과자류 제조업</industry>
+  </row>
+  <row>
+    <code>10711</code>
+    <industry>떡류 제조업</industry>
+  </row>
+  <row>
+    <code>10712</code>
+    <industry>빵류 제조업</industry>
+  </row>
+  <row>
+    <code>10713</code>
+    <industry>코코아 제품 및 과자류 제조업</industry>
+  </row>
+  <row>
+    <code>1072</code>
+    <industry>설탕 제조업</industry>
+  </row>
+  <row>
+    <code>10720</code>
+    <industry>설탕 제조업</industry>
+  </row>
+  <row>
+    <code>1073</code>
+    <industry>면류, 마카로니 및 유사식품 제조업</industry>
+  </row>
+  <row>
+    <code>10730</code>
+    <industry>면류, 마카로니 및 유사식품 제조업</industry>
+  </row>
+  <row>
+    <code>1074</code>
+    <industry>조미료 및 식품 첨가물 제조업</industry>
+  </row>
+  <row>
+    <code>10741</code>
+    <industry>식초, 발효 및 화학 조미료 제조업</industry>
+  </row>
+  <row>
+    <code>10742</code>
+    <industry>천연 및 혼합조제 조미료 제조업</industry>
+  </row>
+  <row>
+    <code>10743</code>
+    <industry>장류 제조업</industry>
+  </row>
+  <row>
+    <code>10749</code>
+    <industry>기타 식품 첨가물 제조업</industry>
+  </row>
+  <row>
+    <code>1079</code>
+    <industry>기타 식료품 제조업</industry>
+  </row>
+  <row>
+    <code>10791</code>
+    <industry>커피 가공업</industry>
+  </row>
+  <row>
+    <code>10792</code>
+    <industry>차류 가공업</industry>
+  </row>
+  <row>
+    <code>10793</code>
+    <industry>수프 및 균질화식품 제조업</industry>
+  </row>
+  <row>
+    <code>10794</code>
+    <industry>두부 및 유사식품 제조업</industry>
+  </row>
+  <row>
+    <code>10795</code>
+    <industry>인삼식품 제조업</industry>
+  </row>
+  <row>
+    <code>10796</code>
+    <industry>건강보조용 액화식품 제조업</industry>
+  </row>
+  <row>
+    <code>10797</code>
+    <industry>건강기능식품 제조업</industry>
+  </row>
+  <row>
+    <code>10798</code>
+    <industry>도시락 및 식사용 조리식품 제조업</industry>
+  </row>
+  <row>
+    <code>10799</code>
+    <industry>그외 기타 식료품 제조업</industry>
+  </row>
+  <row>
+    <code>108</code>
+    <industry>동물용 사료 및 조제식품 제조업</industry>
+  </row>
+  <row>
+    <code>1080</code>
+    <industry>동물용 사료 및 조제식품 제조업</industry>
+  </row>
+  <row>
+    <code>10800</code>
+    <industry>동물용 사료 및 조제식품 제조업</industry>
+  </row>
+  <row>
+    <code>11</code>
+    <industry>음료 제조업</industry>
+  </row>
+  <row>
+    <code>111</code>
+    <industry>알콜음료 제조업</industry>
+  </row>
+  <row>
+    <code>1111</code>
+    <industry>발효주 제조업</industry>
+  </row>
+  <row>
+    <code>11111</code>
+    <industry>탁주 및 약주 제조업</industry>
+  </row>
+  <row>
+    <code>11112</code>
+    <industry>청주 제조업</industry>
+  </row>
+  <row>
+    <code>11113</code>
+    <industry>맥아 및 맥주 제조업</industry>
+  </row>
+  <row>
+    <code>11119</code>
+    <industry>기타 발효주 제조업</industry>
+  </row>
+  <row>
+    <code>1112</code>
+    <industry>증류주 및 합성주 제조업</industry>
+  </row>
+  <row>
+    <code>11121</code>
+    <industry>주정 제조업</industry>
+  </row>
+  <row>
+    <code>11122</code>
+    <industry>소주 제조업</industry>
+  </row>
+  <row>
+    <code>11129</code>
+    <industry>기타 증류주 및 합성주 제조업</industry>
+  </row>
+  <row>
+    <code>112</code>
+    <industry>비알콜음료 및 얼음 제조업</industry>
+  </row>
+  <row>
+    <code>1120</code>
+    <industry>비알콜음료 및 얼음 제조업</industry>
+  </row>
+  <row>
+    <code>11201</code>
+    <industry>얼음 제조업</industry>
+  </row>
+  <row>
+    <code>11202</code>
+    <industry>생수 생산업</industry>
+  </row>
+  <row>
+    <code>11209</code>
+    <industry>기타 비알콜음료 제조업</industry>
+  </row>
+  <row>
+    <code>12</code>
+    <industry>담배 제조업</industry>
+  </row>
+  <row>
+    <code>120</code>
+    <industry>담배 제조업</industry>
+  </row>
+  <row>
+    <code>1200</code>
+    <industry>담배 제조업</industry>
+  </row>
+  <row>
+    <code>12001</code>
+    <industry>담배 재건조업</industry>
+  </row>
+  <row>
+    <code>12002</code>
+    <industry>담배제품 제조업</industry>
+  </row>
+  <row>
+    <code>13</code>
+    <industry>섬유제품 제조업; 의복제외</industry>
+  </row>
+  <row>
+    <code>131</code>
+    <industry>방적 및 가공사 제조업</industry>
+  </row>
+  <row>
+    <code>1310</code>
+    <industry>방적 및 가공사 제조업</industry>
+  </row>
+  <row>
+    <code>13101</code>
+    <industry>면 방적업</industry>
+  </row>
+  <row>
+    <code>13102</code>
+    <industry>모 방적업</industry>
+  </row>
+  <row>
+    <code>13103</code>
+    <industry>화학섬유 방적업</industry>
+  </row>
+  <row>
+    <code>13104</code>
+    <industry>연사 및 가공사 제조업</industry>
+  </row>
+  <row>
+    <code>13109</code>
+    <industry>기타 방적업</industry>
+  </row>
+  <row>
+    <code>132</code>
+    <industry>직물직조 및 직물제품 제조업</industry>
+  </row>
+  <row>
+    <code>1321</code>
+    <industry>직물 직조업</industry>
+  </row>
+  <row>
+    <code>13211</code>
+    <industry>면직물 직조업</industry>
+  </row>
+  <row>
+    <code>13212</code>
+    <industry>모직물 직조업</industry>
+  </row>
+  <row>
+    <code>13213</code>
+    <industry>화학섬유직물 직조업</industry>
+  </row>
+  <row>
+    <code>13214</code>
+    <industry>견직물 직조업</industry>
+  </row>
+  <row>
+    <code>13219</code>
+    <industry>특수직물 및 기타직물 직조업</industry>
+  </row>
+  <row>
+    <code>1322</code>
+    <industry>직물제품 제조업</industry>
+  </row>
+  <row>
+    <code>13221</code>
+    <industry>침구 및 관련제품 제조업</industry>
+  </row>
+  <row>
+    <code>13222</code>
+    <industry>자수제품 및 자수용재료 제조업</industry>
+  </row>
+  <row>
+    <code>13223</code>
+    <industry>커튼 및 유사제품 제조업</industry>
+  </row>
+  <row>
+    <code>13224</code>
+    <industry>천막 및 기타 캔버스 제품 제조업</industry>
+  </row>
+  <row>
+    <code>13225</code>
+    <industry>직물포대 제조업</industry>
+  </row>
+  <row>
+    <code>13229</code>
+    <industry>기타 직물제품 제조업</industry>
+  </row>
+  <row>
+    <code>133</code>
+    <industry>편조원단 및 편조제품 제조업</industry>
+  </row>
+  <row>
+    <code>1331</code>
+    <industry>편조원단 제조업</industry>
+  </row>
+  <row>
+    <code>13310</code>
+    <industry>편조원단 제조업</industry>
+  </row>
+  <row>
+    <code>1332</code>
+    <industry>편조제품 제조업</industry>
+  </row>
+  <row>
+    <code>13320</code>
+    <industry>편조제품 제조업</industry>
+  </row>
+  <row>
+    <code>134</code>
+    <industry>섬유제품 염색, 정리 및 마무리 가공업</industry>
+  </row>
+  <row>
+    <code>1340</code>
+    <industry>섬유제품 염색, 정리 및 마무리 가공업</industry>
+  </row>
+  <row>
+    <code>13401</code>
+    <industry>솜 및 실 염색가공업</industry>
+  </row>
+  <row>
+    <code>13402</code>
+    <industry>직물 및 편조원단 염색 가공업</industry>
+  </row>
+  <row>
+    <code>13403</code>
+    <industry>날염 가공업</industry>
+  </row>
+  <row>
+    <code>13404</code>
+    <industry>섬유사 및 직물 호부처리업</industry>
+  </row>
+  <row>
+    <code>13409</code>
+    <industry>기타 섬유제품 염색, 정리 및 마무리 가공업</industry>
+  </row>
+  <row>
+    <code>139</code>
+    <industry>기타 섬유제품 제조업</industry>
+  </row>
+  <row>
+    <code>1391</code>
+    <industry>카펫, 마루덮개 및 유사제품 제조업</industry>
+  </row>
+  <row>
+    <code>13910</code>
+    <industry>카펫, 마루덮개 및 유사제품 제조업</industry>
+  </row>
+  <row>
+    <code>1392</code>
+    <industry>끈, 로프, 망 및 끈가공품 제조업</industry>
+  </row>
+  <row>
+    <code>13921</code>
+    <industry>끈 및 로프 제조업</industry>
+  </row>
+  <row>
+    <code>13922</code>
+    <industry>어망 및 기타 끈가공품 제조업</industry>
+  </row>
+  <row>
+    <code>1399</code>
+    <industry>그외 기타 섬유제품 제조업</industry>
+  </row>
+  <row>
+    <code>13991</code>
+    <industry>세폭직물 제조업</industry>
+  </row>
+  <row>
+    <code>13992</code>
+    <industry>부직포 및 펠트 제조업</industry>
+  </row>
+  <row>
+    <code>13993</code>
+    <industry>특수사 및 코드직물 제조업</industry>
+  </row>
+  <row>
+    <code>13994</code>
+    <industry>적층 및 표면처리 직물 제조업</industry>
+  </row>
+  <row>
+    <code>13999</code>
+    <industry>그외 기타 분류안된 섬유제품 제조업</industry>
+  </row>
+  <row>
+    <code>14</code>
+    <industry>의복, 의복액세서리 및 모피제품 제조업</industry>
+  </row>
+  <row>
+    <code>141</code>
+    <industry>봉제의복 제조업</industry>
+  </row>
+  <row>
+    <code>1411</code>
+    <industry>정장 제조업</industry>
+  </row>
+  <row>
+    <code>14111</code>
+    <industry>남자용 정장 제조업</industry>
+  </row>
+  <row>
+    <code>14112</code>
+    <industry>여자용 정장 제조업</industry>
+  </row>
+  <row>
+    <code>1412</code>
+    <industry>내의 및 잠옷 제조업</industry>
+  </row>
+  <row>
+    <code>14120</code>
+    <industry>내의 및 잠옷 제조업</industry>
+  </row>
+  <row>
+    <code>1413</code>
+    <industry>한복 제조업</industry>
+  </row>
+  <row>
+    <code>14130</code>
+    <industry>한복 제조업</industry>
+  </row>
+  <row>
+    <code>1419</code>
+    <industry>기타 봉제의복 제조업</industry>
+  </row>
+  <row>
+    <code>14191</code>
+    <industry>셔츠 및 체육복 제조업</industry>
+  </row>
+  <row>
+    <code>14192</code>
+    <industry>근무복, 작업복 및 유사의복 제조업</industry>
+  </row>
+  <row>
+    <code>14193</code>
+    <industry>가죽의복 제조업</industry>
+  </row>
+  <row>
+    <code>14194</code>
+    <industry>유아용 의복 제조업</industry>
+  </row>
+  <row>
+    <code>14199</code>
+    <industry>그외 기타 봉제의복 제조업</industry>
+  </row>
+  <row>
+    <code>142</code>
+    <industry>모피가공 및 모피제품 제조업</industry>
+  </row>
+  <row>
+    <code>1420</code>
+    <industry>모피가공 및 모피제품 제조업</industry>
+  </row>
+  <row>
+    <code>14201</code>
+    <industry>원모피 가공업</industry>
+  </row>
+  <row>
+    <code>14202</code>
+    <industry>천연모피제품 제조업</industry>
+  </row>
+  <row>
+    <code>14203</code>
+    <industry>인조모피 및 인조모피 제품 제조업</industry>
+  </row>
+  <row>
+    <code>143</code>
+    <industry>편조의복 제조업</industry>
+  </row>
+  <row>
+    <code>1430</code>
+    <industry>편조의복 제조업</industry>
+  </row>
+  <row>
+    <code>14300</code>
+    <industry>편조의복 제조업</industry>
+  </row>
+  <row>
+    <code>144</code>
+    <industry>의복 액세서리 제조업</industry>
+  </row>
+  <row>
+    <code>1441</code>
+    <industry>편조의복 액세서리 제조업</industry>
+  </row>
+  <row>
+    <code>14411</code>
+    <industry>스타킹 및 기타양말 제조업</industry>
+  </row>
+  <row>
+    <code>14419</code>
+    <industry>기타 편조의복 액세서리 제조업</industry>
+  </row>
+  <row>
+    <code>1449</code>
+    <industry>기타 의복액세서리 제조업</industry>
+  </row>
+  <row>
+    <code>14491</code>
+    <industry>모자 제조업</industry>
+  </row>
+  <row>
+    <code>14499</code>
+    <industry>그외 기타 의복액세서리 제조업</industry>
+  </row>
+  <row>
+    <code>15</code>
+    <industry>가죽, 가방 및 신발 제조업</industry>
+  </row>
+  <row>
+    <code>151</code>
+    <industry>가죽, 가방 및 유사제품 제조업</industry>
+  </row>
+  <row>
+    <code>1511</code>
+    <industry>원피가공 및 가죽 제조업</industry>
+  </row>
+  <row>
+    <code>15110</code>
+    <industry>원피가공 및 가죽 제조업</industry>
+  </row>
+  <row>
+    <code>1512</code>
+    <industry>핸드백, 가방 및 기타 보호용 케이스 제조업</industry>
+  </row>
+  <row>
+    <code>15121</code>
+    <industry>핸드백 및 지갑 제조업</industry>
+  </row>
+  <row>
+    <code>15129</code>
+    <industry>가방 및 기타 보호용 케이스 제조업</industry>
+  </row>
+  <row>
+    <code>1519</code>
+    <industry>기타 가죽제품 제조업</industry>
+  </row>
+  <row>
+    <code>15190</code>
+    <industry>기타 가죽제품 제조업</industry>
+  </row>
+  <row>
+    <code>152</code>
+    <industry>신발 및 신발부분품 제조업</industry>
+  </row>
+  <row>
+    <code>1521</code>
+    <industry>신발제조업</industry>
+  </row>
+  <row>
+    <code>15211</code>
+    <industry>구두류 제조업</industry>
+  </row>
+  <row>
+    <code>15219</code>
+    <industry>기타 신발 제조업</industry>
+  </row>
+  <row>
+    <code>1522</code>
+    <industry>신발부분품 제조업</industry>
+  </row>
+  <row>
+    <code>15220</code>
+    <industry>신발부분품 제조업</industry>
+  </row>
+  <row>
+    <code>16</code>
+    <industry>목재 및 나무제품 제조업;가구제외</industry>
+  </row>
+  <row>
+    <code>161</code>
+    <industry>제재 및 목재 가공업</industry>
+  </row>
+  <row>
+    <code>1610</code>
+    <industry>제재 및 목재 가공업</industry>
+  </row>
+  <row>
+    <code>16101</code>
+    <industry>일반 제재업</industry>
+  </row>
+  <row>
+    <code>16102</code>
+    <industry>표면가공목재 및 특정 목적용 제재목 제조업</industry>
+  </row>
+  <row>
+    <code>16103</code>
+    <industry>목재 보존, 방부처리, 도장 및 유사 처리업</industry>
+  </row>
+  <row>
+    <code>162</code>
+    <industry>나무제품 제조업</industry>
+  </row>
+  <row>
+    <code>1621</code>
+    <industry>박판, 합판 및 강화목제품 제조업</industry>
+  </row>
+  <row>
+    <code>16211</code>
+    <industry>박판, 합판 및 유사적층판 제조업</industry>
+  </row>
+  <row>
+    <code>16212</code>
+    <industry>강화 및 재생 목재 제조업</industry>
+  </row>
+  <row>
+    <code>1622</code>
+    <industry>건축용 나무제품 제조업</industry>
+  </row>
+  <row>
+    <code>16221</code>
+    <industry>목재문 및 관련제품 제조업</industry>
+  </row>
+  <row>
+    <code>16229</code>
+    <industry>기타 건축용 나무제품 제조업</industry>
+  </row>
+  <row>
+    <code>1623</code>
+    <industry>목재 상자, 드럼 및 적재판 제조업</industry>
+  </row>
+  <row>
+    <code>16231</code>
+    <industry>목재 깔판류 및 기타 적재판 제조업</industry>
+  </row>
+  <row>
+    <code>16232</code>
+    <industry>목재 포장용 상자, 드럼 및 유사용기 제조업</industry>
+  </row>
+  <row>
+    <code>1629</code>
+    <industry>기타 나무제품 제조업</industry>
+  </row>
+  <row>
+    <code>16291</code>
+    <industry>목재 도구 및 기구 제조업</industry>
+  </row>
+  <row>
+    <code>16292</code>
+    <industry>주방용 및 식탁용 목제품 제조업</industry>
+  </row>
+  <row>
+    <code>16293</code>
+    <industry>장식용 목제품 제조업</industry>
+  </row>
+  <row>
+    <code>16299</code>
+    <industry>그외 기타 나무제품 제조업</industry>
+  </row>
+  <row>
+    <code>163</code>
+    <industry>코르크 및 조물 제품 제조업</industry>
+  </row>
+  <row>
+    <code>1630</code>
+    <industry>코르크 및 조물 제품 제조업</industry>
+  </row>
+  <row>
+    <code>16301</code>
+    <industry>코르크 제품 제조업</industry>
+  </row>
+  <row>
+    <code>16302</code>
+    <industry>돗자리 및 기타 조물제품 제조업</industry>
+  </row>
+  <row>
+    <code>17</code>
+    <industry>펄프, 종이 및 종이제품 제조업</industry>
+  </row>
+  <row>
+    <code>171</code>
+    <industry>펄프, 종이 및 판지 제조업</industry>
+  </row>
+  <row>
+    <code>1711</code>
+    <industry>펄프 제조업</industry>
+  </row>
+  <row>
+    <code>17110</code>
+    <industry>펄프 제조업</industry>
+  </row>
+  <row>
+    <code>1712</code>
+    <industry>종이 및 판지 제조업</industry>
+  </row>
+  <row>
+    <code>17121</code>
+    <industry>신문용지 제조업</industry>
+  </row>
+  <row>
+    <code>17122</code>
+    <industry>인쇄용 및 필기용 원지 제조업</industry>
+  </row>
+  <row>
+    <code>17123</code>
+    <industry>크라프트지 및 상자용 판지 제조업</industry>
+  </row>
+  <row>
+    <code>17124</code>
+    <industry>적층, 합성 및 특수표면처리 종이 제조업</industry>
+  </row>
+  <row>
+    <code>17129</code>
+    <industry>기타 종이 및 판지 제조업</industry>
+  </row>
+  <row>
+    <code>172</code>
+    <industry>골판지, 종이 상자 및 종이 용기 제조업</industry>
+  </row>
+  <row>
+    <code>1721</code>
+    <industry>골판지 및 골판지상자 제조업</industry>
+  </row>
+  <row>
+    <code>17210</code>
+    <industry>골판지 및 골판지상자 제조업</industry>
+  </row>
+  <row>
+    <code>1722</code>
+    <industry>종이포대, 판지상자 및 종이용기 제조업</industry>
+  </row>
+  <row>
+    <code>17221</code>
+    <industry>종이 포대 및 가방 제조업</industry>
+  </row>
+  <row>
+    <code>17222</code>
+    <industry>판지 상자 및 용기 제조업</industry>
+  </row>
+  <row>
+    <code>17223</code>
+    <industry>식품 위생용 종이 상자 및 용기 제조업</industry>
+  </row>
+  <row>
+    <code>17229</code>
+    <industry>기타 종이 상자 및 용기 제조업</industry>
+  </row>
+  <row>
+    <code>179</code>
+    <industry>기타 종이 및 판지 제품 제조업</industry>
+  </row>
+  <row>
+    <code>1790</code>
+    <industry>기타 종이 및 판지 제품 제조업</industry>
+  </row>
+  <row>
+    <code>17901</code>
+    <industry>문구용 종이제품 제조업</industry>
+  </row>
+  <row>
+    <code>17902</code>
+    <industry>위생용 종이제품 제조업</industry>
+  </row>
+  <row>
+    <code>17903</code>
+    <industry>벽지 및 장판지 제조업</industry>
+  </row>
+  <row>
+    <code>17909</code>
+    <industry>그외 기타 종이 및 판지 제품 제조업</industry>
+  </row>
+  <row>
+    <code>18</code>
+    <industry>인쇄 및 기록매체 복제업</industry>
+  </row>
+  <row>
+    <code>181</code>
+    <industry>인쇄 및 인쇄관련 산업</industry>
+  </row>
+  <row>
+    <code>1811</code>
+    <industry>인쇄업</industry>
+  </row>
+  <row>
+    <code>18111</code>
+    <industry>경 인쇄업</industry>
+  </row>
+  <row>
+    <code>18112</code>
+    <industry>스크린 인쇄업</industry>
+  </row>
+  <row>
+    <code>18119</code>
+    <industry>기타 인쇄업</industry>
+  </row>
+  <row>
+    <code>1812</code>
+    <industry>인쇄관련 산업</industry>
+  </row>
+  <row>
+    <code>18121</code>
+    <industry>제판 및 조판업</industry>
+  </row>
+  <row>
+    <code>18122</code>
+    <industry>제책업</industry>
+  </row>
+  <row>
+    <code>18129</code>
+    <industry>기타 인쇄관련 산업</industry>
+  </row>
+  <row>
+    <code>182</code>
+    <industry>기록매체 복제업</industry>
+  </row>
+  <row>
+    <code>1820</code>
+    <industry>기록매체 복제업</industry>
+  </row>
+  <row>
+    <code>18200</code>
+    <industry>기록매체 복제업</industry>
+  </row>
+  <row>
+    <code>19</code>
+    <industry>코크스, 연탄 및 석유정제품 제조업</industry>
+  </row>
+  <row>
+    <code>191</code>
+    <industry>코크스 및 연탄 제조업</industry>
+  </row>
+  <row>
+    <code>1910</code>
+    <industry>코크스 및 연탄 제조업</industry>
+  </row>
+  <row>
+    <code>19101</code>
+    <industry>코크스 및 관련제품 제조업</industry>
+  </row>
+  <row>
+    <code>19102</code>
+    <industry>연탄 및 기타 석탄 가공품 제조업</industry>
+  </row>
+  <row>
+    <code>192</code>
+    <industry>석유 정제품 제조업</industry>
+  </row>
+  <row>
+    <code>1921</code>
+    <industry>원유 정제처리업</industry>
+  </row>
+  <row>
+    <code>19210</code>
+    <industry>원유 정제처리업</industry>
+  </row>
+  <row>
+    <code>1922</code>
+    <industry>석유정제물 재처리업</industry>
+  </row>
+  <row>
+    <code>19221</code>
+    <industry>윤활유 및 그리스 제조업</industry>
+  </row>
+  <row>
+    <code>19229</code>
+    <industry>기타 석유정제물 재처리업</industry>
+  </row>
+  <row>
+    <code>20</code>
+    <industry>화학물질 및 화학제품 제조업;의약품 제외</industry>
+  </row>
+  <row>
+    <code>201</code>
+    <industry>기초화학물질 제조업</industry>
+  </row>
+  <row>
+    <code>2011</code>
+    <industry>기초유기화학물질 제조업</industry>
+  </row>
+  <row>
+    <code>20111</code>
+    <industry>석유화학계 기초화학물질 제조업</industry>
+  </row>
+  <row>
+    <code>20112</code>
+    <industry>천연수지 및 나무화학물질 제조업</industry>
+  </row>
+  <row>
+    <code>20119</code>
+    <industry>기타 기초유기화학물질 제조업</industry>
+  </row>
+  <row>
+    <code>2012</code>
+    <industry>기초 무기화학물질 제조업</industry>
+  </row>
+  <row>
+    <code>20121</code>
+    <industry>산업용 가스 제조업</industry>
+  </row>
+  <row>
+    <code>20129</code>
+    <industry>기타 기초무기화학물질 제조업</industry>
+  </row>
+  <row>
+    <code>2013</code>
+    <industry>무기안료, 염료, 유연제 및 기타착색제 제조업</industry>
+  </row>
+  <row>
+    <code>20131</code>
+    <industry>무기안료 및 기타금속산화물 제조업</industry>
+  </row>
+  <row>
+    <code>20132</code>
+    <industry>합성염료, 유연제 및 기타착색제 제조업</industry>
+  </row>
+  <row>
+    <code>202</code>
+    <industry>비료 및 질소화합물 제조업</industry>
+  </row>
+  <row>
+    <code>2020</code>
+    <industry>비료 및 질소화합물 제조업</industry>
+  </row>
+  <row>
+    <code>20201</code>
+    <industry>질소, 인산 및 칼리질 비료 제조업</industry>
+  </row>
+  <row>
+    <code>20202</code>
+    <industry>복합비료 제조업</industry>
+  </row>
+  <row>
+    <code>20209</code>
+    <industry>기타 비료 및 질소화합물 제조업</industry>
+  </row>
+  <row>
+    <code>203</code>
+    <industry>합성고무 및 플라스틱 물질 제조업</industry>
+  </row>
+  <row>
+    <code>2030</code>
+    <industry>합성고무 및 플라스틱 물질 제조업</industry>
+  </row>
+  <row>
+    <code>20301</code>
+    <industry>합성고무 제조업</industry>
+  </row>
+  <row>
+    <code>20302</code>
+    <industry>합성수지 및 기타 플라스틱물질 제조업</industry>
+  </row>
+  <row>
+    <code>20303</code>
+    <industry>가공 및 재생 플라스틱원료 생산업</industry>
+  </row>
+  <row>
+    <code>204</code>
+    <industry>기타 화학제품 제조업</industry>
+  </row>
+  <row>
+    <code>2041</code>
+    <industry>살충제 및 기타농약 제조업</industry>
+  </row>
+  <row>
+    <code>20411</code>
+    <industry>가정용 살균 및 살충제 제조업</industry>
+  </row>
+  <row>
+    <code>20412</code>
+    <industry>농약 제조업</industry>
+  </row>
+  <row>
+    <code>2042</code>
+    <industry>잉크, 페인트, 코팅제 및 유사제품 제조업</industry>
+  </row>
+  <row>
+    <code>20421</code>
+    <industry>일반용 도료 및 관련제품 제조업</industry>
+  </row>
+  <row>
+    <code>20422</code>
+    <industry>요업용 유약 및 관련제품 제조업</industry>
+  </row>
+  <row>
+    <code>20423</code>
+    <industry>인쇄잉크 제조업</industry>
+  </row>
+  <row>
+    <code>20424</code>
+    <industry>회화용 물감 제조업</industry>
+  </row>
+  <row>
+    <code>2043</code>
+    <industry>세제, 화장품 및 광택제 제조업</industry>
+  </row>
+  <row>
+    <code>20431</code>
+    <industry>계면활성제 제조업</industry>
+  </row>
+  <row>
+    <code>20432</code>
+    <industry>치약, 비누 및 기타 세제 제조업</industry>
+  </row>
+  <row>
+    <code>20433</code>
+    <industry>화장품 제조업</industry>
+  </row>
+  <row>
+    <code>20434</code>
+    <industry>표면광택제 및 실내가향제 제조업</industry>
+  </row>
+  <row>
+    <code>2049</code>
+    <industry>그외 기타 화학제품 제조업</industry>
+  </row>
+  <row>
+    <code>20491</code>
+    <industry>사진용 화학제품 및 감광재료 제조업</industry>
+  </row>
+  <row>
+    <code>20492</code>
+    <industry>가공 및 정제염 제조업</industry>
+  </row>
+  <row>
+    <code>20493</code>
+    <industry>접착제 및 젤라틴 제조업</industry>
+  </row>
+  <row>
+    <code>20494</code>
+    <industry>화약 및 불꽃제품 제조업</industry>
+  </row>
+  <row>
+    <code>20499</code>
+    <industry>그외 기타 분류안된 화학제품 제조업</industry>
+  </row>
+  <row>
+    <code>205</code>
+    <industry>화학섬유 제조업</industry>
+  </row>
+  <row>
+    <code>2050</code>
+    <industry>화학섬유 제조업</industry>
+  </row>
+  <row>
+    <code>20501</code>
+    <industry>합성섬유 제조업</industry>
+  </row>
+  <row>
+    <code>20502</code>
+    <industry>재생섬유 제조업</industry>
+  </row>
+  <row>
+    <code>21</code>
+    <industry>의료용 물질 및 의약품 제조업</industry>
+  </row>
+  <row>
+    <code>211</code>
+    <industry>기초 의약물질 및 생물학적 제제 제조업</industry>
+  </row>
+  <row>
+    <code>2110</code>
+    <industry>기초 의약물질 및 생물학적 제제 제조업</industry>
+  </row>
+  <row>
+    <code>21101</code>
+    <industry>의약용 화합물 및 항생물질 제조업</industry>
+  </row>
+  <row>
+    <code>21102</code>
+    <industry>생물학적 제제 제조업</industry>
+  </row>
+  <row>
+    <code>212</code>
+    <industry>의약품 제조업</industry>
+  </row>
+  <row>
+    <code>2121</code>
+    <industry>완제 의약품 제조업</industry>
+  </row>
+  <row>
+    <code>21210</code>
+    <industry>완제 의약품 제조업</industry>
+  </row>
+  <row>
+    <code>2122</code>
+    <industry>한의약품 제조업</industry>
+  </row>
+  <row>
+    <code>21220</code>
+    <industry>한의약품 제조업</industry>
+  </row>
+  <row>
+    <code>2123</code>
+    <industry>동물용 의약품 제조업</industry>
+  </row>
+  <row>
+    <code>21230</code>
+    <industry>동물용 의약품 제조업</industry>
+  </row>
+  <row>
+    <code>213</code>
+    <industry>의료용품 및 기타 의약관련제품 제조업</industry>
+  </row>
+  <row>
+    <code>2130</code>
+    <industry>의료용품 및 기타 의약관련제품 제조업</industry>
+  </row>
+  <row>
+    <code>21300</code>
+    <industry>의료용품 및 기타 의약관련제품 제조업</industry>
+  </row>
+  <row>
+    <code>22</code>
+    <industry>고무제품 및 플라스틱제품 제조업</industry>
+  </row>
+  <row>
+    <code>221</code>
+    <industry>고무제품 제조업</industry>
+  </row>
+  <row>
+    <code>2211</code>
+    <industry>고무 타이어 및 튜브 생산업</industry>
+  </row>
+  <row>
+    <code>22111</code>
+    <industry>타이어 및 튜브 제조업</industry>
+  </row>
+  <row>
+    <code>22112</code>
+    <industry>타이어 재생업</industry>
+  </row>
+  <row>
+    <code>2219</code>
+    <industry>기타 고무제품 제조업</industry>
+  </row>
+  <row>
+    <code>22191</code>
+    <industry>산업용 비경화고무제품 제조업</industry>
+  </row>
+  <row>
+    <code>22192</code>
+    <industry>고무의류 및 기타 위생용 고무제품 제조업</industry>
+  </row>
+  <row>
+    <code>22199</code>
+    <industry>그외 기타 고무제품 제조업</industry>
+  </row>
+  <row>
+    <code>222</code>
+    <industry>플라스틱제품 제조업</industry>
+  </row>
+  <row>
+    <code>2221</code>
+    <industry>1차 플라스틱제품 제조업</industry>
+  </row>
+  <row>
+    <code>22211</code>
+    <industry>플라스틱 선, 봉, 관 및 호스 제조업</industry>
+  </row>
+  <row>
+    <code>22212</code>
+    <industry>플라스틱 필름, 시트 및 판 제조업</industry>
+  </row>
+  <row>
+    <code>22213</code>
+    <industry>플라스틱 합성피혁 제조업</industry>
+  </row>
+  <row>
+    <code>2222</code>
+    <industry>건축용 플라스틱제품 제조업</industry>
+  </row>
+  <row>
+    <code>22221</code>
+    <industry>벽 및 바닥 피복용 플라스틱제품 제조업</industry>
+  </row>
+  <row>
+    <code>22222</code>
+    <industry>저장용 및 위생용 플라스틱제품 제조업</industry>
+  </row>
+  <row>
+    <code>22223</code>
+    <industry>플라스틱 창호 제조업</industry>
+  </row>
+  <row>
+    <code>22229</code>
+    <industry>기타 건축용 플라스틱 조립제품 제조업</industry>
+  </row>
+  <row>
+    <code>2223</code>
+    <industry>포장용 플라스틱제품 제조업</industry>
+  </row>
+  <row>
+    <code>22231</code>
+    <industry>플라스틱 포대, 봉투 및 유사제품 제조업</industry>
+  </row>
+  <row>
+    <code>22232</code>
+    <industry>포장용 플라스틱 성형용기 제조업</industry>
+  </row>
+  <row>
+    <code>2224</code>
+    <industry>기계장비 조립용 플라스틱제품 제조업</industry>
+  </row>
+  <row>
+    <code>22240</code>
+    <industry>기계장비 조립용 플라스틱제품 제조업</industry>
+  </row>
+  <row>
+    <code>2225</code>
+    <industry>플라스틱 발포 성형제품 제조업</industry>
+  </row>
+  <row>
+    <code>22250</code>
+    <industry>플라스틱 발포 성형제품 제조업</industry>
+  </row>
+  <row>
+    <code>2229</code>
+    <industry>기타 플라스틱제품 제조업</industry>
+  </row>
+  <row>
+    <code>22291</code>
+    <industry>플라스틱  적층, 도포 및 기타 표면처리 제품 제조업</industry>
+  </row>
+  <row>
+    <code>22299</code>
+    <industry>그외 기타 플라스틱 제품 제조업</industry>
+  </row>
+  <row>
+    <code>23</code>
+    <industry>비금속 광물제품 제조업</industry>
+  </row>
+  <row>
+    <code>231</code>
+    <industry>유리 및 유리제품 제조업</industry>
+  </row>
+  <row>
+    <code>2311</code>
+    <industry>판유리 제조업</industry>
+  </row>
+  <row>
+    <code>23110</code>
+    <industry>판유리 제조업</industry>
+  </row>
+  <row>
+    <code>2312</code>
+    <industry>산업용 유리 및 판유리 가공품 제조업</industry>
+  </row>
+  <row>
+    <code>23121</code>
+    <industry>유리섬유 및 광학용 유리 제조업</industry>
+  </row>
+  <row>
+    <code>23122</code>
+    <industry>판유리 가공품 제조업</industry>
+  </row>
+  <row>
+    <code>23129</code>
+    <industry>기타 산업용 유리제품 제조업</industry>
+  </row>
+  <row>
+    <code>2319</code>
+    <industry>기타 유리제품 제조업</industry>
+  </row>
+  <row>
+    <code>23191</code>
+    <industry>가정용 유리제품 제조업</industry>
+  </row>
+  <row>
+    <code>23192</code>
+    <industry>포장용 유리용기 제조업</industry>
+  </row>
+  <row>
+    <code>23199</code>
+    <industry>그외 기타 유리제품 제조업</industry>
+  </row>
+  <row>
+    <code>232</code>
+    <industry>도자기 및 기타 요업제품 제조업</industry>
+  </row>
+  <row>
+    <code>2321</code>
+    <industry>일반도자기 제조업</industry>
+  </row>
+  <row>
+    <code>23211</code>
+    <industry>가정용 및 장식용 도자기 제조업</industry>
+  </row>
+  <row>
+    <code>23212</code>
+    <industry>위생용 도자기 제조업</industry>
+  </row>
+  <row>
+    <code>23213</code>
+    <industry>산업용 도자기 제조업</industry>
+  </row>
+  <row>
+    <code>23219</code>
+    <industry>기타 일반 도자기 제조업</industry>
+  </row>
+  <row>
+    <code>2322</code>
+    <industry>내화 요업제품 제조업</industry>
+  </row>
+  <row>
+    <code>23221</code>
+    <industry>구조용 정형내화제품 제조업</industry>
+  </row>
+  <row>
+    <code>23229</code>
+    <industry>기타 내화요업제품 제조업</industry>
+  </row>
+  <row>
+    <code>2323</code>
+    <industry>구조용 비내화 요업제품 제조업</industry>
+  </row>
+  <row>
+    <code>23231</code>
+    <industry>점토 벽돌, 블록 및 유사 비내화 요업제품 제조업</industry>
+  </row>
+  <row>
+    <code>23232</code>
+    <industry>타일 및 유사 비내화 요업제품 제조업</industry>
+  </row>
+  <row>
+    <code>23239</code>
+    <industry>기타 구조용 비내화 요업제품 제조업</industry>
+  </row>
+  <row>
+    <code>233</code>
+    <industry>시멘트, 석회, 플라스터 및 그 제품 제조업</industry>
+  </row>
+  <row>
+    <code>2331</code>
+    <industry>시멘트, 석회 및 플라스터 제조업</industry>
+  </row>
+  <row>
+    <code>23311</code>
+    <industry>시멘트 제조업</industry>
+  </row>
+  <row>
+    <code>23312</code>
+    <industry>석회 및 플라스터 제조업</industry>
+  </row>
+  <row>
+    <code>2332</code>
+    <industry>콘크리트, 시멘트 및 플라스터 제품 제조업</industry>
+  </row>
+  <row>
+    <code>23321</code>
+    <industry>비내화 모르타르 제조업</industry>
+  </row>
+  <row>
+    <code>23322</code>
+    <industry>레미콘 제조업</industry>
+  </row>
+  <row>
+    <code>23323</code>
+    <industry>플라스터 제품 제조업</industry>
+  </row>
+  <row>
+    <code>23324</code>
+    <industry>섬유시멘트 제품 제조업</industry>
+  </row>
+  <row>
+    <code>23325</code>
+    <industry>콘크리트 타일, 기와, 벽돌 및 블록 제조업</industry>
+  </row>
+  <row>
+    <code>23326</code>
+    <industry>콘크리트관 및 기타 구조용 콘크리트제품 제조업</industry>
+  </row>
+  <row>
+    <code>23329</code>
+    <industry>그외 기타 콘크리트 제품 및 유사제품 제조업</industry>
+  </row>
+  <row>
+    <code>239</code>
+    <industry>기타 비금속 광물제품 제조업</industry>
+  </row>
+  <row>
+    <code>2391</code>
+    <industry>석제품 제조업</industry>
+  </row>
+  <row>
+    <code>23911</code>
+    <industry>건설용 석제품 제조업</industry>
+  </row>
+  <row>
+    <code>23919</code>
+    <industry>기타 석제품 제조업</industry>
+  </row>
+  <row>
+    <code>2399</code>
+    <industry>그외 기타 비금속 광물제품 제조업</industry>
+  </row>
+  <row>
+    <code>23991</code>
+    <industry>아스콘 제조업</industry>
+  </row>
+  <row>
+    <code>23992</code>
+    <industry>연마재 제조업</industry>
+  </row>
+  <row>
+    <code>23993</code>
+    <industry>비금속광물 분쇄물 생산업</industry>
+  </row>
+  <row>
+    <code>23994</code>
+    <industry>석면, 암면 및 유사제품 제조업</industry>
+  </row>
+  <row>
+    <code>23999</code>
+    <industry>그외 기타 분류안된 비금속 광물제품 제조업</industry>
+  </row>
+  <row>
+    <code>24</code>
+    <industry>1차 금속 제조업</industry>
+  </row>
+  <row>
+    <code>241</code>
+    <industry>1차 철강 제조업</industry>
+  </row>
+  <row>
+    <code>2411</code>
+    <industry>제철, 제강 및 합금철 제조업</industry>
+  </row>
+  <row>
+    <code>24111</code>
+    <industry>제철업</industry>
+  </row>
+  <row>
+    <code>24112</code>
+    <industry>제강업</industry>
+  </row>
+  <row>
+    <code>24113</code>
+    <industry>합금철 제조업</industry>
+  </row>
+  <row>
+    <code>24119</code>
+    <industry>기타 제철 및 제강업</industry>
+  </row>
+  <row>
+    <code>2412</code>
+    <industry>철강 압연, 압출 및 연신제품 제조업</industry>
+  </row>
+  <row>
+    <code>24121</code>
+    <industry>열간 압연 및 압출 제품 제조업</industry>
+  </row>
+  <row>
+    <code>24122</code>
+    <industry>냉간 압연 및 압출 제품 제조업</industry>
+  </row>
+  <row>
+    <code>24123</code>
+    <industry>철강선 제조업</industry>
+  </row>
+  <row>
+    <code>2413</code>
+    <industry>철강관 제조업</industry>
+  </row>
+  <row>
+    <code>24131</code>
+    <industry>주철관 제조업</industry>
+  </row>
+  <row>
+    <code>24132</code>
+    <industry>강관 제조업</industry>
+  </row>
+  <row>
+    <code>2419</code>
+    <industry>기타 1차 철강 제조업</industry>
+  </row>
+  <row>
+    <code>24191</code>
+    <industry>도금, 착색 및 기타 표면처리강재 제조업</industry>
+  </row>
+  <row>
+    <code>24199</code>
+    <industry>그외 기타 1차 철강 제조업</industry>
+  </row>
+  <row>
+    <code>242</code>
+    <industry>1차 비철금속 제조업</industry>
+  </row>
+  <row>
+    <code>2421</code>
+    <industry>비철금속 제련, 정련 및 합금 제조업</industry>
+  </row>
+  <row>
+    <code>24211</code>
+    <industry>동 제련, 정련 및 합금 제조업</industry>
+  </row>
+  <row>
+    <code>24212</code>
+    <industry>알루미늄 제련, 정련 및 합금 제조업</industry>
+  </row>
+  <row>
+    <code>24213</code>
+    <industry>연 및 아연 제련, 정련 및 합금 제조업</industry>
+  </row>
+  <row>
+    <code>24219</code>
+    <industry>기타 비철금속 제련, 정련 및 합금 제조업</industry>
+  </row>
+  <row>
+    <code>2422</code>
+    <industry>비철금속 압연, 압출 및 연신제품 제조업</industry>
+  </row>
+  <row>
+    <code>24221</code>
+    <industry>동 압연, 압출 및 연신제품 제조업</industry>
+  </row>
+  <row>
+    <code>24222</code>
+    <industry>알루미늄 압연, 압출 및 연신제품 제조업</industry>
+  </row>
+  <row>
+    <code>24229</code>
+    <industry>기타 비철금속 압연, 압출 및 연신제품 제조업</industry>
+  </row>
+  <row>
+    <code>2429</code>
+    <industry>기타 1차 비철금속 제조업</industry>
+  </row>
+  <row>
+    <code>24290</code>
+    <industry>기타 1차 비철금속 제조업</industry>
+  </row>
+  <row>
+    <code>243</code>
+    <industry>금속 주조업</industry>
+  </row>
+  <row>
+    <code>2431</code>
+    <industry>철강 주조업</industry>
+  </row>
+  <row>
+    <code>24311</code>
+    <industry>선철주물 주조업</industry>
+  </row>
+  <row>
+    <code>24312</code>
+    <industry>강주물 주조업</industry>
+  </row>
+  <row>
+    <code>2432</code>
+    <industry>비철금속 주조업</industry>
+  </row>
+  <row>
+    <code>24321</code>
+    <industry>알루미늄주물 주조업</industry>
+  </row>
+  <row>
+    <code>24322</code>
+    <industry>동주물 주조업</industry>
+  </row>
+  <row>
+    <code>24329</code>
+    <industry>기타 비철금속 주조업</industry>
+  </row>
+  <row>
+    <code>25</code>
+    <industry>금속가공제품 제조업;기계 및 가구 제외</industry>
+  </row>
+  <row>
+    <code>251</code>
+    <industry>구조용 금속제품, 탱크 및 증기발생기 제조업</industry>
+  </row>
+  <row>
+    <code>2511</code>
+    <industry>구조용 금속제품 제조업</industry>
+  </row>
+  <row>
+    <code>25111</code>
+    <industry>금속 문, 창, 셔터 및 관련제품 제조업</industry>
+  </row>
+  <row>
+    <code>25112</code>
+    <industry>구조용 금속판제품 및 금속공작물 제조업</industry>
+  </row>
+  <row>
+    <code>25113</code>
+    <industry>금속 조립구조재 제조업</industry>
+  </row>
+  <row>
+    <code>25119</code>
+    <industry>기타 구조용 금속제품 제조업</industry>
+  </row>
+  <row>
+    <code>2512</code>
+    <industry>금속탱크, 저장조 및 유사 용기 제조업</industry>
+  </row>
+  <row>
+    <code>25121</code>
+    <industry>중앙난방보일러 및 방열기 제조업</industry>
+  </row>
+  <row>
+    <code>25122</code>
+    <industry>설치용 금속탱크 및 저장용기 제조업</industry>
+  </row>
+  <row>
+    <code>2513</code>
+    <industry>핵반응기 및 증기발생기 제조업</industry>
+  </row>
+  <row>
+    <code>25130</code>
+    <industry>핵반응기 및 증기발생기 제조업</industry>
+  </row>
+  <row>
+    <code>252</code>
+    <industry>무기 및 총포탄 제조업</industry>
+  </row>
+  <row>
+    <code>2520</code>
+    <industry>무기 및 총포탄 제조업</industry>
+  </row>
+  <row>
+    <code>25200</code>
+    <industry>무기 및 총포탄 제조업</industry>
+  </row>
+  <row>
+    <code>259</code>
+    <industry>기타 금속가공제품 제조업</industry>
+  </row>
+  <row>
+    <code>2591</code>
+    <industry>금속 단조, 압형 및 분말야금 제품 제조업</industry>
+  </row>
+  <row>
+    <code>25911</code>
+    <industry>분말야금제품 제조업</industry>
+  </row>
+  <row>
+    <code>25912</code>
+    <industry>금속단조제품 제조업</industry>
+  </row>
+  <row>
+    <code>25913</code>
+    <industry>금속압형제품 제조업</industry>
+  </row>
+  <row>
+    <code>2592</code>
+    <industry>금속 열처리, 도금 및 기타 금속가공업</industry>
+  </row>
+  <row>
+    <code>25921</code>
+    <industry>금속 열처리업</industry>
+  </row>
+  <row>
+    <code>25922</code>
+    <industry>도금업</industry>
+  </row>
+  <row>
+    <code>25923</code>
+    <industry>도장 및 기타 피막처리업</industry>
+  </row>
+  <row>
+    <code>25924</code>
+    <industry>절삭가공 및 유사처리업</industry>
+  </row>
+  <row>
+    <code>25929</code>
+    <industry>그외 기타 금속가공업</industry>
+  </row>
+  <row>
+    <code>2593</code>
+    <industry>날붙이, 수공구 및 일반철물 제조업</industry>
+  </row>
+  <row>
+    <code>25931</code>
+    <industry>날붙이 제조업</industry>
+  </row>
+  <row>
+    <code>25932</code>
+    <industry>일반철물 제조업</industry>
+  </row>
+  <row>
+    <code>25933</code>
+    <industry>비동력식 수공구 제조업</industry>
+  </row>
+  <row>
+    <code>25934</code>
+    <industry>톱 및 호환성공구 제조업</industry>
+  </row>
+  <row>
+    <code>2594</code>
+    <industry>금속파스너, 스프링 및 금속선 가공제품 제조업</industry>
+  </row>
+  <row>
+    <code>25941</code>
+    <industry>금속파스너 및 나사제품 제조업</industry>
+  </row>
+  <row>
+    <code>25942</code>
+    <industry>금속 스프링 제조업</industry>
+  </row>
+  <row>
+    <code>25943</code>
+    <industry>금속선 가공제품 제조업</industry>
+  </row>
+  <row>
+    <code>2599</code>
+    <industry>그외 기타 금속가공제품 제조업</industry>
+  </row>
+  <row>
+    <code>25991</code>
+    <industry>금속캔 및 기타 포장용기 제조업</industry>
+  </row>
+  <row>
+    <code>25992</code>
+    <industry>금고 제조업</industry>
+  </row>
+  <row>
+    <code>25993</code>
+    <industry>수동식 식품 가공기기 및 금속주방용기 제조업</industry>
+  </row>
+  <row>
+    <code>25994</code>
+    <industry>금속위생용품 제조업</industry>
+  </row>
+  <row>
+    <code>25995</code>
+    <industry>금속표시판 제조업</industry>
+  </row>
+  <row>
+    <code>25999</code>
+    <industry>그외 기타 분류안된 금속가공제품 제조업</industry>
+  </row>
+  <row>
+    <code>26</code>
+    <industry>전자부품, 컴퓨터, 영상, 음향 및 통신장비 제조업</industry>
+  </row>
+  <row>
+    <code>261</code>
+    <industry>반도체 제조업</industry>
+  </row>
+  <row>
+    <code>2611</code>
+    <industry>전자집적회로 제조업</industry>
+  </row>
+  <row>
+    <code>26110</code>
+    <industry>전자집적회로 제조업</industry>
+  </row>
+  <row>
+    <code>2612</code>
+    <industry>다이오드, 트랜지스터 및 유사 반도체소자 제조업</industry>
+  </row>
+  <row>
+    <code>26120</code>
+    <industry>다이오드, 트랜지스터 및 유사 반도체소자 제조업</industry>
+  </row>
+  <row>
+    <code>262</code>
+    <industry>전자부품 제조업</industry>
+  </row>
+  <row>
+    <code>2621</code>
+    <industry>평판 디스플레이 제조업</industry>
+  </row>
+  <row>
+    <code>26211</code>
+    <industry>액정 평판 디스플레이 제조업</industry>
+  </row>
+  <row>
+    <code>26219</code>
+    <industry>플라즈마 및 기타 평판 디스플레이 제조업</industry>
+  </row>
+  <row>
+    <code>2622</code>
+    <industry>인쇄회로기판 및 전자부품 실장기판 제조업</industry>
+  </row>
+  <row>
+    <code>26221</code>
+    <industry>인쇄회로기판 제조업</industry>
+  </row>
+  <row>
+    <code>26222</code>
+    <industry>전자부품 실장기판 제조업</industry>
+  </row>
+  <row>
+    <code>2629</code>
+    <industry>기타 전자부품 제조업</industry>
+  </row>
+  <row>
+    <code>26291</code>
+    <industry>전자관 제조업</industry>
+  </row>
+  <row>
+    <code>26292</code>
+    <industry>전자축전기 제조업</industry>
+  </row>
+  <row>
+    <code>26293</code>
+    <industry>전자저항기 제조업</industry>
+  </row>
+  <row>
+    <code>26294</code>
+    <industry>전자카드 제조업</industry>
+  </row>
+  <row>
+    <code>26295</code>
+    <industry>전자코일, 변성기 및 기타 전자유도자 제조업</industry>
+  </row>
+  <row>
+    <code>26296</code>
+    <industry>전자접속카드 제조업</industry>
+  </row>
+  <row>
+    <code>26299</code>
+    <industry>그외 기타 전자부품 제조업</industry>
+  </row>
+  <row>
+    <code>263</code>
+    <industry>컴퓨터 및 주변장치 제조업</industry>
+  </row>
+  <row>
+    <code>2631</code>
+    <industry>컴퓨터 제조업</industry>
+  </row>
+  <row>
+    <code>26310</code>
+    <industry>컴퓨터 제조업</industry>
+  </row>
+  <row>
+    <code>2632</code>
+    <industry>기억장치 및 주변기기 제조업</industry>
+  </row>
+  <row>
+    <code>26321</code>
+    <industry>기억장치 제조업</industry>
+  </row>
+  <row>
+    <code>26322</code>
+    <industry>컴퓨터 모니터 제조업</industry>
+  </row>
+  <row>
+    <code>26323</code>
+    <industry>컴퓨터 프린터 제조업</industry>
+  </row>
+  <row>
+    <code>26329</code>
+    <industry>기타 주변기기 제조업</industry>
+  </row>
+  <row>
+    <code>264</code>
+    <industry>통신 및 방송 장비 제조업</industry>
+  </row>
+  <row>
+    <code>2641</code>
+    <industry>유선 통신장비 제조업</industry>
+  </row>
+  <row>
+    <code>26410</code>
+    <industry>유선 통신장비 제조업</industry>
+  </row>
+  <row>
+    <code>2642</code>
+    <industry>방송 및 무선 통신장비 제조업</industry>
+  </row>
+  <row>
+    <code>26421</code>
+    <industry>방송장비 제조업</industry>
+  </row>
+  <row>
+    <code>26422</code>
+    <industry>이동전화기 제조업</industry>
+  </row>
+  <row>
+    <code>26429</code>
+    <industry>기타 무선 통신장비 제조업</industry>
+  </row>
+  <row>
+    <code>265</code>
+    <industry>영상 및 음향기기 제조업</industry>
+  </row>
+  <row>
+    <code>2651</code>
+    <industry>텔레비전, 비디오 및 기타 영상기기 제조업</industry>
+  </row>
+  <row>
+    <code>26511</code>
+    <industry>텔레비전 제조업</industry>
+  </row>
+  <row>
+    <code>26519</code>
+    <industry>비디오 및 기타 영상기기 제조업</industry>
+  </row>
+  <row>
+    <code>2652</code>
+    <industry>오디오, 스피커 및 기타 음향기기 제조업</industry>
+  </row>
+  <row>
+    <code>26521</code>
+    <industry>라디오, 녹음 및 재생 기기 제조업</industry>
+  </row>
+  <row>
+    <code>26529</code>
+    <industry>기타 음향기기 제조업</industry>
+  </row>
+  <row>
+    <code>266</code>
+    <industry>마그네틱 및 광학 매체 제조업</industry>
+  </row>
+  <row>
+    <code>2660</code>
+    <industry>마그네틱 및 광학 매체 제조업</industry>
+  </row>
+  <row>
+    <code>26600</code>
+    <industry>마그네틱 및 광학 매체 제조업</industry>
+  </row>
+  <row>
+    <code>27</code>
+    <industry>의료, 정밀, 광학기기 및 시계 제조업</industry>
+  </row>
+  <row>
+    <code>271</code>
+    <industry>의료용 기기 제조업</industry>
+  </row>
+  <row>
+    <code>2711</code>
+    <industry>방사선장치 및 전기식 진단기기 제조업</industry>
+  </row>
+  <row>
+    <code>27111</code>
+    <industry>방사선 장치 제조업</industry>
+  </row>
+  <row>
+    <code>27112</code>
+    <industry>전기식 진단 및 요법 기기 제조업</industry>
+  </row>
+  <row>
+    <code>2719</code>
+    <industry>기타 의료용 기기 제조업</industry>
+  </row>
+  <row>
+    <code>27191</code>
+    <industry>치과용 기기 제조업</industry>
+  </row>
+  <row>
+    <code>27192</code>
+    <industry>정형외과용 및 신체보정용 기기 제조업</industry>
+  </row>
+  <row>
+    <code>27193</code>
+    <industry>의료용 가구 제조업</industry>
+  </row>
+  <row>
+    <code>27199</code>
+    <industry>그외 기타 의료용 기기 제조업</industry>
+  </row>
+  <row>
+    <code>272</code>
+    <industry>측정, 시험, 항해, 제어 및 기타 정밀기기 제조업; 광학기기 제외</industry>
+  </row>
+  <row>
+    <code>2721</code>
+    <industry>측정, 시험, 항해, 제어 및 기타 정밀기기 제조업</industry>
+  </row>
+  <row>
+    <code>27211</code>
+    <industry>항행용 무선기기 및 측량기구 제조업</industry>
+  </row>
+  <row>
+    <code>27212</code>
+    <industry>전자기 측정, 시험 및 분석기구 제조업</industry>
+  </row>
+  <row>
+    <code>27213</code>
+    <industry>물질 검사, 측정 및 분석기구 제조업</industry>
+  </row>
+  <row>
+    <code>27214</code>
+    <industry>속도계 및 적산계기 제조업</industry>
+  </row>
+  <row>
+    <code>27215</code>
+    <industry>기기용 자동측정 및 제어장치 제조업</industry>
+  </row>
+  <row>
+    <code>27216</code>
+    <industry>산업처리공정 제어장비 제조업</industry>
+  </row>
+  <row>
+    <code>27219</code>
+    <industry>기타 측정, 시험, 항해, 제어 및 정밀기기 제조업</industry>
+  </row>
+  <row>
+    <code>273</code>
+    <industry>안경, 사진장비 및 기타 광학기기 제조업</industry>
+  </row>
+  <row>
+    <code>2731</code>
+    <industry>안경 제조업</industry>
+  </row>
+  <row>
+    <code>27310</code>
+    <industry>안경 제조업</industry>
+  </row>
+  <row>
+    <code>2732</code>
+    <industry>광학기기 및 사진장비 제조업</industry>
+  </row>
+  <row>
+    <code>27321</code>
+    <industry>광학렌즈 및 광학요소 제조업</industry>
+  </row>
+  <row>
+    <code>27322</code>
+    <industry>사진기, 영사기 및 관련장비 제조업</industry>
+  </row>
+  <row>
+    <code>27329</code>
+    <industry>기타 광학기기 제조업</industry>
+  </row>
+  <row>
+    <code>274</code>
+    <industry>시계 및 시계부품 제조업</industry>
+  </row>
+  <row>
+    <code>2740</code>
+    <industry>시계 및 시계부품 제조업</industry>
+  </row>
+  <row>
+    <code>27401</code>
+    <industry>시계제조업</industry>
+  </row>
+  <row>
+    <code>27402</code>
+    <industry>시계부품 제조업</industry>
+  </row>
+  <row>
+    <code>28</code>
+    <industry>전기장비 제조업</industry>
+  </row>
+  <row>
+    <code>281</code>
+    <industry>전동기, 발전기 및 전기 변환 · 공급 · 제어 장치 제조업</industry>
+  </row>
+  <row>
+    <code>2811</code>
+    <industry>전동기, 발전기 및 전기변환장치 제조업</industry>
+  </row>
+  <row>
+    <code>28111</code>
+    <industry>전동기 및 발전기 제조업</industry>
+  </row>
+  <row>
+    <code>28112</code>
+    <industry>변압기 제조업</industry>
+  </row>
+  <row>
+    <code>28113</code>
+    <industry>방전램프용 안정기 제조업</industry>
+  </row>
+  <row>
+    <code>28119</code>
+    <industry>기타 발전기 및 전기변환장치 제조업</industry>
+  </row>
+  <row>
+    <code>2812</code>
+    <industry>전기공급 및 전기제어 장치 제조업</industry>
+  </row>
+  <row>
+    <code>28121</code>
+    <industry>전기회로 개폐, 보호 및 접속 장치 제조업</industry>
+  </row>
+  <row>
+    <code>28122</code>
+    <industry>배전반 및 전기자동제어반 제조업</industry>
+  </row>
+  <row>
+    <code>282</code>
+    <industry>일차전지 및 축전지 제조업</industry>
+  </row>
+  <row>
+    <code>2820</code>
+    <industry>일차전지 및 축전지 제조업</industry>
+  </row>
+  <row>
+    <code>28201</code>
+    <industry>일차전지 제조업</industry>
+  </row>
+  <row>
+    <code>28202</code>
+    <industry>축전지 제조업</industry>
+  </row>
+  <row>
+    <code>283</code>
+    <industry>절연선 및 케이블 제조업</industry>
+  </row>
+  <row>
+    <code>2830</code>
+    <industry>절연선 및 케이블 제조업</industry>
+  </row>
+  <row>
+    <code>28301</code>
+    <industry>광섬유 케이블 제조업</industry>
+  </row>
+  <row>
+    <code>28302</code>
+    <industry>기타 절연선 및 케이블 제조업</industry>
+  </row>
+  <row>
+    <code>28303</code>
+    <industry>절연 코드세트 및 기타 도체 제조업</industry>
+  </row>
+  <row>
+    <code>284</code>
+    <industry>전구 및 조명장치 제조업</industry>
+  </row>
+  <row>
+    <code>2841</code>
+    <industry>전구 및 램프 제조업</industry>
+  </row>
+  <row>
+    <code>28410</code>
+    <industry>전구 및 램프 제조업</industry>
+  </row>
+  <row>
+    <code>2842</code>
+    <industry>조명장치 제조업</industry>
+  </row>
+  <row>
+    <code>28421</code>
+    <industry>운송장비용 조명장치 제조업</industry>
+  </row>
+  <row>
+    <code>28422</code>
+    <industry>일반용 전기 조명장치 제조업</industry>
+  </row>
+  <row>
+    <code>28423</code>
+    <industry>전시 및 광고용 조명장치 제조업</industry>
+  </row>
+  <row>
+    <code>28429</code>
+    <industry>기타 조명장치 제조업</industry>
+  </row>
+  <row>
+    <code>285</code>
+    <industry>가정용 기기 제조업</industry>
+  </row>
+  <row>
+    <code>2851</code>
+    <industry>가정용 전기기기 제조업</industry>
+  </row>
+  <row>
+    <code>28511</code>
+    <industry>주방용 전기기기 제조업</industry>
+  </row>
+  <row>
+    <code>28512</code>
+    <industry>가정용 전기 난방기기 제조업</industry>
+  </row>
+  <row>
+    <code>28519</code>
+    <industry>기타 가정용 전기기기 제조업</industry>
+  </row>
+  <row>
+    <code>2852</code>
+    <industry>가정용 비전기식 조리 및 난방 기구 제조업</industry>
+  </row>
+  <row>
+    <code>28520</code>
+    <industry>가정용 비전기식 조리 및 난방 기구 제조업</industry>
+  </row>
+  <row>
+    <code>289</code>
+    <industry>기타 전기장비 제조업</industry>
+  </row>
+  <row>
+    <code>2890</code>
+    <industry>기타 전기장비 제조업</industry>
+  </row>
+  <row>
+    <code>28901</code>
+    <industry>전기경보 및 신호장치 제조업</industry>
+  </row>
+  <row>
+    <code>28902</code>
+    <industry>전기용 탄소제품 및 절연제품 제조업</industry>
+  </row>
+  <row>
+    <code>28903</code>
+    <industry>교통 신호장치 제조업</industry>
+  </row>
+  <row>
+    <code>28909</code>
+    <industry>그외 기타 전기장비 제조업</industry>
+  </row>
+  <row>
+    <code>29</code>
+    <industry>기타 기계 및 장비 제조업</industry>
+  </row>
+  <row>
+    <code>291</code>
+    <industry>일반 목적용 기계 제조업</industry>
+  </row>
+  <row>
+    <code>2911</code>
+    <industry>내연기관 및 터빈 제조업; 항공기용 및 차량용 제외</industry>
+  </row>
+  <row>
+    <code>29111</code>
+    <industry>내연기관 제조업</industry>
+  </row>
+  <row>
+    <code>29119</code>
+    <industry>기타 기관 및 터빈 제조업</industry>
+  </row>
+  <row>
+    <code>2912</code>
+    <industry>유압기기 제조업</industry>
+  </row>
+  <row>
+    <code>29120</code>
+    <industry>유압기기 제조업</industry>
+  </row>
+  <row>
+    <code>2913</code>
+    <industry>펌프 및 압축기 제조업; 탭, 밸브 및 유사장치 제조 포함</industry>
+  </row>
+  <row>
+    <code>29131</code>
+    <industry>액체 펌프 제조업</industry>
+  </row>
+  <row>
+    <code>29132</code>
+    <industry>기체 펌프 및 압축기 제조업</industry>
+  </row>
+  <row>
+    <code>29133</code>
+    <industry>탭, 밸브 및 유사장치 제조업</industry>
+  </row>
+  <row>
+    <code>2914</code>
+    <industry>베어링, 기어 및 동력전달장치 제조업</industry>
+  </row>
+  <row>
+    <code>29141</code>
+    <industry>볼베어링 및 롤러베어링 제조업</industry>
+  </row>
+  <row>
+    <code>29142</code>
+    <industry>기어 및 동력전달장치 제조업</industry>
+  </row>
+  <row>
+    <code>2915</code>
+    <industry>산업용 오븐, 노 및 노용 버너 제조업</industry>
+  </row>
+  <row>
+    <code>29150</code>
+    <industry>산업용 오븐, 노 및 노용 버너 제조업</industry>
+  </row>
+  <row>
+    <code>2916</code>
+    <industry>산업용 트럭, 승강기 및 물품취급장비 제조업</industry>
+  </row>
+  <row>
+    <code>29161</code>
+    <industry>산업용 트럭 및 적재기 제조업</industry>
+  </row>
+  <row>
+    <code>29162</code>
+    <industry>승강기 제조업</industry>
+  </row>
+  <row>
+    <code>29163</code>
+    <industry>컨베이어장치 제조업</industry>
+  </row>
+  <row>
+    <code>29169</code>
+    <industry>기타 물품취급장비 제조업</industry>
+  </row>
+  <row>
+    <code>2917</code>
+    <industry>냉각, 공기조화, 여과, 증류 및 가스발생기 제조업</industry>
+  </row>
+  <row>
+    <code>29171</code>
+    <industry>산업용 냉장 및 냉동 장비 제조업</industry>
+  </row>
+  <row>
+    <code>29172</code>
+    <industry>공기조화장치 제조업</industry>
+  </row>
+  <row>
+    <code>29173</code>
+    <industry>산업용 송풍기 및 배기장치 제조업</industry>
+  </row>
+  <row>
+    <code>29174</code>
+    <industry>기체 여과기 제조업</industry>
+  </row>
+  <row>
+    <code>29175</code>
+    <industry>액체 여과기 제조업</industry>
+  </row>
+  <row>
+    <code>29176</code>
+    <industry>증류기,열교환기 및 가스발생기 제조업</industry>
+  </row>
+  <row>
+    <code>2918</code>
+    <industry>사무용 기계 및 장비 제조업</industry>
+  </row>
+  <row>
+    <code>29180</code>
+    <industry>사무용 기계 및 장비 제조업</industry>
+  </row>
+  <row>
+    <code>2919</code>
+    <industry>기타 일반 목적용 기계 제조업</industry>
+  </row>
+  <row>
+    <code>29191</code>
+    <industry>일반저울 제조업</industry>
+  </row>
+  <row>
+    <code>29192</code>
+    <industry>용기세척, 포장 및 충전기 제조업</industry>
+  </row>
+  <row>
+    <code>29193</code>
+    <industry>자동판매기 및 화폐교환기 제조업</industry>
+  </row>
+  <row>
+    <code>29194</code>
+    <industry>분사기 및 소화기  제조업</industry>
+  </row>
+  <row>
+    <code>29195</code>
+    <industry>동력식 수지공구 제조업</industry>
+  </row>
+  <row>
+    <code>29199</code>
+    <industry>그외 기타 일반목적용 기계 제조업</industry>
+  </row>
+  <row>
+    <code>292</code>
+    <industry>특수 목적용 기계 제조업</industry>
+  </row>
+  <row>
+    <code>2921</code>
+    <industry>농업 및 임업용 기계 제조업</industry>
+  </row>
+  <row>
+    <code>29210</code>
+    <industry>농업 및 임업용 기계 제조업</industry>
+  </row>
+  <row>
+    <code>2922</code>
+    <industry>가공공작기계 제조업</industry>
+  </row>
+  <row>
+    <code>29221</code>
+    <industry>전자응용 공작기계 제조업</industry>
+  </row>
+  <row>
+    <code>29222</code>
+    <industry>금속 절삭기계 제조업</industry>
+  </row>
+  <row>
+    <code>29223</code>
+    <industry>금속 성형기계 제조업</industry>
+  </row>
+  <row>
+    <code>29229</code>
+    <industry>기타 가공공작기계 제조업</industry>
+  </row>
+  <row>
+    <code>2923</code>
+    <industry>금속주조 및 기타 야금용 기계 제조업</industry>
+  </row>
+  <row>
+    <code>29230</code>
+    <industry>금속 주조 및 기타 야금용 기계 제조업</industry>
+  </row>
+  <row>
+    <code>2924</code>
+    <industry>건설 및 광산용 기계장비 제조업</industry>
+  </row>
+  <row>
+    <code>29241</code>
+    <industry>토목공사 및 유사용 기계장비 제조업</industry>
+  </row>
+  <row>
+    <code>29242</code>
+    <industry>광물처리 및 취급장비 제조업</industry>
+  </row>
+  <row>
+    <code>2925</code>
+    <industry>음·식료품 및 담배 가공기계 제조업</industry>
+  </row>
+  <row>
+    <code>29250</code>
+    <industry>음·식료품 및 담배 가공기계 제조업</industry>
+  </row>
+  <row>
+    <code>2926</code>
+    <industry>섬유, 의복 및 가죽 가공기계 제조업</industry>
+  </row>
+  <row>
+    <code>29261</code>
+    <industry>산업용 섬유세척, 염색, 정리 및 가공 기계 제조업</industry>
+  </row>
+  <row>
+    <code>29269</code>
+    <industry>기타 섬유, 의복 및 가죽 가공 기계 제조업</industry>
+  </row>
+  <row>
+    <code>2927</code>
+    <industry>반도체 및 평판디스플레이 제조용 기계 제조업</industry>
+  </row>
+  <row>
+    <code>29271</code>
+    <industry>반도체 제조용 기계 제조업</industry>
+  </row>
+  <row>
+    <code>29272</code>
+    <industry>평판디스플레이 제조용 기계 제조업</industry>
+  </row>
+  <row>
+    <code>2928</code>
+    <industry>산업용 로봇 제조업</industry>
+  </row>
+  <row>
+    <code>29280</code>
+    <industry>산업용 로봇 제조업</industry>
+  </row>
+  <row>
+    <code>2929</code>
+    <industry>기타 특수목적용 기계 제조업</industry>
+  </row>
+  <row>
+    <code>29291</code>
+    <industry>펄프 및 종이 가공용 기계 제조업</industry>
+  </row>
+  <row>
+    <code>29292</code>
+    <industry>고무, 화학섬유 및 플라스틱 성형기 제조업</industry>
+  </row>
+  <row>
+    <code>29293</code>
+    <industry>인쇄 및 제책용 기계 제조업</industry>
+  </row>
+  <row>
+    <code>29294</code>
+    <industry>주형 및 금형 제조업</industry>
+  </row>
+  <row>
+    <code>29299</code>
+    <industry>그외 기타 특수목적용 기계 제조업</industry>
+  </row>
+  <row>
+    <code>30</code>
+    <industry>자동차 및 트레일러 제조업</industry>
+  </row>
+  <row>
+    <code>301</code>
+    <industry>자동차용 엔진 및 자동차 제조업</industry>
+  </row>
+  <row>
+    <code>3011</code>
+    <industry>자동차용 엔진 제조업</industry>
+  </row>
+  <row>
+    <code>30110</code>
+    <industry>자동차용 엔진 제조업</industry>
+  </row>
+  <row>
+    <code>3012</code>
+    <industry>자동차 제조업</industry>
+  </row>
+  <row>
+    <code>30121</code>
+    <industry>승용차 및 기타 여객용 자동차 제조업</industry>
+  </row>
+  <row>
+    <code>30122</code>
+    <industry>화물자동차 및 특수목적용 자동차 제조업</industry>
+  </row>
+  <row>
+    <code>302</code>
+    <industry>자동차 차체 및 트레일러 제조업</industry>
+  </row>
+  <row>
+    <code>3020</code>
+    <industry>자동차 차체 및 트레일러 제조업</industry>
+  </row>
+  <row>
+    <code>30201</code>
+    <industry>차체 및 특장차 제조업</industry>
+  </row>
+  <row>
+    <code>30202</code>
+    <industry>트레일러 및 세미트레일러 제조업</industry>
+  </row>
+  <row>
+    <code>30203</code>
+    <industry>운송용 컨테이너 제조업</industry>
+  </row>
+  <row>
+    <code>303</code>
+    <industry>자동차 부품 제조업</industry>
+  </row>
+  <row>
+    <code>3031</code>
+    <industry>자동차 엔진용 부품 제조업</industry>
+  </row>
+  <row>
+    <code>30310</code>
+    <industry>자동차 엔진용 부품 제조업</industry>
+  </row>
+  <row>
+    <code>3032</code>
+    <industry>자동차 차체용 부품 제조업</industry>
+  </row>
+  <row>
+    <code>30320</code>
+    <industry>자동차 차체용 부품 제조업</industry>
+  </row>
+  <row>
+    <code>3039</code>
+    <industry>기타 자동차 부품 제조업</industry>
+  </row>
+  <row>
+    <code>30391</code>
+    <industry>자동차용 동력전달장치 제조업</industry>
+  </row>
+  <row>
+    <code>30392</code>
+    <industry>자동차용 전기장치 제조업</industry>
+  </row>
+  <row>
+    <code>30399</code>
+    <industry>그외 기타 자동차 부품 제조업</industry>
+  </row>
+  <row>
+    <code>31</code>
+    <industry>기타 운송장비 제조업</industry>
+  </row>
+  <row>
+    <code>311</code>
+    <industry>선박 및 보트 건조업</industry>
+  </row>
+  <row>
+    <code>3111</code>
+    <industry>선박 건조업</industry>
+  </row>
+  <row>
+    <code>31111</code>
+    <industry>강선 건조업</industry>
+  </row>
+  <row>
+    <code>31112</code>
+    <industry>합성수지선 건조업</industry>
+  </row>
+  <row>
+    <code>31113</code>
+    <industry>비철금속 선박 및 기타 항해용 선박 건조업</industry>
+  </row>
+  <row>
+    <code>31114</code>
+    <industry>선박 구성부분품 제조업</industry>
+  </row>
+  <row>
+    <code>31119</code>
+    <industry>기타 선박 건조업</industry>
+  </row>
+  <row>
+    <code>3112</code>
+    <industry>오락 및 스포츠용 보트 건조업</industry>
+  </row>
+  <row>
+    <code>31120</code>
+    <industry>오락 및 스포츠용 보트 건조업</industry>
+  </row>
+  <row>
+    <code>312</code>
+    <industry>철도장비 제조업</industry>
+  </row>
+  <row>
+    <code>3120</code>
+    <industry>철도장비 제조업</industry>
+  </row>
+  <row>
+    <code>31201</code>
+    <industry>기관차 및 기타 철도차량 제조업</industry>
+  </row>
+  <row>
+    <code>31202</code>
+    <industry>철도차량부품 및 관련장치물 제조업</industry>
+  </row>
+  <row>
+    <code>313</code>
+    <industry>항공기,우주선 및 부품 제조업</industry>
+  </row>
+  <row>
+    <code>3131</code>
+    <industry>항공기,우주선 및 보조장치 제조업</industry>
+  </row>
+  <row>
+    <code>31310</code>
+    <industry>항공기,우주선 및 보조장치 제조업</industry>
+  </row>
+  <row>
+    <code>3132</code>
+    <industry>항공기용 엔진 및 부품 제조업</industry>
+  </row>
+  <row>
+    <code>31321</code>
+    <industry>항공기용 엔진 제조업</industry>
+  </row>
+  <row>
+    <code>31322</code>
+    <industry>항공기용 부품 제조업</industry>
+  </row>
+  <row>
+    <code>319</code>
+    <industry>그외 기타 운송장비 제조업</industry>
+  </row>
+  <row>
+    <code>3191</code>
+    <industry>전투용 차량 제조업</industry>
+  </row>
+  <row>
+    <code>31910</code>
+    <industry>전투용 차량 제조업</industry>
+  </row>
+  <row>
+    <code>3192</code>
+    <industry>모터사이클 제조업</industry>
+  </row>
+  <row>
+    <code>31920</code>
+    <industry>모터사이클 제조업</industry>
+  </row>
+  <row>
+    <code>3199</code>
+    <industry>그외 기타 분류안된 운송장비 제조업</industry>
+  </row>
+  <row>
+    <code>31991</code>
+    <industry>자전거 및 환자용 차량 제조업</industry>
+  </row>
+  <row>
+    <code>31999</code>
+    <industry>그외 기타 달리 분류되지 않은 운송장비 제조업</industry>
+  </row>
+  <row>
+    <code>32</code>
+    <industry>가구 제조업</industry>
+  </row>
+  <row>
+    <code>320</code>
+    <industry>가구 제조업</industry>
+  </row>
+  <row>
+    <code>3201</code>
+    <industry>침대 및 내장가구 제조업</industry>
+  </row>
+  <row>
+    <code>32011</code>
+    <industry>운송장비용 의자 제조업</industry>
+  </row>
+  <row>
+    <code>32012</code>
+    <industry>매트리스 및 침대 제조업</industry>
+  </row>
+  <row>
+    <code>32019</code>
+    <industry>소파 및 기타 내장가구 제조업</industry>
+  </row>
+  <row>
+    <code>3202</code>
+    <industry>목재가구 제조업</industry>
+  </row>
+  <row>
+    <code>32021</code>
+    <industry>주방용 및 음식점용 목재가구 제조업</industry>
+  </row>
+  <row>
+    <code>32022</code>
+    <industry>나전칠기가구 제조업</industry>
+  </row>
+  <row>
+    <code>32029</code>
+    <industry>기타 목재가구 제조업</industry>
+  </row>
+  <row>
+    <code>3209</code>
+    <industry>기타 가구 제조업</industry>
+  </row>
+  <row>
+    <code>32091</code>
+    <industry>금속 가구 제조업</industry>
+  </row>
+  <row>
+    <code>32099</code>
+    <industry>그외 기타 가구 제조업</industry>
+  </row>
+  <row>
+    <code>33</code>
+    <industry>기타 제품 제조업</industry>
+  </row>
+  <row>
+    <code>331</code>
+    <industry>귀금속 및 장신용품 제조업</industry>
+  </row>
+  <row>
+    <code>3311</code>
+    <industry>귀금속 및 관련제품 제조업</industry>
+  </row>
+  <row>
+    <code>33110</code>
+    <industry>귀금속 및 관련제품 제조업</industry>
+  </row>
+  <row>
+    <code>3312</code>
+    <industry>모조 귀금속 및 모조 장신용품 제조업</industry>
+  </row>
+  <row>
+    <code>33120</code>
+    <industry>모조 귀금속 및 모조 장신용품 제조업</industry>
+  </row>
+  <row>
+    <code>332</code>
+    <industry>악기 제조업</industry>
+  </row>
+  <row>
+    <code>3320</code>
+    <industry>악기제조업</industry>
+  </row>
+  <row>
+    <code>33201</code>
+    <industry>피아노 제조업</industry>
+  </row>
+  <row>
+    <code>33202</code>
+    <industry>현악기 제조업</industry>
+  </row>
+  <row>
+    <code>33203</code>
+    <industry>전자악기 제조업</industry>
+  </row>
+  <row>
+    <code>33204</code>
+    <industry>국악기 제조업</industry>
+  </row>
+  <row>
+    <code>33209</code>
+    <industry>기타 악기 제조업</industry>
+  </row>
+  <row>
+    <code>333</code>
+    <industry>운동 및 경기용구 제조업</industry>
+  </row>
+  <row>
+    <code>3330</code>
+    <industry>운동 및 경기용구 제조업</industry>
+  </row>
+  <row>
+    <code>33301</code>
+    <industry>체조, 육상 및 체력단련용 장비 제조업</industry>
+  </row>
+  <row>
+    <code>33302</code>
+    <industry>놀이터용 장비 제조업</industry>
+  </row>
+  <row>
+    <code>33303</code>
+    <industry>낚시 및 수렵용구 제조업</industry>
+  </row>
+  <row>
+    <code>33309</code>
+    <industry>기타 운동 및 경기용구 제조업</industry>
+  </row>
+  <row>
+    <code>334</code>
+    <industry>인형,장난감 및 오락용품 제조업</industry>
+  </row>
+  <row>
+    <code>3340</code>
+    <industry>인형,장난감 및 오락용품 제조업</industry>
+  </row>
+  <row>
+    <code>33401</code>
+    <industry>인형 및 장난감 제조업</industry>
+  </row>
+  <row>
+    <code>33402</code>
+    <industry>영상게임기 제조업</industry>
+  </row>
+  <row>
+    <code>33409</code>
+    <industry>기타 오락용품 제조업</industry>
+  </row>
+  <row>
+    <code>339</code>
+    <industry>그외 기타 제품 제조업</industry>
+  </row>
+  <row>
+    <code>3391</code>
+    <industry>간판 및 광고물 제조업</industry>
+  </row>
+  <row>
+    <code>33910</code>
+    <industry>간판 및 광고물 제조업</industry>
+  </row>
+  <row>
+    <code>3392</code>
+    <industry>사무 및 회화용품 제조업</industry>
+  </row>
+  <row>
+    <code>33920</code>
+    <industry>사무 및 회화용품 제조업</industry>
+  </row>
+  <row>
+    <code>3393</code>
+    <industry>가발, 장식용품 및 교시용 모형 제조업</industry>
+  </row>
+  <row>
+    <code>33931</code>
+    <industry>가발 및 유사 제품 제조업</industry>
+  </row>
+  <row>
+    <code>33932</code>
+    <industry>조화 및 모조장식품 제조업</industry>
+  </row>
+  <row>
+    <code>33933</code>
+    <industry>표구 및 전사처리 제조업</industry>
+  </row>
+  <row>
+    <code>33934</code>
+    <industry>교시용 모형 제조업</industry>
+  </row>
+  <row>
+    <code>3399</code>
+    <industry>그외 기타 분류안된 제품 제조업</industry>
+  </row>
+  <row>
+    <code>33991</code>
+    <industry>우산 및 지팡이 제조업</industry>
+  </row>
+  <row>
+    <code>33992</code>
+    <industry>단추 및 유사 파스너 제조업</industry>
+  </row>
+  <row>
+    <code>33993</code>
+    <industry>라이터, 연소물 및 흡연용품 제조업</industry>
+  </row>
+  <row>
+    <code>33994</code>
+    <industry>비 및 솔 제조업</industry>
+  </row>
+  <row>
+    <code>33999</code>
+    <industry>그외 기타 달리 분류되지 않은 제품 제조업</industry>
+  </row>
+  <row>
+    <code>D</code>
+    <industry>전기, 가스, 증기 및 수도사업 (35 ~ 36)</industry>
+  </row>
+  <row>
+    <code>35</code>
+    <industry>전기, 가스, 증기 및 공기조절 공급업</industry>
+  </row>
+  <row>
+    <code>351</code>
+    <industry>전기업</industry>
+  </row>
+  <row>
+    <code>3511</code>
+    <industry>발전업</industry>
+  </row>
+  <row>
+    <code>35111</code>
+    <industry>원자력 발전업</industry>
+  </row>
+  <row>
+    <code>35112</code>
+    <industry>수력 발전업</industry>
+  </row>
+  <row>
+    <code>35113</code>
+    <industry>화력 발전업</industry>
+  </row>
+  <row>
+    <code>35119</code>
+    <industry>기타 발전업</industry>
+  </row>
+  <row>
+    <code>3512</code>
+    <industry>송전 및 배전업</industry>
+  </row>
+  <row>
+    <code>35120</code>
+    <industry>송전 및 배전업</industry>
+  </row>
+  <row>
+    <code>352</code>
+    <industry>가스 제조 및 배관공급업</industry>
+  </row>
+  <row>
+    <code>3520</code>
+    <industry>가스 제조 및 배관공급업</industry>
+  </row>
+  <row>
+    <code>35200</code>
+    <industry>가스 제조 및 배관공급업</industry>
+  </row>
+  <row>
+    <code>353</code>
+    <industry>증기, 냉온수 및 공기조절 공급업</industry>
+  </row>
+  <row>
+    <code>3530</code>
+    <industry>증기, 냉온수 및 공기조절 공급업</industry>
+  </row>
+  <row>
+    <code>35300</code>
+    <industry>증기, 냉온수 및 공기조절 공급업</industry>
+  </row>
+  <row>
+    <code>36</code>
+    <industry>수도사업</industry>
+  </row>
+  <row>
+    <code>360</code>
+    <industry>수도사업</industry>
+  </row>
+  <row>
+    <code>3601</code>
+    <industry>생활용수 공급업</industry>
+  </row>
+  <row>
+    <code>36010</code>
+    <industry>생활용수 공급업</industry>
+  </row>
+  <row>
+    <code>3602</code>
+    <industry>산업용수 공급업</industry>
+  </row>
+  <row>
+    <code>36020</code>
+    <industry>산업용수 공급업</industry>
+  </row>
+  <row>
+    <code>E</code>
+    <industry>하수 · 폐기물 처리, 원료재생 및 환경복원업 (37 ~ 39)</industry>
+  </row>
+  <row>
+    <code>37</code>
+    <industry>하수, 폐수 및 분뇨 처리업</industry>
+  </row>
+  <row>
+    <code>370</code>
+    <industry>하수, 폐수 및 분뇨 처리업</industry>
+  </row>
+  <row>
+    <code>3701</code>
+    <industry>하수 및 폐수 처리업</industry>
+  </row>
+  <row>
+    <code>37011</code>
+    <industry>하수 처리업</industry>
+  </row>
+  <row>
+    <code>37012</code>
+    <industry>폐수 처리업</industry>
+  </row>
+  <row>
+    <code>3702</code>
+    <industry>분뇨 및 축산분뇨 처리업</industry>
+  </row>
+  <row>
+    <code>37021</code>
+    <industry>분뇨 처리업</industry>
+  </row>
+  <row>
+    <code>37022</code>
+    <industry>축산분뇨 처리업</industry>
+  </row>
+  <row>
+    <code>38</code>
+    <industry>폐기물 수집운반, 처리 및 원료재생업</industry>
+  </row>
+  <row>
+    <code>381</code>
+    <industry>폐기물 수집운반업</industry>
+  </row>
+  <row>
+    <code>3811</code>
+    <industry>지정외 폐기물 수집운반업</industry>
+  </row>
+  <row>
+    <code>38110</code>
+    <industry>지정외 폐기물 수집운반업</industry>
+  </row>
+  <row>
+    <code>3812</code>
+    <industry>지정 폐기물 수집운반업</industry>
+  </row>
+  <row>
+    <code>38120</code>
+    <industry>지정 폐기물 수집운반업</industry>
+  </row>
+  <row>
+    <code>3813</code>
+    <industry>건설 폐기물 수집운반업</industry>
+  </row>
+  <row>
+    <code>38130</code>
+    <industry>건설 폐기물 수집운반업</industry>
+  </row>
+  <row>
+    <code>382</code>
+    <industry>폐기물 처리업</industry>
+  </row>
+  <row>
+    <code>3821</code>
+    <industry>지정외 폐기물 처리업</industry>
+  </row>
+  <row>
+    <code>38210</code>
+    <industry>지정외 폐기물 처리업</industry>
+  </row>
+  <row>
+    <code>3822</code>
+    <industry>지정 폐기물 처리업</industry>
+  </row>
+  <row>
+    <code>38220</code>
+    <industry>지정 폐기물 처리업</industry>
+  </row>
+  <row>
+    <code>3823</code>
+    <industry>건설 폐기물 처리업</industry>
+  </row>
+  <row>
+    <code>38230</code>
+    <industry>건설 폐기물 처리업</industry>
+  </row>
+  <row>
+    <code>3824</code>
+    <industry>방사성 폐기물 수집운반 및 처리업</industry>
+  </row>
+  <row>
+    <code>38240</code>
+    <industry>방사성 폐기물 수집운반 및 처리업</industry>
+  </row>
+  <row>
+    <code>383</code>
+    <industry>금속 및 비금속 원료 재생업</industry>
+  </row>
+  <row>
+    <code>3830</code>
+    <industry>금속 및 비금속 원료 재생업</industry>
+  </row>
+  <row>
+    <code>38301</code>
+    <industry>금속원료 재생업</industry>
+  </row>
+  <row>
+    <code>38302</code>
+    <industry>비금속원료 재생업</industry>
+  </row>
+  <row>
+    <code>39</code>
+    <industry>환경 정화 및 복원업</industry>
+  </row>
+  <row>
+    <code>390</code>
+    <industry>환경 정화 및 복원업</industry>
+  </row>
+  <row>
+    <code>3900</code>
+    <industry>환경 정화 및 복원업</industry>
+  </row>
+  <row>
+    <code>39001</code>
+    <industry>토양 및 지하수 정화업</industry>
+  </row>
+  <row>
+    <code>39009</code>
+    <industry>기타 환경 정화 및 복원업</industry>
+  </row>
+  <row>
+    <code>F</code>
+    <industry>건설업 (41 ~ 42)</industry>
+  </row>
+  <row>
+    <code>41</code>
+    <industry>종합 건설업</industry>
+  </row>
+  <row>
+    <code>411</code>
+    <industry>건물 건설업</industry>
+  </row>
+  <row>
+    <code>4111</code>
+    <industry>주거용 건물 건설업</industry>
+  </row>
+  <row>
+    <code>41111</code>
+    <industry>단독 및 연립주택 건설업</industry>
+  </row>
+  <row>
+    <code>41112</code>
+    <industry>아파트 건설업</industry>
+  </row>
+  <row>
+    <code>4112</code>
+    <industry>비주거용 건물 건설업</industry>
+  </row>
+  <row>
+    <code>41121</code>
+    <industry>사무 및 상업용 건물 건설업</industry>
+  </row>
+  <row>
+    <code>41122</code>
+    <industry>공업 및 유사 산업용 건물 건설업</industry>
+  </row>
+  <row>
+    <code>41129</code>
+    <industry>기타 비주거용 건물 건설업</industry>
+  </row>
+  <row>
+    <code>412</code>
+    <industry>토목 건설업</industry>
+  </row>
+  <row>
+    <code>4121</code>
+    <industry>지반조성 건설업</industry>
+  </row>
+  <row>
+    <code>41210</code>
+    <industry>지반조성 건설업</industry>
+  </row>
+  <row>
+    <code>4122</code>
+    <industry>토목시설물 건설업</industry>
+  </row>
+  <row>
+    <code>41221</code>
+    <industry>도로 건설업</industry>
+  </row>
+  <row>
+    <code>41222</code>
+    <industry>교량, 터널 및 철도 건설업</industry>
+  </row>
+  <row>
+    <code>41223</code>
+    <industry>수로, 댐 및 급 · 배수시설 건설업</industry>
+  </row>
+  <row>
+    <code>41224</code>
+    <industry>폐기물처리 및 오염방지시설 건설업</industry>
+  </row>
+  <row>
+    <code>41225</code>
+    <industry>산업플랜트 건설업</industry>
+  </row>
+  <row>
+    <code>41226</code>
+    <industry>조경 건설업</industry>
+  </row>
+  <row>
+    <code>41229</code>
+    <industry>기타 토목시설물 건설업</industry>
+  </row>
+  <row>
+    <code>42</code>
+    <industry>전문직별 공사업</industry>
+  </row>
+  <row>
+    <code>421</code>
+    <industry>기반조성 및 시설물 축조관련 전문공사업</industry>
+  </row>
+  <row>
+    <code>4211</code>
+    <industry>건물 및 구축물 해체 공사업</industry>
+  </row>
+  <row>
+    <code>42110</code>
+    <industry>건물 및 구축물 해체 공사업</industry>
+  </row>
+  <row>
+    <code>4212</code>
+    <industry>기반조성 관련 전문공사업</industry>
+  </row>
+  <row>
+    <code>42121</code>
+    <industry>토공사업</industry>
+  </row>
+  <row>
+    <code>42122</code>
+    <industry>보링, 그라우팅 및 굴정 공사업</industry>
+  </row>
+  <row>
+    <code>42123</code>
+    <industry>파일공사 및 축조관련 기초 공사업</industry>
+  </row>
+  <row>
+    <code>42129</code>
+    <industry>기타 기반조성 관련 전문공사업</industry>
+  </row>
+  <row>
+    <code>4213</code>
+    <industry>시설물 축조 관련 전문공사업</industry>
+  </row>
+  <row>
+    <code>42131</code>
+    <industry>철골 공사업</industry>
+  </row>
+  <row>
+    <code>42132</code>
+    <industry>철근 및 철근콘크리트 공사업</industry>
+  </row>
+  <row>
+    <code>42133</code>
+    <industry>조적 및 석축 공사업</industry>
+  </row>
+  <row>
+    <code>42134</code>
+    <industry>포장 공사업</industry>
+  </row>
+  <row>
+    <code>42135</code>
+    <industry>철도궤도 전문공사업</industry>
+  </row>
+  <row>
+    <code>42136</code>
+    <industry>수중 공사업</industry>
+  </row>
+  <row>
+    <code>42137</code>
+    <industry>비계 및 형틀 공사업</industry>
+  </row>
+  <row>
+    <code>42139</code>
+    <industry>기타 시설물 축조관련 전문공사업</industry>
+  </row>
+  <row>
+    <code>422</code>
+    <industry>건물설비 설치 공사업</industry>
+  </row>
+  <row>
+    <code>4220</code>
+    <industry>건물설비 설치 공사업</industry>
+  </row>
+  <row>
+    <code>42201</code>
+    <industry>배관 및 냉·난방 공사업</industry>
+  </row>
+  <row>
+    <code>42202</code>
+    <industry>건물용 기계장비 설치 공사업</industry>
+  </row>
+  <row>
+    <code>42203</code>
+    <industry>방음 및 내화 공사업</industry>
+  </row>
+  <row>
+    <code>42204</code>
+    <industry>소방시설 공사업</industry>
+  </row>
+  <row>
+    <code>42209</code>
+    <industry>기타 건물설비 설치 공사업</industry>
+  </row>
+  <row>
+    <code>423</code>
+    <industry>전기 및 통신 공사업</industry>
+  </row>
+  <row>
+    <code>4231</code>
+    <industry>전기 공사업</industry>
+  </row>
+  <row>
+    <code>42311</code>
+    <industry>일반전기 공사업</industry>
+  </row>
+  <row>
+    <code>42312</code>
+    <industry>내부 전기배선 공사업</industry>
+  </row>
+  <row>
+    <code>4232</code>
+    <industry>통신 공사업</industry>
+  </row>
+  <row>
+    <code>42321</code>
+    <industry>일반 통신 공사업</industry>
+  </row>
+  <row>
+    <code>42322</code>
+    <industry>내부 통신배선 공사업</industry>
+  </row>
+  <row>
+    <code>424</code>
+    <industry>실내건축 및 건축마무리 공사업</industry>
+  </row>
+  <row>
+    <code>4241</code>
+    <industry>도장, 도배 및 내장 공사업</industry>
+  </row>
+  <row>
+    <code>42411</code>
+    <industry>도장 공사업</industry>
+  </row>
+  <row>
+    <code>42412</code>
+    <industry>도배, 실내장식 및 내장 목공사업</industry>
+  </row>
+  <row>
+    <code>4242</code>
+    <industry>유리 및 창호 공사업</industry>
+  </row>
+  <row>
+    <code>42420</code>
+    <industry>유리 및 창호 공사업</industry>
+  </row>
+  <row>
+    <code>4249</code>
+    <industry>기타 건축마무리 공사업</industry>
+  </row>
+  <row>
+    <code>42491</code>
+    <industry>미장, 타일 및 방수 공사업</industry>
+  </row>
+  <row>
+    <code>42492</code>
+    <industry>건물용 금속공작물 설치 공사업</industry>
+  </row>
+  <row>
+    <code>42499</code>
+    <industry>그외 기타 건축마무리 공사업</industry>
+  </row>
+  <row>
+    <code>425</code>
+    <industry>건설장비 운영업</industry>
+  </row>
+  <row>
+    <code>4250</code>
+    <industry>건설장비 운영업</industry>
+  </row>
+  <row>
+    <code>42500</code>
+    <industry>건설장비 운영업</industry>
+  </row>
+  <row>
+    <code>G</code>
+    <industry>도매 및 소매업 (45~47)</industry>
+  </row>
+  <row>
+    <code>45</code>
+    <industry>자동차 및 부품 판매업</industry>
+  </row>
+  <row>
+    <code>451</code>
+    <industry>자동차 판매업</industry>
+  </row>
+  <row>
+    <code>4511</code>
+    <industry>자동차 신품 판매업</industry>
+  </row>
+  <row>
+    <code>45110</code>
+    <industry>자동차 신품 판매업</industry>
+  </row>
+  <row>
+    <code>4512</code>
+    <industry>중고 자동차 판매업</industry>
+  </row>
+  <row>
+    <code>45120</code>
+    <industry>중고 자동차 판매업</industry>
+  </row>
+  <row>
+    <code>452</code>
+    <industry>자동차 부품 및 내장품 판매업</industry>
+  </row>
+  <row>
+    <code>4521</code>
+    <industry>자동차신품 부품 및 내장품 판매업</industry>
+  </row>
+  <row>
+    <code>45211</code>
+    <industry>자동차 타이어 및 튜브 판매업</industry>
+  </row>
+  <row>
+    <code>45219</code>
+    <industry>기타 자동차신품 부품 및 내장품 판매업</industry>
+  </row>
+  <row>
+    <code>4522</code>
+    <industry>자동차중고 부품 및 내장품 판매업</industry>
+  </row>
+  <row>
+    <code>45220</code>
+    <industry>자동차중고 부품 및 내장품 판매업</industry>
+  </row>
+  <row>
+    <code>453</code>
+    <industry>모터사이클 및 부품 판매업</industry>
+  </row>
+  <row>
+    <code>4530</code>
+    <industry>모터사이클 및 부품 판매업</industry>
+  </row>
+  <row>
+    <code>45301</code>
+    <industry>모터사이클 및 부품 도매업</industry>
+  </row>
+  <row>
+    <code>45302</code>
+    <industry>모터사이클 및 부품 소매업</industry>
+  </row>
+  <row>
+    <code>46</code>
+    <industry>도매 및 상품중개업</industry>
+  </row>
+  <row>
+    <code>461</code>
+    <industry>상품 중개업</industry>
+  </row>
+  <row>
+    <code>4610</code>
+    <industry>상품 중개업</industry>
+  </row>
+  <row>
+    <code>46101</code>
+    <industry>산업용 농축산물 및 산동물 중개업</industry>
+  </row>
+  <row>
+    <code>46102</code>
+    <industry>음·식료품 및 담배 중개업</industry>
+  </row>
+  <row>
+    <code>46103</code>
+    <industry>섬유, 의복, 신발 및 가죽제품 중개업</industry>
+  </row>
+  <row>
+    <code>46104</code>
+    <industry>기계장비 중개업</industry>
+  </row>
+  <row>
+    <code>46105</code>
+    <industry>상품종합 중개업</industry>
+  </row>
+  <row>
+    <code>46109</code>
+    <industry>기타 상품 중개업</industry>
+  </row>
+  <row>
+    <code>462</code>
+    <industry>산업용 농축산물 및 산동물 도매업</industry>
+  </row>
+  <row>
+    <code>4620</code>
+    <industry>산업용 농축산물 및 산동물 도매업</industry>
+  </row>
+  <row>
+    <code>46201</code>
+    <industry>곡물 도매업</industry>
+  </row>
+  <row>
+    <code>46202</code>
+    <industry>종자 및 묘목 도매업</industry>
+  </row>
+  <row>
+    <code>46203</code>
+    <industry>사료 도매업</industry>
+  </row>
+  <row>
+    <code>46204</code>
+    <industry>화초 및 산식물 도매업</industry>
+  </row>
+  <row>
+    <code>46205</code>
+    <industry>산동물 도매업</industry>
+  </row>
+  <row>
+    <code>46209</code>
+    <industry>기타 산업용 농산물 및 산동물 도매업</industry>
+  </row>
+  <row>
+    <code>463</code>
+    <industry>음·식료품 및 담배 도매업</industry>
+  </row>
+  <row>
+    <code>4631</code>
+    <industry>비가공 식품 도매업</industry>
+  </row>
+  <row>
+    <code>46311</code>
+    <industry>과실 및 채소 도매업</industry>
+  </row>
+  <row>
+    <code>46312</code>
+    <industry>육류 도매업</industry>
+  </row>
+  <row>
+    <code>46313</code>
+    <industry>수산물 도매업</industry>
+  </row>
+  <row>
+    <code>46319</code>
+    <industry>기타 비가공 식품 도매업</industry>
+  </row>
+  <row>
+    <code>4632</code>
+    <industry>가공식품 도매업</industry>
+  </row>
+  <row>
+    <code>46321</code>
+    <industry>육류 가공식품 도매업</industry>
+  </row>
+  <row>
+    <code>46322</code>
+    <industry>수산물 가공식품 도매업</industry>
+  </row>
+  <row>
+    <code>46323</code>
+    <industry>빵 및 과자 도매업</industry>
+  </row>
+  <row>
+    <code>46324</code>
+    <industry>낙농품 도매업</industry>
+  </row>
+  <row>
+    <code>46329</code>
+    <industry>기타 가공식품 도매업</industry>
+  </row>
+  <row>
+    <code>4633</code>
+    <industry>음료 및 담배 도매업</industry>
+  </row>
+  <row>
+    <code>46331</code>
+    <industry>주류 도매업</industry>
+  </row>
+  <row>
+    <code>46332</code>
+    <industry>비알콜음료 도매업</industry>
+  </row>
+  <row>
+    <code>46333</code>
+    <industry>담배 도매업</industry>
+  </row>
+  <row>
+    <code>464</code>
+    <industry>가정용품 도매업</industry>
+  </row>
+  <row>
+    <code>4641</code>
+    <industry>가정용 섬유, 의복 및 의복액세서리 도매업</industry>
+  </row>
+  <row>
+    <code>46411</code>
+    <industry>가정용 섬유 및 실 도매업</industry>
+  </row>
+  <row>
+    <code>46412</code>
+    <industry>커튼 및 침구용품 도매업</industry>
+  </row>
+  <row>
+    <code>46413</code>
+    <industry>셔츠 및 외의 도매업</industry>
+  </row>
+  <row>
+    <code>46414</code>
+    <industry>유아용 의류 도매업</industry>
+  </row>
+  <row>
+    <code>46415</code>
+    <industry>내의 도매업</industry>
+  </row>
+  <row>
+    <code>46416</code>
+    <industry>가죽 및 모피제품 도매업</industry>
+  </row>
+  <row>
+    <code>46417</code>
+    <industry>의복액세서리 및 모조장신품 도매업</industry>
+  </row>
+  <row>
+    <code>46419</code>
+    <industry>기타 가정용 섬유 및 직물제품 도매업</industry>
+  </row>
+  <row>
+    <code>4642</code>
+    <industry>신발 도매업</industry>
+  </row>
+  <row>
+    <code>46420</code>
+    <industry>신발 도매업</industry>
+  </row>
+  <row>
+    <code>4643</code>
+    <industry>조명기구, 가정용 가구 및 비전기식 가정용기기 도매업</industry>
+  </row>
+  <row>
+    <code>46431</code>
+    <industry>가정용 가구 도매업</industry>
+  </row>
+  <row>
+    <code>46432</code>
+    <industry>전구·램프 및 조명장치 도매업</industry>
+  </row>
+  <row>
+    <code>46433</code>
+    <industry>가정용 요업제품, 비전기식 주방용품 및 날붙이 도매업</industry>
+  </row>
+  <row>
+    <code>46439</code>
+    <industry>기타 비전기식 가정용 기기 및 기구 도매업</industry>
+  </row>
+  <row>
+    <code>4644</code>
+    <industry>의약품, 의료용품 및 화장품 도매업</industry>
+  </row>
+  <row>
+    <code>46441</code>
+    <industry>의약품 도매업</industry>
+  </row>
+  <row>
+    <code>46442</code>
+    <industry>의료용품 도매업</industry>
+  </row>
+  <row>
+    <code>46443</code>
+    <industry>화장품 도매업</industry>
+  </row>
+  <row>
+    <code>46444</code>
+    <industry>비누 및 세정제 도매업</industry>
+  </row>
+  <row>
+    <code>4645</code>
+    <industry>종이, 인쇄물 및 문구용품 도매업</industry>
+  </row>
+  <row>
+    <code>46451</code>
+    <industry>종이제품 도매업</industry>
+  </row>
+  <row>
+    <code>46452</code>
+    <industry>문구용품 도매업</industry>
+  </row>
+  <row>
+    <code>46453</code>
+    <industry>서적, 잡지 및 신문 도매업</industry>
+  </row>
+  <row>
+    <code>4646</code>
+    <industry>오락, 취미 및 경기용품 도매업</industry>
+  </row>
+  <row>
+    <code>46461</code>
+    <industry>음반 및 비디오물 도매업</industry>
+  </row>
+  <row>
+    <code>46462</code>
+    <industry>악기 도매업</industry>
+  </row>
+  <row>
+    <code>46463</code>
+    <industry>장난감 및 취미용품 도매업</industry>
+  </row>
+  <row>
+    <code>46464</code>
+    <industry>운동 및 경기용품 도매업</industry>
+  </row>
+  <row>
+    <code>46465</code>
+    <industry>자전거 및 기타 운송장비 도매업</industry>
+  </row>
+  <row>
+    <code>4649</code>
+    <industry>기타 가정용품 도매업</industry>
+  </row>
+  <row>
+    <code>46491</code>
+    <industry>가방 및 여행용품 도매업</industry>
+  </row>
+  <row>
+    <code>46492</code>
+    <industry>시계 및 귀금속제품 도매업</industry>
+  </row>
+  <row>
+    <code>46493</code>
+    <industry>사진장비 및 광학용품 도매업</industry>
+  </row>
+  <row>
+    <code>46499</code>
+    <industry>그외 기타 가정용품 도매업</industry>
+  </row>
+  <row>
+    <code>465</code>
+    <industry>기계장비 및 관련 물품 도매업</industry>
+  </row>
+  <row>
+    <code>4651</code>
+    <industry>컴퓨터 및 주변장치, 소프트웨어 도매업</industry>
+  </row>
+  <row>
+    <code>46510</code>
+    <industry>컴퓨터 및 주변장치, 소프트웨어 도매업</industry>
+  </row>
+  <row>
+    <code>4652</code>
+    <industry>가전제품, 통신장비 및 부품 도매업</industry>
+  </row>
+  <row>
+    <code>46521</code>
+    <industry>가전제품 및 부품 도매업</industry>
+  </row>
+  <row>
+    <code>46522</code>
+    <industry>통신장비 및 부품 도매업</industry>
+  </row>
+  <row>
+    <code>4653</code>
+    <industry>산업용 기계 및 장비 도매업</industry>
+  </row>
+  <row>
+    <code>46531</code>
+    <industry>농업용 기계 및 장비 도매업</industry>
+  </row>
+  <row>
+    <code>46532</code>
+    <industry>건설·광업용 기계 및 장비 도매업</industry>
+  </row>
+  <row>
+    <code>46533</code>
+    <industry>공작기계 도매업</industry>
+  </row>
+  <row>
+    <code>46539</code>
+    <industry>기타 산업용 기계 및 장비 도매업</industry>
+  </row>
+  <row>
+    <code>4659</code>
+    <industry>기타 기계 및 장비 도매업</industry>
+  </row>
+  <row>
+    <code>46591</code>
+    <industry>사무용 가구 및 기기 도매업</industry>
+  </row>
+  <row>
+    <code>46592</code>
+    <industry>의료, 정밀 및 과학기기 도매업</industry>
+  </row>
+  <row>
+    <code>46593</code>
+    <industry>수송용 기계 및 장비 도매업</industry>
+  </row>
+  <row>
+    <code>46594</code>
+    <industry>전기용 기계장비 및 관련 기자재 도매업</industry>
+  </row>
+  <row>
+    <code>46599</code>
+    <industry>그외 기타 기계 및 장비 도매업</industry>
+  </row>
+  <row>
+    <code>466</code>
+    <industry>건축자재, 철물 및 난방장치 도매업</industry>
+  </row>
+  <row>
+    <code>4661</code>
+    <industry>일반 건축자재 도매업</industry>
+  </row>
+  <row>
+    <code>46611</code>
+    <industry>원목 및 건축관련 목재품 도매업</industry>
+  </row>
+  <row>
+    <code>46612</code>
+    <industry>골재, 벽돌 및 시멘트 도매업</industry>
+  </row>
+  <row>
+    <code>46613</code>
+    <industry>유리 및 창호 도매업</industry>
+  </row>
+  <row>
+    <code>4662</code>
+    <industry>철물 및 냉·난방장치 도매업</industry>
+  </row>
+  <row>
+    <code>46621</code>
+    <industry>배관 및 냉·난방장치 도매업</industry>
+  </row>
+  <row>
+    <code>46622</code>
+    <industry>철물 및 수공구 도매업</industry>
+  </row>
+  <row>
+    <code>4669</code>
+    <industry>기타 건축자재 도매업</industry>
+  </row>
+  <row>
+    <code>46691</code>
+    <industry>도료 도매업</industry>
+  </row>
+  <row>
+    <code>46692</code>
+    <industry>벽지 및 장판류 도매업</industry>
+  </row>
+  <row>
+    <code>46699</code>
+    <industry>그외 기타 건축자재 도매업</industry>
+  </row>
+  <row>
+    <code>467</code>
+    <industry>기타 전문 도매업</industry>
+  </row>
+  <row>
+    <code>4671</code>
+    <industry>연료 및 관련제품 도매업</industry>
+  </row>
+  <row>
+    <code>46711</code>
+    <industry>고체연료 및 관련제품 도매업</industry>
+  </row>
+  <row>
+    <code>46712</code>
+    <industry>액체연료 및 관련제품 도매업</industry>
+  </row>
+  <row>
+    <code>46713</code>
+    <industry>기체연료 및 관련제품 도매업</industry>
+  </row>
+  <row>
+    <code>4672</code>
+    <industry>1차 금속제품 및 금속광물 도매업</industry>
+  </row>
+  <row>
+    <code>46721</code>
+    <industry>1차 금속제품 도매업</industry>
+  </row>
+  <row>
+    <code>46722</code>
+    <industry>금속광물 도매업</industry>
+  </row>
+  <row>
+    <code>4673</code>
+    <industry>화학물질 및 화학제품 도매업</industry>
+  </row>
+  <row>
+    <code>46731</code>
+    <industry>염료, 안료 및 관련제품 도매업</industry>
+  </row>
+  <row>
+    <code>46732</code>
+    <industry>비료 및 농약 도매업</industry>
+  </row>
+  <row>
+    <code>46733</code>
+    <industry>합성고무 및 플라스틱물질 도매업</industry>
+  </row>
+  <row>
+    <code>46739</code>
+    <industry>기타 화학물질 및 화학제품 도매업</industry>
+  </row>
+  <row>
+    <code>4674</code>
+    <industry>방직용 섬유, 사 및 직물 도매업</industry>
+  </row>
+  <row>
+    <code>46741</code>
+    <industry>방직용 섬유 및 사 도매업</industry>
+  </row>
+  <row>
+    <code>46742</code>
+    <industry>직물 도매업</industry>
+  </row>
+  <row>
+    <code>4679</code>
+    <industry>재생용 재료 및 기타 상품 전문 도매업</industry>
+  </row>
+  <row>
+    <code>46791</code>
+    <industry>재생용 재료 수집 및 판매업</industry>
+  </row>
+  <row>
+    <code>46799</code>
+    <industry>그외 기타 상품 전문 도매업</industry>
+  </row>
+  <row>
+    <code>468</code>
+    <industry>상품 종합 도매업</industry>
+  </row>
+  <row>
+    <code>4680</code>
+    <industry>상품 종합 도매업</industry>
+  </row>
+  <row>
+    <code>46800</code>
+    <industry>상품 종합 도매업</industry>
+  </row>
+  <row>
+    <code>47</code>
+    <industry>소매업; 자동차 제외</industry>
+  </row>
+  <row>
+    <code>471</code>
+    <industry>종합 소매업</industry>
+  </row>
+  <row>
+    <code>4711</code>
+    <industry>대형 종합 소매업</industry>
+  </row>
+  <row>
+    <code>47111</code>
+    <industry>백화점</industry>
+  </row>
+  <row>
+    <code>47119</code>
+    <industry>기타 대형 종합 소매업</industry>
+  </row>
+  <row>
+    <code>4712</code>
+    <industry>음·식료품 위주 종합 소매업</industry>
+  </row>
+  <row>
+    <code>47121</code>
+    <industry>슈퍼마켓</industry>
+  </row>
+  <row>
+    <code>47122</code>
+    <industry>체인화 편의점</industry>
+  </row>
+  <row>
+    <code>47129</code>
+    <industry>기타 음·식료품 위주 종합 소매업</industry>
+  </row>
+  <row>
+    <code>4719</code>
+    <industry>그외 기타 종합 소매업</industry>
+  </row>
+  <row>
+    <code>47190</code>
+    <industry>그외 기타 종합 소매업</industry>
+  </row>
+  <row>
+    <code>472</code>
+    <industry>음·식료품 및 담배 소매업</industry>
+  </row>
+  <row>
+    <code>4721</code>
+    <industry>식료품 소매업</industry>
+  </row>
+  <row>
+    <code>47211</code>
+    <industry>곡물 소매업</industry>
+  </row>
+  <row>
+    <code>47212</code>
+    <industry>육류 소매업</industry>
+  </row>
+  <row>
+    <code>47213</code>
+    <industry>수산물 소매업</industry>
+  </row>
+  <row>
+    <code>47214</code>
+    <industry>과실 및 채소 소매업</industry>
+  </row>
+  <row>
+    <code>47215</code>
+    <industry>빵 및 과자류 소매업</industry>
+  </row>
+  <row>
+    <code>47216</code>
+    <industry>건강보조식품 소매업</industry>
+  </row>
+  <row>
+    <code>47219</code>
+    <industry>기타 식료품 소매업</industry>
+  </row>
+  <row>
+    <code>4722</code>
+    <industry>음료 및 담배 소매업</industry>
+  </row>
+  <row>
+    <code>47221</code>
+    <industry>음료 소매업</industry>
+  </row>
+  <row>
+    <code>47222</code>
+    <industry>담배 소매업</industry>
+  </row>
+  <row>
+    <code>473</code>
+    <industry>정보통신장비 소매업</industry>
+  </row>
+  <row>
+    <code>4731</code>
+    <industry>컴퓨터 및 주변장치, 소프트웨어 및 통신기기 소매업</industry>
+  </row>
+  <row>
+    <code>47311</code>
+    <industry>컴퓨터 및 주변장치, 소프트웨어 소매업</industry>
+  </row>
+  <row>
+    <code>47312</code>
+    <industry>통신기기 소매업</industry>
+  </row>
+  <row>
+    <code>4732</code>
+    <industry>가전제품 소매업</industry>
+  </row>
+  <row>
+    <code>47320</code>
+    <industry>가전제품 소매업</industry>
+  </row>
+  <row>
+    <code>474</code>
+    <industry>섬유, 의복, 신발 및 가죽제품 소매업</industry>
+  </row>
+  <row>
+    <code>4741</code>
+    <industry>섬유, 직물, 의복 및 의복액세서리 소매업</industry>
+  </row>
+  <row>
+    <code>47411</code>
+    <industry>가정용 직물제품 소매업</industry>
+  </row>
+  <row>
+    <code>47412</code>
+    <industry>한복 소매업</industry>
+  </row>
+  <row>
+    <code>47413</code>
+    <industry>남녀용 정장 소매업</industry>
+  </row>
+  <row>
+    <code>47414</code>
+    <industry>유아용 의류 소매업</industry>
+  </row>
+  <row>
+    <code>47415</code>
+    <industry>내의 소매업</industry>
+  </row>
+  <row>
+    <code>47416</code>
+    <industry>셔츠 및 기타 의복 소매업</industry>
+  </row>
+  <row>
+    <code>47419</code>
+    <industry>기타 섬유, 직물 및 의복액세서리 소매업</industry>
+  </row>
+  <row>
+    <code>4742</code>
+    <industry>신발 소매업</industry>
+  </row>
+  <row>
+    <code>47420</code>
+    <industry>신발 소매업</industry>
+  </row>
+  <row>
+    <code>4743</code>
+    <industry>가방 및 기타 가죽제품 소매업</industry>
+  </row>
+  <row>
+    <code>47430</code>
+    <industry>가방 및 기타 가죽제품 소매업</industry>
+  </row>
+  <row>
+    <code>475</code>
+    <industry>기타 가정용품 소매업</industry>
+  </row>
+  <row>
+    <code>4751</code>
+    <industry>철물, 페인트, 유리 및 건설자재 소매업</industry>
+  </row>
+  <row>
+    <code>47511</code>
+    <industry>철물 및 난방용구 소매업</industry>
+  </row>
+  <row>
+    <code>47512</code>
+    <industry>기계공구 소매업</industry>
+  </row>
+  <row>
+    <code>47513</code>
+    <industry>벽지 및 장판류 소매업</industry>
+  </row>
+  <row>
+    <code>47519</code>
+    <industry>페인트, 유리 및 기타 건설자재 소매업</industry>
+  </row>
+  <row>
+    <code>4752</code>
+    <industry>가구 소매업</industry>
+  </row>
+  <row>
+    <code>47520</code>
+    <industry>가구 소매업</industry>
+  </row>
+  <row>
+    <code>4759</code>
+    <industry>그외 기타 가정용품 소매업</industry>
+  </row>
+  <row>
+    <code>47591</code>
+    <industry>전기용품 및 조명장치 소매업</industry>
+  </row>
+  <row>
+    <code>47592</code>
+    <industry>식탁 및 주방용품 소매업</industry>
+  </row>
+  <row>
+    <code>47593</code>
+    <industry>악기 소매업</industry>
+  </row>
+  <row>
+    <code>47599</code>
+    <industry>그외 기타 분류안된 가정용품 소매업</industry>
+  </row>
+  <row>
+    <code>476</code>
+    <industry>문화, 오락 및 여가 용품 소매업</industry>
+  </row>
+  <row>
+    <code>4761</code>
+    <industry>서적 및 문구용품 소매업</industry>
+  </row>
+  <row>
+    <code>47611</code>
+    <industry>서적 및 잡지류 소매업</industry>
+  </row>
+  <row>
+    <code>47612</code>
+    <industry>문구용품 소매업</industry>
+  </row>
+  <row>
+    <code>4762</code>
+    <industry>음반 및 비디오물 소매업</industry>
+  </row>
+  <row>
+    <code>47620</code>
+    <industry>음반 및 비디오물 소매업</industry>
+  </row>
+  <row>
+    <code>4763</code>
+    <industry>스포츠용품 소매업</industry>
+  </row>
+  <row>
+    <code>47631</code>
+    <industry>운동 및 경기용품 소매업</industry>
+  </row>
+  <row>
+    <code>47632</code>
+    <industry>자전거 및 기타 운송장비 소매업</industry>
+  </row>
+  <row>
+    <code>4764</code>
+    <industry>게임용구, 인형 및 장난감 소매업</industry>
+  </row>
+  <row>
+    <code>47640</code>
+    <industry>게임용구, 인형 및 장난감 소매업</industry>
+  </row>
+  <row>
+    <code>477</code>
+    <industry>연료 소매업</industry>
+  </row>
+  <row>
+    <code>4771</code>
+    <industry>차량용 연료 소매업</industry>
+  </row>
+  <row>
+    <code>47711</code>
+    <industry>차량용 주유소 운영업</industry>
+  </row>
+  <row>
+    <code>47712</code>
+    <industry>차량용 가스 충전업</industry>
+  </row>
+  <row>
+    <code>4772</code>
+    <industry>가정용 연료 소매업</industry>
+  </row>
+  <row>
+    <code>47721</code>
+    <industry>가정용 고체연료 소매업</industry>
+  </row>
+  <row>
+    <code>47722</code>
+    <industry>가정용 액체연료 소매업</industry>
+  </row>
+  <row>
+    <code>47723</code>
+    <industry>가정용 가스연료 소매업</industry>
+  </row>
+  <row>
+    <code>478</code>
+    <industry>기타 상품 전문 소매업</industry>
+  </row>
+  <row>
+    <code>4781</code>
+    <industry>의약품, 의료용 기구, 화장품 및 방향제 소매업</industry>
+  </row>
+  <row>
+    <code>47811</code>
+    <industry>의약품 및 의료용품 소매업</industry>
+  </row>
+  <row>
+    <code>47812</code>
+    <industry>의료용 기구 소매업</industry>
+  </row>
+  <row>
+    <code>47813</code>
+    <industry>화장품 및 방향제 소매업</industry>
+  </row>
+  <row>
+    <code>4782</code>
+    <industry>사무용 기기, 사진장비 및 정밀기기 소매업</industry>
+  </row>
+  <row>
+    <code>47821</code>
+    <industry>사무용 기기 소매업</industry>
+  </row>
+  <row>
+    <code>47822</code>
+    <industry>안경 소매업</industry>
+  </row>
+  <row>
+    <code>47823</code>
+    <industry>사진기 및 사진용품 소매업</industry>
+  </row>
+  <row>
+    <code>47829</code>
+    <industry>기타 광학 및 정밀 기기 소매업</industry>
+  </row>
+  <row>
+    <code>4783</code>
+    <industry>시계 및 귀금속 소매업</industry>
+  </row>
+  <row>
+    <code>47830</code>
+    <industry>시계 및 귀금속 소매업</industry>
+  </row>
+  <row>
+    <code>4784</code>
+    <industry>예술품 및 선물용품 소매업</industry>
+  </row>
+  <row>
+    <code>47841</code>
+    <industry>예술품 및 골동품 소매업</industry>
+  </row>
+  <row>
+    <code>47842</code>
+    <industry>관광 민예품 및 선물용품 소매업</industry>
+  </row>
+  <row>
+    <code>4785</code>
+    <industry>그외 기타 상품 전문 소매업</industry>
+  </row>
+  <row>
+    <code>47851</code>
+    <industry>화초 및 산식물 소매업</industry>
+  </row>
+  <row>
+    <code>47852</code>
+    <industry>애완용 동물 및 관련용품 소매업</industry>
+  </row>
+  <row>
+    <code>47859</code>
+    <industry>그외 기타 분류안된 상품 전문 소매업</industry>
+  </row>
+  <row>
+    <code>4786</code>
+    <industry>중고상품 소매업</industry>
+  </row>
+  <row>
+    <code>47861</code>
+    <industry>중고가구 소매업</industry>
+  </row>
+  <row>
+    <code>47862</code>
+    <industry>중고 가전제품 소매업</industry>
+  </row>
+  <row>
+    <code>47869</code>
+    <industry>기타 중고상품 소매업</industry>
+  </row>
+  <row>
+    <code>479</code>
+    <industry>무점포 소매업</industry>
+  </row>
+  <row>
+    <code>4791</code>
+    <industry>통신 판매업</industry>
+  </row>
+  <row>
+    <code>47911</code>
+    <industry>전자상거래업</industry>
+  </row>
+  <row>
+    <code>47919</code>
+    <industry>기타 통신 판매업</industry>
+  </row>
+  <row>
+    <code>4792</code>
+    <industry>노점 및 유사이동 소매업</industry>
+  </row>
+  <row>
+    <code>47920</code>
+    <industry>노점 및 유사이동 소매업</industry>
+  </row>
+  <row>
+    <code>4799</code>
+    <industry>기타 무점포 소매업</industry>
+  </row>
+  <row>
+    <code>47991</code>
+    <industry>자동판매기 운영업</industry>
+  </row>
+  <row>
+    <code>47992</code>
+    <industry>계약배달 판매업</industry>
+  </row>
+  <row>
+    <code>47993</code>
+    <industry>방문 판매업</industry>
+  </row>
+  <row>
+    <code>47999</code>
+    <industry>그외 기타 무점포 소매업</industry>
+  </row>
+  <row>
+    <code>H</code>
+    <industry>운수업 (49~52)</industry>
+  </row>
+  <row>
+    <code>49</code>
+    <industry>육상운송 및 파이프라인 운송업</industry>
+  </row>
+  <row>
+    <code>491</code>
+    <industry>철도운송업</industry>
+  </row>
+  <row>
+    <code>4910</code>
+    <industry>철도운송업</industry>
+  </row>
+  <row>
+    <code>49100</code>
+    <industry>철도운송업</industry>
+  </row>
+  <row>
+    <code>492</code>
+    <industry>육상 여객 운송업</industry>
+  </row>
+  <row>
+    <code>4921</code>
+    <industry>도시 정기 육상 여객 운송업</industry>
+  </row>
+  <row>
+    <code>49211</code>
+    <industry>도시철도 운송업</industry>
+  </row>
+  <row>
+    <code>49212</code>
+    <industry>시내버스 운송업</industry>
+  </row>
+  <row>
+    <code>49219</code>
+    <industry>기타 도시 정기 육상 여객 운송업</industry>
+  </row>
+  <row>
+    <code>4922</code>
+    <industry>시외버스 운송업</industry>
+  </row>
+  <row>
+    <code>49220</code>
+    <industry>시외버스 운송업</industry>
+  </row>
+  <row>
+    <code>4923</code>
+    <industry>부정기 여객 육상 운송업</industry>
+  </row>
+  <row>
+    <code>49231</code>
+    <industry>택시 운송업</industry>
+  </row>
+  <row>
+    <code>49232</code>
+    <industry>전세버스 운송업</industry>
+  </row>
+  <row>
+    <code>49233</code>
+    <industry>장의차량 운영업</industry>
+  </row>
+  <row>
+    <code>49239</code>
+    <industry>기타 부정기 여객 육상 운송업</industry>
+  </row>
+  <row>
+    <code>493</code>
+    <industry>도로 화물 운송업</industry>
+  </row>
+  <row>
+    <code>4931</code>
+    <industry>화물자동차 운송업</industry>
+  </row>
+  <row>
+    <code>49311</code>
+    <industry>일반 화물자동차 운송업</industry>
+  </row>
+  <row>
+    <code>49312</code>
+    <industry>용달 및 개별 화물자동차 운송업</industry>
+  </row>
+  <row>
+    <code>4939</code>
+    <industry>기타 도로화물 운송업</industry>
+  </row>
+  <row>
+    <code>49390</code>
+    <industry>기타 도로화물 운송업</industry>
+  </row>
+  <row>
+    <code>494</code>
+    <industry>소화물 전문 운송업</industry>
+  </row>
+  <row>
+    <code>4940</code>
+    <industry>소화물 전문 운송업</industry>
+  </row>
+  <row>
+    <code>49401</code>
+    <industry>택배업</industry>
+  </row>
+  <row>
+    <code>49402</code>
+    <industry>늘찬 배달업</industry>
+  </row>
+  <row>
+    <code>495</code>
+    <industry>파이프라인 운송업</industry>
+  </row>
+  <row>
+    <code>4950</code>
+    <industry>파이프라인 운송업</industry>
+  </row>
+  <row>
+    <code>49500</code>
+    <industry>파이프라인 운송업</industry>
+  </row>
+  <row>
+    <code>50</code>
+    <industry>수상 운송업</industry>
+  </row>
+  <row>
+    <code>501</code>
+    <industry>해상 운송업</industry>
+  </row>
+  <row>
+    <code>5011</code>
+    <industry>외항 운송업</industry>
+  </row>
+  <row>
+    <code>50111</code>
+    <industry>외항 여객 운송업</industry>
+  </row>
+  <row>
+    <code>50112</code>
+    <industry>외항 화물 운송업</industry>
+  </row>
+  <row>
+    <code>5012</code>
+    <industry>내항 운송업</industry>
+  </row>
+  <row>
+    <code>50121</code>
+    <industry>내항 여객 운송업</industry>
+  </row>
+  <row>
+    <code>50122</code>
+    <industry>내항 화물 운송업</industry>
+  </row>
+  <row>
+    <code>5013</code>
+    <industry>기타 해상 운송업</industry>
+  </row>
+  <row>
+    <code>50130</code>
+    <industry>기타 해상 운송업</industry>
+  </row>
+  <row>
+    <code>502</code>
+    <industry>내륙 수상 및 항만내 운송업</industry>
+  </row>
+  <row>
+    <code>5020</code>
+    <industry>내륙 수상 및 항만내 운송업</industry>
+  </row>
+  <row>
+    <code>50201</code>
+    <industry>내륙 수상 여객 운송업</industry>
+  </row>
+  <row>
+    <code>50202</code>
+    <industry>내륙 수상 화물 운송업</industry>
+  </row>
+  <row>
+    <code>50203</code>
+    <industry>항만내 운송업</industry>
+  </row>
+  <row>
+    <code>50209</code>
+    <industry>기타 내륙 수상 및 항만내 운송업</industry>
+  </row>
+  <row>
+    <code>51</code>
+    <industry>항공 운송업</industry>
+  </row>
+  <row>
+    <code>511</code>
+    <industry>정기 항공 운송업</industry>
+  </row>
+  <row>
+    <code>5110</code>
+    <industry>정기 항공 운송업</industry>
+  </row>
+  <row>
+    <code>51100</code>
+    <industry>정기 항공 운송업</industry>
+  </row>
+  <row>
+    <code>512</code>
+    <industry>부정기 항공 운송업</industry>
+  </row>
+  <row>
+    <code>5120</code>
+    <industry>부정기 항공 운송업</industry>
+  </row>
+  <row>
+    <code>51200</code>
+    <industry>부정기 항공 운송업</industry>
+  </row>
+  <row>
+    <code>52</code>
+    <industry>창고 및 운송관련 서비스업</industry>
+  </row>
+  <row>
+    <code>521</code>
+    <industry>보관 및 창고업</industry>
+  </row>
+  <row>
+    <code>5210</code>
+    <industry>보관 및 창고업</industry>
+  </row>
+  <row>
+    <code>52101</code>
+    <industry>일반 창고업</industry>
+  </row>
+  <row>
+    <code>52102</code>
+    <industry>냉장 및 냉동 창고업</industry>
+  </row>
+  <row>
+    <code>52103</code>
+    <industry>농산물 창고업</industry>
+  </row>
+  <row>
+    <code>52104</code>
+    <industry>위험물품 보관업</industry>
+  </row>
+  <row>
+    <code>52109</code>
+    <industry>기타 보관 및 창고업</industry>
+  </row>
+  <row>
+    <code>529</code>
+    <industry>기타 운송관련 서비스업</industry>
+  </row>
+  <row>
+    <code>5291</code>
+    <industry>육상 운송지원 서비스업</industry>
+  </row>
+  <row>
+    <code>52911</code>
+    <industry>철도 운송지원 서비스업</industry>
+  </row>
+  <row>
+    <code>52912</code>
+    <industry>여객 자동차 터미널 운영업</industry>
+  </row>
+  <row>
+    <code>52913</code>
+    <industry>화물 자동차 터미널 운영업</industry>
+  </row>
+  <row>
+    <code>52914</code>
+    <industry>도로 및 관련시설 운영업</industry>
+  </row>
+  <row>
+    <code>52915</code>
+    <industry>주차장 운영업</industry>
+  </row>
+  <row>
+    <code>52919</code>
+    <industry>기타 육상 운송지원 서비스업</industry>
+  </row>
+  <row>
+    <code>5292</code>
+    <industry>수상 운송지원 서비스업</industry>
+  </row>
+  <row>
+    <code>52921</code>
+    <industry>항구 및 기타 해상 터미널 운영업</industry>
+  </row>
+  <row>
+    <code>52929</code>
+    <industry>기타 수상 운송지원 서비스업</industry>
+  </row>
+  <row>
+    <code>5293</code>
+    <industry>항공 운송지원 서비스업</industry>
+  </row>
+  <row>
+    <code>52931</code>
+    <industry>공항 운영업</industry>
+  </row>
+  <row>
+    <code>52939</code>
+    <industry>기타 항공 운송지원 서비스업</industry>
+  </row>
+  <row>
+    <code>5294</code>
+    <industry>화물 취급업</industry>
+  </row>
+  <row>
+    <code>52941</code>
+    <industry>항공 및 육상 화물 취급업</industry>
+  </row>
+  <row>
+    <code>52942</code>
+    <industry>수상 화물 취급업</industry>
+  </row>
+  <row>
+    <code>5299</code>
+    <industry>그외 기타 운송관련 서비스업</industry>
+  </row>
+  <row>
+    <code>52991</code>
+    <industry>화물운송 중개, 대리 및 관련서비스업</industry>
+  </row>
+  <row>
+    <code>52992</code>
+    <industry>화물포장, 검수 및 형량 서비스업</industry>
+  </row>
+  <row>
+    <code>52999</code>
+    <industry>그외 기타 분류안된 운송관련 서비스업</industry>
+  </row>
+  <row>
+    <code>I</code>
+    <industry>숙박 및 음식점업 (55 ~ 56)</industry>
+  </row>
+  <row>
+    <code>55</code>
+    <industry>숙박업</industry>
+  </row>
+  <row>
+    <code>551</code>
+    <industry>숙박시설 운영업</industry>
+  </row>
+  <row>
+    <code>5511</code>
+    <industry>관광숙박시설 운영업</industry>
+  </row>
+  <row>
+    <code>55111</code>
+    <industry>호텔업</industry>
+  </row>
+  <row>
+    <code>55112</code>
+    <industry>여관업</industry>
+  </row>
+  <row>
+    <code>55113</code>
+    <industry>휴양콘도 운영업</industry>
+  </row>
+  <row>
+    <code>55114</code>
+    <industry>청소년수련시설 운영업</industry>
+  </row>
+  <row>
+    <code>55119</code>
+    <industry>기타 관광숙박시설 운영업</industry>
+  </row>
+  <row>
+    <code>559</code>
+    <industry>기타 숙박업</industry>
+  </row>
+  <row>
+    <code>5590</code>
+    <industry>기타 숙박업</industry>
+  </row>
+  <row>
+    <code>55901</code>
+    <industry>기숙사 운영업</industry>
+  </row>
+  <row>
+    <code>55909</code>
+    <industry>그외 기타 숙박업</industry>
+  </row>
+  <row>
+    <code>56</code>
+    <industry>음식점 및 주점업</industry>
+  </row>
+  <row>
+    <code>561</code>
+    <industry>음식점업</industry>
+  </row>
+  <row>
+    <code>5611</code>
+    <industry>일반 음식점업</industry>
+  </row>
+  <row>
+    <code>56111</code>
+    <industry>한식 음식점업</industry>
+  </row>
+  <row>
+    <code>56112</code>
+    <industry>중식 음식점업</industry>
+  </row>
+  <row>
+    <code>56113</code>
+    <industry>일식 음식점업</industry>
+  </row>
+  <row>
+    <code>56114</code>
+    <industry>서양식 음식점업</industry>
+  </row>
+  <row>
+    <code>56119</code>
+    <industry>기타 외국식 음식점업</industry>
+  </row>
+  <row>
+    <code>5612</code>
+    <industry>기관구내식당업</industry>
+  </row>
+  <row>
+    <code>56120</code>
+    <industry>기관구내식당업</industry>
+  </row>
+  <row>
+    <code>5613</code>
+    <industry>출장 및 이동 음식업</industry>
+  </row>
+  <row>
+    <code>56131</code>
+    <industry>출장 음식 서비스업</industry>
+  </row>
+  <row>
+    <code>56132</code>
+    <industry>이동 음식업</industry>
+  </row>
+  <row>
+    <code>5619</code>
+    <industry>기타 음식점업</industry>
+  </row>
+  <row>
+    <code>56191</code>
+    <industry>제과점업</industry>
+  </row>
+  <row>
+    <code>56192</code>
+    <industry>피자, 햄버거, 샌드위치 및 유사 음식점업</industry>
+  </row>
+  <row>
+    <code>56193</code>
+    <industry>치킨 전문점</industry>
+  </row>
+  <row>
+    <code>56194</code>
+    <industry>분식 및 김밥 전문점</industry>
+  </row>
+  <row>
+    <code>56199</code>
+    <industry>그외 기타 음식점업</industry>
+  </row>
+  <row>
+    <code>562</code>
+    <industry>주점 및 비알콜음료점업</industry>
+  </row>
+  <row>
+    <code>5621</code>
+    <industry>주점업</industry>
+  </row>
+  <row>
+    <code>56211</code>
+    <industry>일반유흥 주점업</industry>
+  </row>
+  <row>
+    <code>56212</code>
+    <industry>무도유흥 주점업</industry>
+  </row>
+  <row>
+    <code>56219</code>
+    <industry>기타 주점업</industry>
+  </row>
+  <row>
+    <code>5622</code>
+    <industry>비알콜 음료점업</industry>
+  </row>
+  <row>
+    <code>56220</code>
+    <industry>비알콜 음료점업</industry>
+  </row>
+  <row>
+    <code>J</code>
+    <industry>출판, 영상, 방송통신 및 정보서비스업 (58 ~ 63)</industry>
+  </row>
+  <row>
+    <code>58</code>
+    <industry>출판업</industry>
+  </row>
+  <row>
+    <code>581</code>
+    <industry>서적, 잡지 및 기타 인쇄물 출판업</industry>
+  </row>
+  <row>
+    <code>5811</code>
+    <industry>서적 출판업</industry>
+  </row>
+  <row>
+    <code>58111</code>
+    <industry>교과서 및 학습서적 출판업</industry>
+  </row>
+  <row>
+    <code>58112</code>
+    <industry>만화 출판업</industry>
+  </row>
+  <row>
+    <code>58119</code>
+    <industry>기타 서적 출판업</industry>
+  </row>
+  <row>
+    <code>5812</code>
+    <industry>신문, 잡지 및 정기간행물 출판업</industry>
+  </row>
+  <row>
+    <code>58121</code>
+    <industry>신문 발행업</industry>
+  </row>
+  <row>
+    <code>58122</code>
+    <industry>잡지 및 정기간행물 발행업</industry>
+  </row>
+  <row>
+    <code>58123</code>
+    <industry>정기 광고간행물 발행업</industry>
+  </row>
+  <row>
+    <code>5819</code>
+    <industry>기타 인쇄물 출판업</industry>
+  </row>
+  <row>
+    <code>58190</code>
+    <industry>기타 인쇄물 출판업</industry>
+  </row>
+  <row>
+    <code>582</code>
+    <industry>소프트웨어 개발 및 공급업</industry>
+  </row>
+  <row>
+    <code>5821</code>
+    <industry>게임 소프트웨어 개발 및 공급업</industry>
+  </row>
+  <row>
+    <code>58211</code>
+    <industry>온라인·모바일 게임 소프트웨어 개발 및 공급업</industry>
+  </row>
+  <row>
+    <code>58219</code>
+    <industry>기타 게임 소프트웨어 개발 및 공급업</industry>
+  </row>
+  <row>
+    <code>5822</code>
+    <industry>시스템·응용 소프트웨어 개발 및 공급업</industry>
+  </row>
+  <row>
+    <code>58221</code>
+    <industry>시스템  소프트웨어 개발 및 공급업</industry>
+  </row>
+  <row>
+    <code>58222</code>
+    <industry>응용소프트웨어 개발 및 공급업</industry>
+  </row>
+  <row>
+    <code>59</code>
+    <industry>영상·오디오 기록물 제작 및 배급업</industry>
+  </row>
+  <row>
+    <code>591</code>
+    <industry>영화, 비디오물, 방송프로그램 제작 및 배급업</industry>
+  </row>
+  <row>
+    <code>5911</code>
+    <industry>영화, 비디오물 및 방송프로그램 제작업</industry>
+  </row>
+  <row>
+    <code>59111</code>
+    <industry>일반 영화 및 비디오물 제작업</industry>
+  </row>
+  <row>
+    <code>59112</code>
+    <industry>애니메이션 영화 및 비디오물 제작업</industry>
+  </row>
+  <row>
+    <code>59113</code>
+    <industry>광고 영화 및 비디오물 제작업</industry>
+  </row>
+  <row>
+    <code>59114</code>
+    <industry>방송 프로그램 제작업</industry>
+  </row>
+  <row>
+    <code>5912</code>
+    <industry>영화, 비디오물 및 방송프로그램 제작 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>59120</code>
+    <industry>영화, 비디오물 및 방송프로그램 제작 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>5913</code>
+    <industry>영화, 비디오물 및 방송프로그램 배급업</industry>
+  </row>
+  <row>
+    <code>59130</code>
+    <industry>영화, 비디오물 및 방송프로그램 배급업</industry>
+  </row>
+  <row>
+    <code>5914</code>
+    <industry>영화 및 비디오물 상영업</industry>
+  </row>
+  <row>
+    <code>59141</code>
+    <industry>영화관 운영업</industry>
+  </row>
+  <row>
+    <code>59142</code>
+    <industry>비디오물 감상실 운영업</industry>
+  </row>
+  <row>
+    <code>592</code>
+    <industry>오디오물 출판 및 원판 녹음업</industry>
+  </row>
+  <row>
+    <code>5920</code>
+    <industry>오디오물 출판 및 원판 녹음업</industry>
+  </row>
+  <row>
+    <code>59201</code>
+    <industry>음악 및 기타 오디오물 출판업</industry>
+  </row>
+  <row>
+    <code>59202</code>
+    <industry>녹음시설 운영업</industry>
+  </row>
+  <row>
+    <code>60</code>
+    <industry>방송업</industry>
+  </row>
+  <row>
+    <code>601</code>
+    <industry>라디오 방송업</industry>
+  </row>
+  <row>
+    <code>6010</code>
+    <industry>라디오 방송업</industry>
+  </row>
+  <row>
+    <code>60100</code>
+    <industry>라디오 방송업</industry>
+  </row>
+  <row>
+    <code>602</code>
+    <industry>텔레비전 방송업</industry>
+  </row>
+  <row>
+    <code>6021</code>
+    <industry>지상파 방송업</industry>
+  </row>
+  <row>
+    <code>60210</code>
+    <industry>지상파 방송업</industry>
+  </row>
+  <row>
+    <code>6022</code>
+    <industry>유선, 위성 및 기타 방송업</industry>
+  </row>
+  <row>
+    <code>60221</code>
+    <industry>프로그램 공급업</industry>
+  </row>
+  <row>
+    <code>60222</code>
+    <industry>유선방송업</industry>
+  </row>
+  <row>
+    <code>60229</code>
+    <industry>위성 및 기타 방송업</industry>
+  </row>
+  <row>
+    <code>61</code>
+    <industry>통신업</industry>
+  </row>
+  <row>
+    <code>611</code>
+    <industry>우편업</industry>
+  </row>
+  <row>
+    <code>6110</code>
+    <industry>우편업</industry>
+  </row>
+  <row>
+    <code>61100</code>
+    <industry>우편업</industry>
+  </row>
+  <row>
+    <code>612</code>
+    <industry>전기통신업</industry>
+  </row>
+  <row>
+    <code>6121</code>
+    <industry>유선통신업</industry>
+  </row>
+  <row>
+    <code>61210</code>
+    <industry>유선통신업</industry>
+  </row>
+  <row>
+    <code>6122</code>
+    <industry>무선통신업</industry>
+  </row>
+  <row>
+    <code>61220</code>
+    <industry>무선통신업</industry>
+  </row>
+  <row>
+    <code>6123</code>
+    <industry>위성통신업</industry>
+  </row>
+  <row>
+    <code>61230</code>
+    <industry>위성통신업</industry>
+  </row>
+  <row>
+    <code>6129</code>
+    <industry>기타 전기통신업</industry>
+  </row>
+  <row>
+    <code>61291</code>
+    <industry>통신 재판매업</industry>
+  </row>
+  <row>
+    <code>61299</code>
+    <industry>그외 기타 전기 통신업</industry>
+  </row>
+  <row>
+    <code>62</code>
+    <industry>컴퓨터 프로그래밍, 시스템 통합 및 관리업</industry>
+  </row>
+  <row>
+    <code>620</code>
+    <industry>컴퓨터 프로그래밍, 시스템 통합 및 관리업</industry>
+  </row>
+  <row>
+    <code>6201</code>
+    <industry>컴퓨터 프로그래밍 서비스업</industry>
+  </row>
+  <row>
+    <code>62010</code>
+    <industry>컴퓨터 프로그래밍 서비스업</industry>
+  </row>
+  <row>
+    <code>6202</code>
+    <industry>컴퓨터시스템 통합 자문, 구축 및 관리업</industry>
+  </row>
+  <row>
+    <code>62021</code>
+    <industry>컴퓨터시스템 통합 자문 및 구축 서비스업</industry>
+  </row>
+  <row>
+    <code>62022</code>
+    <industry>컴퓨터시설 관리업</industry>
+  </row>
+  <row>
+    <code>6209</code>
+    <industry>기타 정보기술 및 컴퓨터운영 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>62090</code>
+    <industry>기타 정보기술 및 컴퓨터운영 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>63</code>
+    <industry>정보서비스업</industry>
+  </row>
+  <row>
+    <code>631</code>
+    <industry>자료처리, 호스팅, 포털 및 기타 인터넷 정보매개서비스업</industry>
+  </row>
+  <row>
+    <code>6311</code>
+    <industry>자료처리, 호스팅 및 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>63111</code>
+    <industry>자료 처리업</industry>
+  </row>
+  <row>
+    <code>63112</code>
+    <industry>호스팅 및 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>6312</code>
+    <industry>포털 및 기타 인터넷 정보매개 서비스업</industry>
+  </row>
+  <row>
+    <code>63120</code>
+    <industry>포털 및 기타 인터넷 정보매개 서비스업</industry>
+  </row>
+  <row>
+    <code>639</code>
+    <industry>기타 정보 서비스업</industry>
+  </row>
+  <row>
+    <code>6391</code>
+    <industry>뉴스 제공업</industry>
+  </row>
+  <row>
+    <code>63910</code>
+    <industry>뉴스 제공업</industry>
+  </row>
+  <row>
+    <code>6399</code>
+    <industry>그외 기타 정보 서비스업</industry>
+  </row>
+  <row>
+    <code>63991</code>
+    <industry>데이터베이스 및 온라인정보 제공업</industry>
+  </row>
+  <row>
+    <code>63999</code>
+    <industry>그외 기타 정보 서비스업</industry>
+  </row>
+  <row>
+    <code>K</code>
+    <industry>금융 및 보험업 (64 ~ 66)</industry>
+  </row>
+  <row>
+    <code>64</code>
+    <industry>금융업</industry>
+  </row>
+  <row>
+    <code>641</code>
+    <industry>은행 및 저축기관</industry>
+  </row>
+  <row>
+    <code>6411</code>
+    <industry>중앙은행</industry>
+  </row>
+  <row>
+    <code>64110</code>
+    <industry>중앙은행</industry>
+  </row>
+  <row>
+    <code>6412</code>
+    <industry>일반은행</industry>
+  </row>
+  <row>
+    <code>64121</code>
+    <industry>국내은행</industry>
+  </row>
+  <row>
+    <code>64122</code>
+    <industry>외국은행</industry>
+  </row>
+  <row>
+    <code>6413</code>
+    <industry>신용조합 및 저축기관</industry>
+  </row>
+  <row>
+    <code>64131</code>
+    <industry>신용조합</industry>
+  </row>
+  <row>
+    <code>64132</code>
+    <industry>상호저축은행</industry>
+  </row>
+  <row>
+    <code>64139</code>
+    <industry>기타 저축기관</industry>
+  </row>
+  <row>
+    <code>642</code>
+    <industry>투자기관</industry>
+  </row>
+  <row>
+    <code>6420</code>
+    <industry>투자기관</industry>
+  </row>
+  <row>
+    <code>64201</code>
+    <industry>자산운용회사</industry>
+  </row>
+  <row>
+    <code>64209</code>
+    <industry>기타 투자기관</industry>
+  </row>
+  <row>
+    <code>649</code>
+    <industry>기타 금융업</industry>
+  </row>
+  <row>
+    <code>6491</code>
+    <industry>여신금융업</industry>
+  </row>
+  <row>
+    <code>64911</code>
+    <industry>금융리스업</industry>
+  </row>
+  <row>
+    <code>64912</code>
+    <industry>개발금융기관</industry>
+  </row>
+  <row>
+    <code>64913</code>
+    <industry>신용카드 및 할부금융업</industry>
+  </row>
+  <row>
+    <code>64919</code>
+    <industry>그외 기타 여신금융업</industry>
+  </row>
+  <row>
+    <code>6499</code>
+    <industry>그외 기타 금융업</industry>
+  </row>
+  <row>
+    <code>64991</code>
+    <industry>기금 운영업</industry>
+  </row>
+  <row>
+    <code>64992</code>
+    <industry>금융지주회사</industry>
+  </row>
+  <row>
+    <code>64999</code>
+    <industry>그외 기타 분류안된 금융업</industry>
+  </row>
+  <row>
+    <code>65</code>
+    <industry>보험 및 연금업</industry>
+  </row>
+  <row>
+    <code>651</code>
+    <industry>보험업</industry>
+  </row>
+  <row>
+    <code>6511</code>
+    <industry>생명 보험업</industry>
+  </row>
+  <row>
+    <code>65110</code>
+    <industry>생명 보험업</industry>
+  </row>
+  <row>
+    <code>6512</code>
+    <industry>손해 및 보증 보험업</industry>
+  </row>
+  <row>
+    <code>65121</code>
+    <industry>손해 보험업</industry>
+  </row>
+  <row>
+    <code>65122</code>
+    <industry>보증 보험업</industry>
+  </row>
+  <row>
+    <code>6513</code>
+    <industry>사회보장 보험업</industry>
+  </row>
+  <row>
+    <code>65131</code>
+    <industry>건강 보험업</industry>
+  </row>
+  <row>
+    <code>65139</code>
+    <industry>산업재해 및 기타 사회보장 보험업</industry>
+  </row>
+  <row>
+    <code>652</code>
+    <industry>재 보험업</industry>
+  </row>
+  <row>
+    <code>6520</code>
+    <industry>재 보험업</industry>
+  </row>
+  <row>
+    <code>65200</code>
+    <industry>재 보험업</industry>
+  </row>
+  <row>
+    <code>653</code>
+    <industry>연금 및 공제업</industry>
+  </row>
+  <row>
+    <code>6530</code>
+    <industry>연금 및 공제업</industry>
+  </row>
+  <row>
+    <code>65301</code>
+    <industry>개인 공제업</industry>
+  </row>
+  <row>
+    <code>65302</code>
+    <industry>사업 공제업</industry>
+  </row>
+  <row>
+    <code>65303</code>
+    <industry>연금업</industry>
+  </row>
+  <row>
+    <code>66</code>
+    <industry>금융 및 보험 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>661</code>
+    <industry>금융지원 서비스업</industry>
+  </row>
+  <row>
+    <code>6611</code>
+    <industry>금융시장 관리업</industry>
+  </row>
+  <row>
+    <code>66110</code>
+    <industry>금융시장 관리업</industry>
+  </row>
+  <row>
+    <code>6612</code>
+    <industry>증권 및 선물 중개업</industry>
+  </row>
+  <row>
+    <code>66121</code>
+    <industry>증권 중개업</industry>
+  </row>
+  <row>
+    <code>66122</code>
+    <industry>선물 중개업</industry>
+  </row>
+  <row>
+    <code>6619</code>
+    <industry>기타 금융지원 서비스업</industry>
+  </row>
+  <row>
+    <code>66191</code>
+    <industry>유가증권 관리 및 보관업</industry>
+  </row>
+  <row>
+    <code>66192</code>
+    <industry>투자 자문업</industry>
+  </row>
+  <row>
+    <code>66199</code>
+    <industry>그외 기타 금융지원 서비스업</industry>
+  </row>
+  <row>
+    <code>662</code>
+    <industry>보험 및 연금관련 서비스업</industry>
+  </row>
+  <row>
+    <code>6620</code>
+    <industry>보험 및 연금관련 서비스업</industry>
+  </row>
+  <row>
+    <code>66201</code>
+    <industry>손해사정업</industry>
+  </row>
+  <row>
+    <code>66202</code>
+    <industry>보험대리 및 중개업</industry>
+  </row>
+  <row>
+    <code>66209</code>
+    <industry>기타 보험 및 연금관련 서비스업</industry>
+  </row>
+  <row>
+    <code>L</code>
+    <industry>부동산업 및 임대업 (68 ~ 69)</industry>
+  </row>
+  <row>
+    <code>68</code>
+    <industry>부동산업</industry>
+  </row>
+  <row>
+    <code>681</code>
+    <industry>부동산 임대 및 공급업</industry>
+  </row>
+  <row>
+    <code>6811</code>
+    <industry>부동산 임대업</industry>
+  </row>
+  <row>
+    <code>68111</code>
+    <industry>주거용 건물 임대업</industry>
+  </row>
+  <row>
+    <code>68112</code>
+    <industry>비주거용 건물 임대업</industry>
+  </row>
+  <row>
+    <code>68119</code>
+    <industry>기타 부동산 임대업</industry>
+  </row>
+  <row>
+    <code>6812</code>
+    <industry>부동산 개발 및 공급업</industry>
+  </row>
+  <row>
+    <code>68121</code>
+    <industry>주거용 건물 개발 및 공급업</industry>
+  </row>
+  <row>
+    <code>68122</code>
+    <industry>비주거용 건물 개발 및 공급업</industry>
+  </row>
+  <row>
+    <code>68129</code>
+    <industry>기타 부동산 개발 및 공급업</industry>
+  </row>
+  <row>
+    <code>682</code>
+    <industry>부동산 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>6821</code>
+    <industry>부동산 관리업</industry>
+  </row>
+  <row>
+    <code>68211</code>
+    <industry>주거용 부동산 관리업</industry>
+  </row>
+  <row>
+    <code>68212</code>
+    <industry>비주거용 부동산 관리업</industry>
+  </row>
+  <row>
+    <code>6822</code>
+    <industry>부동산 중개 및 감정평가업</industry>
+  </row>
+  <row>
+    <code>68221</code>
+    <industry>부동산 자문 및 중개업</industry>
+  </row>
+  <row>
+    <code>68222</code>
+    <industry>부동산 감정평가업</industry>
+  </row>
+  <row>
+    <code>69</code>
+    <industry>임대업;부동산 제외</industry>
+  </row>
+  <row>
+    <code>691</code>
+    <industry>운송장비 임대업</industry>
+  </row>
+  <row>
+    <code>6911</code>
+    <industry>자동차 임대업</industry>
+  </row>
+  <row>
+    <code>69110</code>
+    <industry>자동차 임대업</industry>
+  </row>
+  <row>
+    <code>6919</code>
+    <industry>기타 운송장비 임대업</industry>
+  </row>
+  <row>
+    <code>69190</code>
+    <industry>기타 운송장비 임대업</industry>
+  </row>
+  <row>
+    <code>692</code>
+    <industry>개인 및 가정용품 임대업</industry>
+  </row>
+  <row>
+    <code>6921</code>
+    <industry>스포츠 및 레크레이션 용품 임대업</industry>
+  </row>
+  <row>
+    <code>69210</code>
+    <industry>스포츠 및 레크레이션 용품 임대업</industry>
+  </row>
+  <row>
+    <code>6922</code>
+    <industry>음반 및 비디오물 임대업</industry>
+  </row>
+  <row>
+    <code>69220</code>
+    <industry>음반 및 비디오물 임대업</industry>
+  </row>
+  <row>
+    <code>6929</code>
+    <industry>기타 개인 및 가정용품 임대업</industry>
+  </row>
+  <row>
+    <code>69291</code>
+    <industry>서적 임대업</industry>
+  </row>
+  <row>
+    <code>69292</code>
+    <industry>의류 임대업</industry>
+  </row>
+  <row>
+    <code>69299</code>
+    <industry>그외 기타 개인 및 가정용품 임대업</industry>
+  </row>
+  <row>
+    <code>693</code>
+    <industry>산업용 기계 및 장비 임대업</industry>
+  </row>
+  <row>
+    <code>6931</code>
+    <industry>건설 및 토목공사용 기계장비 임대업</industry>
+  </row>
+  <row>
+    <code>69310</code>
+    <industry>건설 및 토목공사용 기계장비 임대업</industry>
+  </row>
+  <row>
+    <code>6932</code>
+    <industry>컴퓨터 및 사무용 기계장비 임대업</industry>
+  </row>
+  <row>
+    <code>69320</code>
+    <industry>컴퓨터 및 사무용 기계장비 임대업</industry>
+  </row>
+  <row>
+    <code>6939</code>
+    <industry>기타 산업용 기계 및 장비 임대업</industry>
+  </row>
+  <row>
+    <code>69390</code>
+    <industry>기타 산업용 기계 및 장비 임대업</industry>
+  </row>
+  <row>
+    <code>694</code>
+    <industry>무형재산권 임대업</industry>
+  </row>
+  <row>
+    <code>6940</code>
+    <industry>무형재산권 임대업</industry>
+  </row>
+  <row>
+    <code>69400</code>
+    <industry>무형재산권 임대업</industry>
+  </row>
+  <row>
+    <code>M</code>
+    <industry>전문, 과학 및 기술 서비스업 (70 ~ 73)</industry>
+  </row>
+  <row>
+    <code>70</code>
+    <industry>연구개발업</industry>
+  </row>
+  <row>
+    <code>701</code>
+    <industry>자연과학 및 공학 연구개발업</industry>
+  </row>
+  <row>
+    <code>7011</code>
+    <industry>자연과학 연구개발업</industry>
+  </row>
+  <row>
+    <code>70111</code>
+    <industry>물리, 화학 및 생물학 연구개발업</industry>
+  </row>
+  <row>
+    <code>70112</code>
+    <industry>농학 연구개발업</industry>
+  </row>
+  <row>
+    <code>70113</code>
+    <industry>의학 및 약학 연구개발업</industry>
+  </row>
+  <row>
+    <code>70119</code>
+    <industry>기타 자연과학 연구개발업</industry>
+  </row>
+  <row>
+    <code>7012</code>
+    <industry>공학 연구개발업</industry>
+  </row>
+  <row>
+    <code>70121</code>
+    <industry>전기·전자공학 연구개발업</industry>
+  </row>
+  <row>
+    <code>70129</code>
+    <industry>기타 공학 연구개발업</industry>
+  </row>
+  <row>
+    <code>702</code>
+    <industry>인문 및 사회과학 연구개발업</industry>
+  </row>
+  <row>
+    <code>7020</code>
+    <industry>인문 및 사회과학 연구개발업</industry>
+  </row>
+  <row>
+    <code>70201</code>
+    <industry>경제학 연구개발업</industry>
+  </row>
+  <row>
+    <code>70209</code>
+    <industry>기타 인문 및 사회과학 연구개발업</industry>
+  </row>
+  <row>
+    <code>71</code>
+    <industry>전문서비스업</industry>
+  </row>
+  <row>
+    <code>711</code>
+    <industry>법무관련 서비스업</industry>
+  </row>
+  <row>
+    <code>7110</code>
+    <industry>법무관련 서비스업</industry>
+  </row>
+  <row>
+    <code>71101</code>
+    <industry>변호사업</industry>
+  </row>
+  <row>
+    <code>71102</code>
+    <industry>변리사업</industry>
+  </row>
+  <row>
+    <code>71103</code>
+    <industry>법무사업</industry>
+  </row>
+  <row>
+    <code>71109</code>
+    <industry>기타 법무관련 서비스업</industry>
+  </row>
+  <row>
+    <code>712</code>
+    <industry>회계 및 세무관련 서비스업</industry>
+  </row>
+  <row>
+    <code>7120</code>
+    <industry>회계 및 세무관련 서비스업</industry>
+  </row>
+  <row>
+    <code>71201</code>
+    <industry>공인회계사업</industry>
+  </row>
+  <row>
+    <code>71202</code>
+    <industry>세무사업</industry>
+  </row>
+  <row>
+    <code>71209</code>
+    <industry>기타 회계관련 서비스업</industry>
+  </row>
+  <row>
+    <code>713</code>
+    <industry>광고업</industry>
+  </row>
+  <row>
+    <code>7131</code>
+    <industry>광고 대행업</industry>
+  </row>
+  <row>
+    <code>71310</code>
+    <industry>광고 대행업</industry>
+  </row>
+  <row>
+    <code>7139</code>
+    <industry>기타 광고업</industry>
+  </row>
+  <row>
+    <code>71391</code>
+    <industry>옥외 및 전시 광고업</industry>
+  </row>
+  <row>
+    <code>71392</code>
+    <industry>광고매체 판매업</industry>
+  </row>
+  <row>
+    <code>71393</code>
+    <industry>광고물 작성업</industry>
+  </row>
+  <row>
+    <code>71399</code>
+    <industry>그외 기타 광고업</industry>
+  </row>
+  <row>
+    <code>714</code>
+    <industry>시장조사 및 여론조사업</industry>
+  </row>
+  <row>
+    <code>7140</code>
+    <industry>시장조사 및 여론조사업</industry>
+  </row>
+  <row>
+    <code>71400</code>
+    <industry>시장조사 및 여론조사업</industry>
+  </row>
+  <row>
+    <code>715</code>
+    <industry>회사본부, 지주회사 및 경영컨설팅 서비스업</industry>
+  </row>
+  <row>
+    <code>7151</code>
+    <industry>회사본부</industry>
+  </row>
+  <row>
+    <code>71511</code>
+    <industry>제조업 회사본부</industry>
+  </row>
+  <row>
+    <code>71519</code>
+    <industry>기타 산업 회사본부</industry>
+  </row>
+  <row>
+    <code>7152</code>
+    <industry>비금융 지주회사</industry>
+  </row>
+  <row>
+    <code>71520</code>
+    <industry>비금융 지주회사</industry>
+  </row>
+  <row>
+    <code>7153</code>
+    <industry>경영컨설팅 및 공공관계 서비스업</industry>
+  </row>
+  <row>
+    <code>71531</code>
+    <industry>경영컨설팅업</industry>
+  </row>
+  <row>
+    <code>71532</code>
+    <industry>공공관계 서비스업</industry>
+  </row>
+  <row>
+    <code>72</code>
+    <industry>건축기술, 엔지니어링 및 기타 과학기술 서비스업</industry>
+  </row>
+  <row>
+    <code>721</code>
+    <industry>건축기술, 엔지니어링 및 관련기술 서비스업</industry>
+  </row>
+  <row>
+    <code>7211</code>
+    <industry>건축 및 조경 설계 서비스업</industry>
+  </row>
+  <row>
+    <code>72111</code>
+    <industry>건축설계 및 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>72112</code>
+    <industry>도시계획 및 조경설계 서비스업</industry>
+  </row>
+  <row>
+    <code>7212</code>
+    <industry>엔지니어링 서비스업</industry>
+  </row>
+  <row>
+    <code>72121</code>
+    <industry>건물 및 토목엔지니어링 서비스업</industry>
+  </row>
+  <row>
+    <code>72122</code>
+    <industry>환경컨설팅 및 관련 엔지니어링 서비스업</industry>
+  </row>
+  <row>
+    <code>72129</code>
+    <industry>기타 엔지니어링 서비스업</industry>
+  </row>
+  <row>
+    <code>729</code>
+    <industry>기타 과학기술 서비스업</industry>
+  </row>
+  <row>
+    <code>7291</code>
+    <industry>기술 시험, 검사 및 분석업</industry>
+  </row>
+  <row>
+    <code>72911</code>
+    <industry>물질성분 검사 및 분석업</industry>
+  </row>
+  <row>
+    <code>72919</code>
+    <industry>기타 기술 시험, 검사 및 분석업</industry>
+  </row>
+  <row>
+    <code>7292</code>
+    <industry>측량, 지질조사 및 지도제작업</industry>
+  </row>
+  <row>
+    <code>72921</code>
+    <industry>측량업</industry>
+  </row>
+  <row>
+    <code>72922</code>
+    <industry>제도업</industry>
+  </row>
+  <row>
+    <code>72923</code>
+    <industry>지질조사 및 탐사업</industry>
+  </row>
+  <row>
+    <code>72924</code>
+    <industry>지도제작업</industry>
+  </row>
+  <row>
+    <code>73</code>
+    <industry>기타 전문, 과학 및 기술 서비스업</industry>
+  </row>
+  <row>
+    <code>731</code>
+    <industry>수의업</industry>
+  </row>
+  <row>
+    <code>7310</code>
+    <industry>수의업</industry>
+  </row>
+  <row>
+    <code>73100</code>
+    <industry>수의업</industry>
+  </row>
+  <row>
+    <code>732</code>
+    <industry>전문디자인업</industry>
+  </row>
+  <row>
+    <code>7320</code>
+    <industry>전문디자인업</industry>
+  </row>
+  <row>
+    <code>73201</code>
+    <industry>인테리어 디자인업</industry>
+  </row>
+  <row>
+    <code>73202</code>
+    <industry>제품 디자인업</industry>
+  </row>
+  <row>
+    <code>73203</code>
+    <industry>시각 디자인업</industry>
+  </row>
+  <row>
+    <code>73209</code>
+    <industry>기타 전문 디자인업</industry>
+  </row>
+  <row>
+    <code>733</code>
+    <industry>사진 촬영 및 처리업</industry>
+  </row>
+  <row>
+    <code>7330</code>
+    <industry>사진 촬영 및 처리업</industry>
+  </row>
+  <row>
+    <code>73301</code>
+    <industry>인물사진 및 행사용비디오 촬영업</industry>
+  </row>
+  <row>
+    <code>73302</code>
+    <industry>상업용 사진 촬영업</industry>
+  </row>
+  <row>
+    <code>73303</code>
+    <industry>사진 처리업</industry>
+  </row>
+  <row>
+    <code>739</code>
+    <industry>그외 기타 전문, 과학 및 기술 서비스업</industry>
+  </row>
+  <row>
+    <code>7390</code>
+    <industry>그외 기타 전문, 과학 및 기술 서비스업</industry>
+  </row>
+  <row>
+    <code>73901</code>
+    <industry>매니저업</industry>
+  </row>
+  <row>
+    <code>73902</code>
+    <industry>번역 및 통역서비스업</industry>
+  </row>
+  <row>
+    <code>73903</code>
+    <industry>사업 및 무형 재산권 중개업</industry>
+  </row>
+  <row>
+    <code>73904</code>
+    <industry>물품감정, 계량 및 견본 추출업</industry>
+  </row>
+  <row>
+    <code>73909</code>
+    <industry>그외 기타 분류안된 전문, 과학 및 기술 서비스업</industry>
+  </row>
+  <row>
+    <code>N</code>
+    <industry>사업시설관리 및 사업지원 서비스업 (74 ~ 75)</industry>
+  </row>
+  <row>
+    <code>74</code>
+    <industry>사업시설 관리 및 조경 서비스업</industry>
+  </row>
+  <row>
+    <code>741</code>
+    <industry>사업시설 유지관리 서비스업</industry>
+  </row>
+  <row>
+    <code>7410</code>
+    <industry>사업시설 유지관리 서비스업</industry>
+  </row>
+  <row>
+    <code>74100</code>
+    <industry>사업시설 유지관리 서비스업</industry>
+  </row>
+  <row>
+    <code>742</code>
+    <industry>건물·산업설비 청소 및 방제 서비스업</industry>
+  </row>
+  <row>
+    <code>7421</code>
+    <industry>건물 및 산업설비 청소업</industry>
+  </row>
+  <row>
+    <code>74211</code>
+    <industry>건축물 일반 청소업</industry>
+  </row>
+  <row>
+    <code>74212</code>
+    <industry>사업시설 및 산업용품 청소업</industry>
+  </row>
+  <row>
+    <code>7422</code>
+    <industry>소독, 구충 및 방제 서비스업</industry>
+  </row>
+  <row>
+    <code>74220</code>
+    <industry>소독, 구충 및 방제 서비스업</industry>
+  </row>
+  <row>
+    <code>743</code>
+    <industry>조경 관리 및 유지 서비스업</industry>
+  </row>
+  <row>
+    <code>7430</code>
+    <industry>조경 관리 및 유지 서비스업</industry>
+  </row>
+  <row>
+    <code>74300</code>
+    <industry>조경 관리 및 유지 서비스업</industry>
+  </row>
+  <row>
+    <code>75</code>
+    <industry>사업지원 서비스업</industry>
+  </row>
+  <row>
+    <code>751</code>
+    <industry>인력공급 및 고용알선업</industry>
+  </row>
+  <row>
+    <code>7511</code>
+    <industry>고용알선업</industry>
+  </row>
+  <row>
+    <code>75110</code>
+    <industry>고용알선업</industry>
+  </row>
+  <row>
+    <code>7512</code>
+    <industry>인력공급업</industry>
+  </row>
+  <row>
+    <code>75120</code>
+    <industry>인력공급업</industry>
+  </row>
+  <row>
+    <code>752</code>
+    <industry>여행사 및 기타 여행보조 서비스업</industry>
+  </row>
+  <row>
+    <code>7521</code>
+    <industry>여행사업</industry>
+  </row>
+  <row>
+    <code>75211</code>
+    <industry>일반 및 국외 여행사업</industry>
+  </row>
+  <row>
+    <code>75212</code>
+    <industry>국내 여행사업</industry>
+  </row>
+  <row>
+    <code>7529</code>
+    <industry>기타 여행보조 및 예약 서비스업</industry>
+  </row>
+  <row>
+    <code>75290</code>
+    <industry>기타 여행보조 및 예약 서비스업</industry>
+  </row>
+  <row>
+    <code>753</code>
+    <industry>경비, 경호 및 탐정업</industry>
+  </row>
+  <row>
+    <code>7531</code>
+    <industry>경비 및 경호 서비스업</industry>
+  </row>
+  <row>
+    <code>75310</code>
+    <industry>경비 및 경호 서비스업</industry>
+  </row>
+  <row>
+    <code>7532</code>
+    <industry>보안시스템 서비스업</industry>
+  </row>
+  <row>
+    <code>75320</code>
+    <industry>보안시스템 서비스업</industry>
+  </row>
+  <row>
+    <code>7533</code>
+    <industry>탐정 및 조사 서비스업</industry>
+  </row>
+  <row>
+    <code>75330</code>
+    <industry>탐정 및 조사 서비스업</industry>
+  </row>
+  <row>
+    <code>759</code>
+    <industry>기타 사업지원 서비스업</industry>
+  </row>
+  <row>
+    <code>7591</code>
+    <industry>사무지원 서비스업</industry>
+  </row>
+  <row>
+    <code>75911</code>
+    <industry>문서 작성업</industry>
+  </row>
+  <row>
+    <code>75912</code>
+    <industry>복사업</industry>
+  </row>
+  <row>
+    <code>75919</code>
+    <industry>기타 사무지원 서비스업</industry>
+  </row>
+  <row>
+    <code>7599</code>
+    <industry>그외 기타 사업지원 서비스업</industry>
+  </row>
+  <row>
+    <code>75991</code>
+    <industry>콜센터 및 텔레마케팅 서비스업</industry>
+  </row>
+  <row>
+    <code>75992</code>
+    <industry>전시 및 행사 대행업</industry>
+  </row>
+  <row>
+    <code>75993</code>
+    <industry>신용조사 및 추심 대행업</industry>
+  </row>
+  <row>
+    <code>75994</code>
+    <industry>포장 및 충전업</industry>
+  </row>
+  <row>
+    <code>75999</code>
+    <industry>그외 기타 분류안된 사업지원 서비스업</industry>
+  </row>
+  <row>
+    <code>O</code>
+    <industry>공공행정, 국방 및 사회보장 행정(84)</industry>
+  </row>
+  <row>
+    <code>84</code>
+    <industry>공공행정, 국방 및 사회보장 행정</industry>
+  </row>
+  <row>
+    <code>841</code>
+    <industry>입법 및 일반 정부 행정</industry>
+  </row>
+  <row>
+    <code>8411</code>
+    <industry>일반 공공 행정</industry>
+  </row>
+  <row>
+    <code>84111</code>
+    <industry>입법기관</industry>
+  </row>
+  <row>
+    <code>84112</code>
+    <industry>중앙 최고 집행기관</industry>
+  </row>
+  <row>
+    <code>84113</code>
+    <industry>지방행정 집행기관</industry>
+  </row>
+  <row>
+    <code>84114</code>
+    <industry>재정 및 경제정책 행정</industry>
+  </row>
+  <row>
+    <code>84119</code>
+    <industry>기타 일반 공공 행정</industry>
+  </row>
+  <row>
+    <code>8412</code>
+    <industry>정부기관 일반 보조 행정</industry>
+  </row>
+  <row>
+    <code>84120</code>
+    <industry>정부기관 일반 보조 행정</industry>
+  </row>
+  <row>
+    <code>842</code>
+    <industry>사회 및 산업정책 행정</industry>
+  </row>
+  <row>
+    <code>8421</code>
+    <industry>사회서비스 관리 행정</industry>
+  </row>
+  <row>
+    <code>84211</code>
+    <industry>교육 행정</industry>
+  </row>
+  <row>
+    <code>84212</code>
+    <industry>문화 및 관광 행정</industry>
+  </row>
+  <row>
+    <code>84213</code>
+    <industry>환경 행정</industry>
+  </row>
+  <row>
+    <code>84214</code>
+    <industry>보건 및 복지 행정</industry>
+  </row>
+  <row>
+    <code>84219</code>
+    <industry>기타 사회서비스 관리 행정</industry>
+  </row>
+  <row>
+    <code>8422</code>
+    <industry>노동 및 산업진흥 행정</industry>
+  </row>
+  <row>
+    <code>84221</code>
+    <industry>노동 행정</industry>
+  </row>
+  <row>
+    <code>84222</code>
+    <industry>농림수산 행정</industry>
+  </row>
+  <row>
+    <code>84223</code>
+    <industry>건설 및 운송 행정</industry>
+  </row>
+  <row>
+    <code>84224</code>
+    <industry>통신 행정</industry>
+  </row>
+  <row>
+    <code>84229</code>
+    <industry>기타 산업진흥 행정</industry>
+  </row>
+  <row>
+    <code>843</code>
+    <industry>외무 및 국방 행정</industry>
+  </row>
+  <row>
+    <code>8431</code>
+    <industry>외무 행정</industry>
+  </row>
+  <row>
+    <code>84310</code>
+    <industry>외무 행정</industry>
+  </row>
+  <row>
+    <code>8432</code>
+    <industry>국방 행정</industry>
+  </row>
+  <row>
+    <code>84320</code>
+    <industry>국방 행정</industry>
+  </row>
+  <row>
+    <code>844</code>
+    <industry>사법 및 공공질서 행정</industry>
+  </row>
+  <row>
+    <code>8440</code>
+    <industry>사법 및 공공질서 행정</industry>
+  </row>
+  <row>
+    <code>84401</code>
+    <industry>법원</industry>
+  </row>
+  <row>
+    <code>84402</code>
+    <industry>검찰</industry>
+  </row>
+  <row>
+    <code>84403</code>
+    <industry>교도기관</industry>
+  </row>
+  <row>
+    <code>84404</code>
+    <industry>경찰</industry>
+  </row>
+  <row>
+    <code>84405</code>
+    <industry>소방서</industry>
+  </row>
+  <row>
+    <code>84409</code>
+    <industry>기타 사법 및 공공질서 행정</industry>
+  </row>
+  <row>
+    <code>845</code>
+    <industry>사회보장 행정</industry>
+  </row>
+  <row>
+    <code>8450</code>
+    <industry>사회보장 행정</industry>
+  </row>
+  <row>
+    <code>84500</code>
+    <industry>사회보장 행정</industry>
+  </row>
+  <row>
+    <code>P</code>
+    <industry>교육 서비스업(85)</industry>
+  </row>
+  <row>
+    <code>85</code>
+    <industry>교육 서비스업</industry>
+  </row>
+  <row>
+    <code>851</code>
+    <industry>초등 교육기관</industry>
+  </row>
+  <row>
+    <code>8511</code>
+    <industry>유아 교육기관</industry>
+  </row>
+  <row>
+    <code>85110</code>
+    <industry>유아 교육기관</industry>
+  </row>
+  <row>
+    <code>8512</code>
+    <industry>초등학교</industry>
+  </row>
+  <row>
+    <code>85120</code>
+    <industry>초등학교</industry>
+  </row>
+  <row>
+    <code>852</code>
+    <industry>중등 교육기관</industry>
+  </row>
+  <row>
+    <code>8521</code>
+    <industry>일반 중등 교육기관</industry>
+  </row>
+  <row>
+    <code>85211</code>
+    <industry>중학교</industry>
+  </row>
+  <row>
+    <code>85212</code>
+    <industry>일반 고등학교</industry>
+  </row>
+  <row>
+    <code>8522</code>
+    <industry>기술 및 직업 중등 교육기관</industry>
+  </row>
+  <row>
+    <code>85221</code>
+    <industry>상업 및 정보산업 고등학교</industry>
+  </row>
+  <row>
+    <code>85222</code>
+    <industry>공업 고등학교</industry>
+  </row>
+  <row>
+    <code>85229</code>
+    <industry>기타 기술 및 직업 고등학교</industry>
+  </row>
+  <row>
+    <code>853</code>
+    <industry>고등 교육기관</industry>
+  </row>
+  <row>
+    <code>8530</code>
+    <industry>고등 교육기관</industry>
+  </row>
+  <row>
+    <code>85301</code>
+    <industry>전문대학</industry>
+  </row>
+  <row>
+    <code>85302</code>
+    <industry>대학교</industry>
+  </row>
+  <row>
+    <code>85303</code>
+    <industry>대학원</industry>
+  </row>
+  <row>
+    <code>854</code>
+    <industry>특수학교, 외국인학교 및 대안학교</industry>
+  </row>
+  <row>
+    <code>8541</code>
+    <industry>특수학교</industry>
+  </row>
+  <row>
+    <code>85410</code>
+    <industry>특수학교</industry>
+  </row>
+  <row>
+    <code>8542</code>
+    <industry>외국인 학교</industry>
+  </row>
+  <row>
+    <code>85420</code>
+    <industry>외국인 학교</industry>
+  </row>
+  <row>
+    <code>8543</code>
+    <industry>대안학교</industry>
+  </row>
+  <row>
+    <code>85430</code>
+    <industry>대안학교</industry>
+  </row>
+  <row>
+    <code>855</code>
+    <industry>일반 교습 학원</industry>
+  </row>
+  <row>
+    <code>8550</code>
+    <industry>일반 교습 학원</industry>
+  </row>
+  <row>
+    <code>85501</code>
+    <industry>일반 교과 학원</industry>
+  </row>
+  <row>
+    <code>85502</code>
+    <industry>외국어학원</industry>
+  </row>
+  <row>
+    <code>85503</code>
+    <industry>방문 교육 학원</industry>
+  </row>
+  <row>
+    <code>85504</code>
+    <industry>온라인 교육 학원</industry>
+  </row>
+  <row>
+    <code>85509</code>
+    <industry>기타 일반 교습학원</industry>
+  </row>
+  <row>
+    <code>856</code>
+    <industry>기타 교육기관</industry>
+  </row>
+  <row>
+    <code>8561</code>
+    <industry>스포츠 및 레크레이션 교육기관</industry>
+  </row>
+  <row>
+    <code>85611</code>
+    <industry>스포츠 교육기관</industry>
+  </row>
+  <row>
+    <code>85612</code>
+    <industry>레크레이션 교육기관</industry>
+  </row>
+  <row>
+    <code>8562</code>
+    <industry>예술 학원</industry>
+  </row>
+  <row>
+    <code>85620</code>
+    <industry>예술 학원</industry>
+  </row>
+  <row>
+    <code>8563</code>
+    <industry>사회교육시설</industry>
+  </row>
+  <row>
+    <code>85630</code>
+    <industry>사회교육시설</industry>
+  </row>
+  <row>
+    <code>8564</code>
+    <industry>직원훈련기관</industry>
+  </row>
+  <row>
+    <code>85640</code>
+    <industry>직원훈련기관</industry>
+  </row>
+  <row>
+    <code>8565</code>
+    <industry>기술 및 직업훈련학원</industry>
+  </row>
+  <row>
+    <code>85651</code>
+    <industry>운전학원</industry>
+  </row>
+  <row>
+    <code>85659</code>
+    <industry>기타 기술 및 직업훈련학원</industry>
+  </row>
+  <row>
+    <code>8569</code>
+    <industry>그외 기타 교육기관</industry>
+  </row>
+  <row>
+    <code>85691</code>
+    <industry>컴퓨터 학원</industry>
+  </row>
+  <row>
+    <code>85699</code>
+    <industry>그외 기타 분류안된 교육기관</industry>
+  </row>
+  <row>
+    <code>857</code>
+    <industry>교육지원 서비스업</industry>
+  </row>
+  <row>
+    <code>8570</code>
+    <industry>교육지원 서비스업</industry>
+  </row>
+  <row>
+    <code>85701</code>
+    <industry>교육관련 자문 및 평가업</industry>
+  </row>
+  <row>
+    <code>85709</code>
+    <industry>기타 교육지원 서비스업</industry>
+  </row>
+  <row>
+    <code>Q</code>
+    <industry>보건업 및 사회복지 서비스업(86~87)</industry>
+  </row>
+  <row>
+    <code>86</code>
+    <industry>보건업</industry>
+  </row>
+  <row>
+    <code>861</code>
+    <industry>병원</industry>
+  </row>
+  <row>
+    <code>8610</code>
+    <industry>병원</industry>
+  </row>
+  <row>
+    <code>86101</code>
+    <industry>종합 병원</industry>
+  </row>
+  <row>
+    <code>86102</code>
+    <industry>일반 병원</industry>
+  </row>
+  <row>
+    <code>86103</code>
+    <industry>치과 병원</industry>
+  </row>
+  <row>
+    <code>86104</code>
+    <industry>한방 병원</industry>
+  </row>
+  <row>
+    <code>862</code>
+    <industry>의원</industry>
+  </row>
+  <row>
+    <code>8620</code>
+    <industry>의원</industry>
+  </row>
+  <row>
+    <code>86201</code>
+    <industry>일반 의원</industry>
+  </row>
+  <row>
+    <code>86202</code>
+    <industry>치과 의원</industry>
+  </row>
+  <row>
+    <code>86203</code>
+    <industry>한의원</industry>
+  </row>
+  <row>
+    <code>86204</code>
+    <industry>방사선진단 및 병리검사 의원</industry>
+  </row>
+  <row>
+    <code>863</code>
+    <industry>공중 보건 의료업</industry>
+  </row>
+  <row>
+    <code>8630</code>
+    <industry>공중 보건 의료업</industry>
+  </row>
+  <row>
+    <code>86300</code>
+    <industry>공중 보건 의료업</industry>
+  </row>
+  <row>
+    <code>869</code>
+    <industry>기타 보건업</industry>
+  </row>
+  <row>
+    <code>8690</code>
+    <industry>기타 보건업</industry>
+  </row>
+  <row>
+    <code>86901</code>
+    <industry>앰뷸런스 서비스업</industry>
+  </row>
+  <row>
+    <code>86902</code>
+    <industry>유사 의료업</industry>
+  </row>
+  <row>
+    <code>86909</code>
+    <industry>그외 기타 보건업</industry>
+  </row>
+  <row>
+    <code>87</code>
+    <industry>사회복지 서비스업</industry>
+  </row>
+  <row>
+    <code>871</code>
+    <industry>거주 복지시설 운영업</industry>
+  </row>
+  <row>
+    <code>8711</code>
+    <industry>노인 거주 복지시설 운영업</industry>
+  </row>
+  <row>
+    <code>87111</code>
+    <industry>노인 요양 복지시설 운영업</industry>
+  </row>
+  <row>
+    <code>87112</code>
+    <industry>노인 양로 복지시설 운영업</industry>
+  </row>
+  <row>
+    <code>8712</code>
+    <industry>심신장애인 거주 복지시설 운영업</industry>
+  </row>
+  <row>
+    <code>87121</code>
+    <industry>신체 부자유자 거주 복지시설 운영업</industry>
+  </row>
+  <row>
+    <code>87122</code>
+    <industry>정신질환, 정신지체 및 약물중독자 거주 복지시설 운영업</industry>
+  </row>
+  <row>
+    <code>8713</code>
+    <industry>기타 거주 복지시설 운영업</industry>
+  </row>
+  <row>
+    <code>87131</code>
+    <industry>아동 및 부녀자 거주 복지시설 운영업</industry>
+  </row>
+  <row>
+    <code>87139</code>
+    <industry>그외 기타 거주 복지시설 운영업</industry>
+  </row>
+  <row>
+    <code>872</code>
+    <industry>비거주 복지시설 운영업</industry>
+  </row>
+  <row>
+    <code>8721</code>
+    <industry>보육시설 운영업</industry>
+  </row>
+  <row>
+    <code>87210</code>
+    <industry>보육시설 운영업</industry>
+  </row>
+  <row>
+    <code>8729</code>
+    <industry>기타 비거주 복지 서비스업</industry>
+  </row>
+  <row>
+    <code>87291</code>
+    <industry>직업재활원 운영업</industry>
+  </row>
+  <row>
+    <code>87299</code>
+    <industry>그외 기타 비거주 복지 서비스업</industry>
+  </row>
+  <row>
+    <code>R</code>
+    <industry>예술, 스포츠 및 여가관련 서비스업(90~91)</industry>
+  </row>
+  <row>
+    <code>90</code>
+    <industry>창작, 예술 및 여가관련 서비스업</industry>
+  </row>
+  <row>
+    <code>901</code>
+    <industry>창작 및 예술관련 서비스업</industry>
+  </row>
+  <row>
+    <code>9011</code>
+    <industry>공연시설 운영업</industry>
+  </row>
+  <row>
+    <code>90110</code>
+    <industry>공연시설 운영업</industry>
+  </row>
+  <row>
+    <code>9012</code>
+    <industry>공연단체</industry>
+  </row>
+  <row>
+    <code>90121</code>
+    <industry>연극단체</industry>
+  </row>
+  <row>
+    <code>90122</code>
+    <industry>무용 및 음악단체</industry>
+  </row>
+  <row>
+    <code>90123</code>
+    <industry>기타 공연단체</industry>
+  </row>
+  <row>
+    <code>9013</code>
+    <industry>자영 예술가</industry>
+  </row>
+  <row>
+    <code>90131</code>
+    <industry>공연 예술가</industry>
+  </row>
+  <row>
+    <code>90132</code>
+    <industry>비공연 예술가</industry>
+  </row>
+  <row>
+    <code>9019</code>
+    <industry>기타 창작 및 예술관련 서비스업</industry>
+  </row>
+  <row>
+    <code>90191</code>
+    <industry>공연 기획업</industry>
+  </row>
+  <row>
+    <code>90192</code>
+    <industry>공연 및 제작관련 대리업</industry>
+  </row>
+  <row>
+    <code>90199</code>
+    <industry>그외 기타 창작 및 예술관련 서비스업</industry>
+  </row>
+  <row>
+    <code>902</code>
+    <industry>도서관, 사적지 및 유사 여가관련 서비스업</industry>
+  </row>
+  <row>
+    <code>9021</code>
+    <industry>도서관, 기록보존소 및 독서실 운영업</industry>
+  </row>
+  <row>
+    <code>90211</code>
+    <industry>도서관 및 기록보존소 운영업</industry>
+  </row>
+  <row>
+    <code>90212</code>
+    <industry>독서실 운영업</industry>
+  </row>
+  <row>
+    <code>9022</code>
+    <industry>박물관 및 사적지 관리 운영업</industry>
+  </row>
+  <row>
+    <code>90221</code>
+    <industry>박물관 운영업</industry>
+  </row>
+  <row>
+    <code>90222</code>
+    <industry>사적지 관리 운영업</industry>
+  </row>
+  <row>
+    <code>9023</code>
+    <industry>식물원, 동물원 및 자연공원 운영업</industry>
+  </row>
+  <row>
+    <code>90231</code>
+    <industry>식물원 및 동물원 운영업</industry>
+  </row>
+  <row>
+    <code>90232</code>
+    <industry>자연공원 운영업</industry>
+  </row>
+  <row>
+    <code>9029</code>
+    <industry>기타 도서관, 사적지 및 유사 여가관련 서비스업</industry>
+  </row>
+  <row>
+    <code>90290</code>
+    <industry>기타 도서관, 사적지 및 유사 여가관련 서비스업</industry>
+  </row>
+  <row>
+    <code>91</code>
+    <industry>스포츠 및 오락관련 서비스업</industry>
+  </row>
+  <row>
+    <code>911</code>
+    <industry>스포츠 서비스업</industry>
+  </row>
+  <row>
+    <code>9111</code>
+    <industry>경기장 운영업</industry>
+  </row>
+  <row>
+    <code>91111</code>
+    <industry>실내 경기장 운영업</industry>
+  </row>
+  <row>
+    <code>91112</code>
+    <industry>실외 경기장 운영업</industry>
+  </row>
+  <row>
+    <code>91113</code>
+    <industry>경주장 운영업</industry>
+  </row>
+  <row>
+    <code>9112</code>
+    <industry>골프장 및 스키장 운영업</industry>
+  </row>
+  <row>
+    <code>91121</code>
+    <industry>골프장 운영업</industry>
+  </row>
+  <row>
+    <code>91122</code>
+    <industry>스키장 운영업</industry>
+  </row>
+  <row>
+    <code>9113</code>
+    <industry>기타 스포츠시설 운영업</industry>
+  </row>
+  <row>
+    <code>91131</code>
+    <industry>종합 스포츠시설 운영업</industry>
+  </row>
+  <row>
+    <code>91132</code>
+    <industry>체력단련시설 운영업</industry>
+  </row>
+  <row>
+    <code>91133</code>
+    <industry>수영장 운영업</industry>
+  </row>
+  <row>
+    <code>91134</code>
+    <industry>볼링장 운영업</industry>
+  </row>
+  <row>
+    <code>91135</code>
+    <industry>당구장 운영업</industry>
+  </row>
+  <row>
+    <code>91136</code>
+    <industry>골프연습장 운영업</industry>
+  </row>
+  <row>
+    <code>91139</code>
+    <industry>그외 기타 스포츠시설 운영업</industry>
+  </row>
+  <row>
+    <code>9119</code>
+    <industry>기타 스포츠 서비스업</industry>
+  </row>
+  <row>
+    <code>91191</code>
+    <industry>스포츠 클럽 운영업</industry>
+  </row>
+  <row>
+    <code>91199</code>
+    <industry>그외 기타 스포츠 서비스업</industry>
+  </row>
+  <row>
+    <code>912</code>
+    <industry>유원지 및 기타 오락관련 서비스업</industry>
+  </row>
+  <row>
+    <code>9121</code>
+    <industry>유원지 및 테마파크 운영업</industry>
+  </row>
+  <row>
+    <code>91210</code>
+    <industry>유원지 및 테마파크 운영업</industry>
+  </row>
+  <row>
+    <code>9122</code>
+    <industry>오락장 운영업</industry>
+  </row>
+  <row>
+    <code>91221</code>
+    <industry>전자 게임장 운영업</industry>
+  </row>
+  <row>
+    <code>91222</code>
+    <industry>컴퓨터 게임방 운영업</industry>
+  </row>
+  <row>
+    <code>91223</code>
+    <industry>노래연습장 운영업</industry>
+  </row>
+  <row>
+    <code>91229</code>
+    <industry>기타 오락장 운영업</industry>
+  </row>
+  <row>
+    <code>9123</code>
+    <industry>수상오락 서비스업</industry>
+  </row>
+  <row>
+    <code>91231</code>
+    <industry>낚시장 운영업</industry>
+  </row>
+  <row>
+    <code>91239</code>
+    <industry>기타 수상오락 서비스업</industry>
+  </row>
+  <row>
+    <code>9124</code>
+    <industry>갬블링 및 베팅업</industry>
+  </row>
+  <row>
+    <code>91241</code>
+    <industry>복권발행 및 판매업</industry>
+  </row>
+  <row>
+    <code>91249</code>
+    <industry>기타 갬블링 및 베팅업</industry>
+  </row>
+  <row>
+    <code>9129</code>
+    <industry>그외 기타 오락관련 서비스업</industry>
+  </row>
+  <row>
+    <code>91291</code>
+    <industry>무도장 운영업</industry>
+  </row>
+  <row>
+    <code>91292</code>
+    <industry>체육공원 및 유사 공원 운영업</industry>
+  </row>
+  <row>
+    <code>91293</code>
+    <industry>기원 운영업</industry>
+  </row>
+  <row>
+    <code>91299</code>
+    <industry>그외 기타 분류안된 오락관련 서비스업</industry>
+  </row>
+  <row>
+    <code>S</code>
+    <industry>협회 및 단체, 수리  및 기타 개인 서비스업(94~96)</industry>
+  </row>
+  <row>
+    <code>94</code>
+    <industry>협회 및 단체</industry>
+  </row>
+  <row>
+    <code>941</code>
+    <industry>산업 및 전문가 단체</industry>
+  </row>
+  <row>
+    <code>9411</code>
+    <industry>산업 단체</industry>
+  </row>
+  <row>
+    <code>94110</code>
+    <industry>산업 단체</industry>
+  </row>
+  <row>
+    <code>9412</code>
+    <industry>전문가 단체</industry>
+  </row>
+  <row>
+    <code>94120</code>
+    <industry>전문가 단체</industry>
+  </row>
+  <row>
+    <code>942</code>
+    <industry>노동조합</industry>
+  </row>
+  <row>
+    <code>9420</code>
+    <industry>노동조합</industry>
+  </row>
+  <row>
+    <code>94200</code>
+    <industry>노동조합</industry>
+  </row>
+  <row>
+    <code>949</code>
+    <industry>기타 협회 및 단체</industry>
+  </row>
+  <row>
+    <code>9491</code>
+    <industry>종교 단체</industry>
+  </row>
+  <row>
+    <code>94911</code>
+    <industry>불교 단체</industry>
+  </row>
+  <row>
+    <code>94912</code>
+    <industry>기독교 단체</industry>
+  </row>
+  <row>
+    <code>94913</code>
+    <industry>천주교 단체</industry>
+  </row>
+  <row>
+    <code>94914</code>
+    <industry>민족종교 단체</industry>
+  </row>
+  <row>
+    <code>94919</code>
+    <industry>기타 종교 단체</industry>
+  </row>
+  <row>
+    <code>9492</code>
+    <industry>정치 단체</industry>
+  </row>
+  <row>
+    <code>94920</code>
+    <industry>정치 단체</industry>
+  </row>
+  <row>
+    <code>9493</code>
+    <industry>시민운동 단체</industry>
+  </row>
+  <row>
+    <code>94931</code>
+    <industry>환경운동 단체</industry>
+  </row>
+  <row>
+    <code>94939</code>
+    <industry>기타 시민운동 단체</industry>
+  </row>
+  <row>
+    <code>9499</code>
+    <industry>그외 기타 협회 및 단체</industry>
+  </row>
+  <row>
+    <code>94990</code>
+    <industry>그외 기타 협회 및 단체</industry>
+  </row>
+  <row>
+    <code>95</code>
+    <industry>수리업</industry>
+  </row>
+  <row>
+    <code>951</code>
+    <industry>기계 및 장비 수리업</industry>
+  </row>
+  <row>
+    <code>9511</code>
+    <industry>일반 기계 수리업</industry>
+  </row>
+  <row>
+    <code>95111</code>
+    <industry>건설·광업용 기계 및 장비 수리업</industry>
+  </row>
+  <row>
+    <code>95119</code>
+    <industry>기타 일반 기계 및 장비 수리업</industry>
+  </row>
+  <row>
+    <code>9512</code>
+    <industry>전기, 전자, 통신 및 정밀기기 수리업</industry>
+  </row>
+  <row>
+    <code>95121</code>
+    <industry>컴퓨터 및 사무용 기기 수리업</industry>
+  </row>
+  <row>
+    <code>95122</code>
+    <industry>통신장비 수리업</industry>
+  </row>
+  <row>
+    <code>95123</code>
+    <industry>전기 및 정밀기기 수리업</industry>
+  </row>
+  <row>
+    <code>952</code>
+    <industry>자동차 및 모터사이클 수리업</industry>
+  </row>
+  <row>
+    <code>9521</code>
+    <industry>자동차 수리 및 세차업</industry>
+  </row>
+  <row>
+    <code>95211</code>
+    <industry>자동차 종합 수리업</industry>
+  </row>
+  <row>
+    <code>95212</code>
+    <industry>자동차 전문 수리업</industry>
+  </row>
+  <row>
+    <code>95213</code>
+    <industry>자동차 세차업</industry>
+  </row>
+  <row>
+    <code>9522</code>
+    <industry>모터사이클 수리업</industry>
+  </row>
+  <row>
+    <code>95220</code>
+    <industry>모터사이클 수리업</industry>
+  </row>
+  <row>
+    <code>953</code>
+    <industry>개인 및 가정용품 수리업</industry>
+  </row>
+  <row>
+    <code>9531</code>
+    <industry>가전제품 수리업</industry>
+  </row>
+  <row>
+    <code>95310</code>
+    <industry>가전제품 수리업</industry>
+  </row>
+  <row>
+    <code>9539</code>
+    <industry>기타 개인 및 가정용품 수리업</industry>
+  </row>
+  <row>
+    <code>95391</code>
+    <industry>신발, 의복 및 기타 가정용 직물제품 수리업</industry>
+  </row>
+  <row>
+    <code>95392</code>
+    <industry>시계, 귀금속 및 악기 수리업</industry>
+  </row>
+  <row>
+    <code>95399</code>
+    <industry>그외 기타 개인 및 가정용품 수리업</industry>
+  </row>
+  <row>
+    <code>96</code>
+    <industry>기타 개인 서비스업</industry>
+  </row>
+  <row>
+    <code>961</code>
+    <industry>미용, 욕탕 및 유사 서비스업</industry>
+  </row>
+  <row>
+    <code>9611</code>
+    <industry>이용 및 미용업</industry>
+  </row>
+  <row>
+    <code>96111</code>
+    <industry>이용업</industry>
+  </row>
+  <row>
+    <code>96112</code>
+    <industry>두발미용업</industry>
+  </row>
+  <row>
+    <code>96113</code>
+    <industry>피부미용업</industry>
+  </row>
+  <row>
+    <code>96119</code>
+    <industry>기타미용업</industry>
+  </row>
+  <row>
+    <code>9612</code>
+    <industry>욕탕, 마사지 및 기타 미용관련 서비스업</industry>
+  </row>
+  <row>
+    <code>96121</code>
+    <industry>욕탕업</industry>
+  </row>
+  <row>
+    <code>96122</code>
+    <industry>마사지업</industry>
+  </row>
+  <row>
+    <code>96129</code>
+    <industry>기타 미용관련 서비스업</industry>
+  </row>
+  <row>
+    <code>969</code>
+    <industry>그외 기타 개인 서비스업</industry>
+  </row>
+  <row>
+    <code>9691</code>
+    <industry>세탁업</industry>
+  </row>
+  <row>
+    <code>96911</code>
+    <industry>산업용 세탁업</industry>
+  </row>
+  <row>
+    <code>96912</code>
+    <industry>가정용 세탁업</industry>
+  </row>
+  <row>
+    <code>96913</code>
+    <industry>세탁물 공급업</industry>
+  </row>
+  <row>
+    <code>9692</code>
+    <industry>장례식장 및 관련 서비스업</industry>
+  </row>
+  <row>
+    <code>96921</code>
+    <industry>장례식장 및 장의관련 서비스업</industry>
+  </row>
+  <row>
+    <code>96922</code>
+    <industry>화장, 묘지분양 및 관리업</industry>
+  </row>
+  <row>
+    <code>9699</code>
+    <industry>그외 기타 분류안된 개인 서비스업</industry>
+  </row>
+  <row>
+    <code>96991</code>
+    <industry>예식장업</industry>
+  </row>
+  <row>
+    <code>96992</code>
+    <industry>점술 및 유사 서비스업</industry>
+  </row>
+  <row>
+    <code>96993</code>
+    <industry>개인 간병인 및 유사 서비스업</industry>
+  </row>
+  <row>
+    <code>96994</code>
+    <industry>맞선주선 및 결혼 상담업</industry>
+  </row>
+  <row>
+    <code>96995</code>
+    <industry>애완동물 장묘 및 보호 서비스업</industry>
+  </row>
+  <row>
+    <code>96999</code>
+    <industry>그외 기타 달리 분류되지 않은 개인 서비스업</industry>
+  </row>
+  <row>
+    <code>T</code>
+    <industry>가구내 고용활동 및 달리 분류되지 않은 자가소비 생산활동(97~98)</industry>
+  </row>
+  <row>
+    <code>97</code>
+    <industry>가구내 고용활동</industry>
+  </row>
+  <row>
+    <code>970</code>
+    <industry>가구내 고용활동</industry>
+  </row>
+  <row>
+    <code>9700</code>
+    <industry>가구내 고용활동</industry>
+  </row>
+  <row>
+    <code>97000</code>
+    <industry>가구내 고용활동</industry>
+  </row>
+  <row>
+    <code>98</code>
+    <industry>달리 분류되지 않은 자가소비를 위한 가구의 재화 및 서비스 생산활동</industry>
+  </row>
+  <row>
+    <code>981</code>
+    <industry>자가 소비를 위한 가사 생산 활동</industry>
+  </row>
+  <row>
+    <code>9810</code>
+    <industry>자가 소비를 위한 가사 생산 활동</industry>
+  </row>
+  <row>
+    <code>98100</code>
+    <industry>자가 소비를 위한 가사 생산 활동</industry>
+  </row>
+  <row>
+    <code>982</code>
+    <industry>자가 소비를 위한 가사 서비스 활동</industry>
+  </row>
+  <row>
+    <code>9820</code>
+    <industry>자가 소비를 위한 가사 서비스 활동</industry>
+  </row>
+  <row>
+    <code>98200</code>
+    <industry>자가 소비를 위한 가사 서비스 활동</industry>
+  </row>
+  <row>
+    <code>U</code>
+    <industry>국제 및 외국기관(99)</industry>
+  </row>
+  <row>
+    <code>99</code>
+    <industry>국제 및 외국기관</industry>
+  </row>
+  <row>
+    <code>990</code>
+    <industry>국제 및 외국기관</industry>
+  </row>
+  <row>
+    <code>9900</code>
+    <industry>국제 및 외국기관</industry>
+  </row>
+  <row>
+    <code>99001</code>
+    <industry>주한 외국공관</industry>
+  </row>
+  <row>
+    <code>99009</code>
+    <industry>기타 국제 및 외국기관</industry>
+  </row>
+</root>
