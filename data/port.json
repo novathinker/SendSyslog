@@ -1,0 +1,602 @@
+[
+  {
+    "protocol": "TCP",
+    "ip": "110.216.216.212",
+    "ports": "9,17,109,113,119,992,993",
+    "services": "DISCARD,QOTD,POP2,IRC,NNTP,Telnet on SSL,IMAP4 on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "188.96.0.203",
+    "ports": "17,21,23,67,70,161,194,194,514,873,995",
+    "services": "QOTD,FTP,Telnet ,DHCP,Gopher,SNMP_Agent,IRC,IRC,syslog,rsync,POP3 on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "222.78.22.142",
+    "ports": "13,24,143,666,8888",
+    "services": "DAYTIME,Private Mail ,IMAP4,doom,로그프레소WEB"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "142.191.74.63",
+    "ports": "25,67,68,111,465,992",
+    "services": "SMTP,DHCP,BOOTP,RPC,SMTP on SSL,Telnet on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "237.181.28.23",
+    "ports": "17,19,80,161,515,873,981",
+    "services": "QOTD,CHARGEN,HTTP,SNMP_Agent,LPD,rsync,SofaWare Technologies Checkpoint Firewall-1"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "100.245.43.130",
+    "ports": "20,88,113,143,992",
+    "services": "FTP,Kerberos,IRC,IMAP4,Telnet on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "146.70.123.164",
+    "ports": "21,139,445,445,587",
+    "services": "FTP,NetBios,Active-Directory,SMB,email message submission"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "224.239.97.103",
+    "ports": "465,587",
+    "services": "SMTP on SSL,email message submission"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "105.196.157.150",
+    "ports": "25,49,69,389,465,636",
+    "services": "SMTP,TACACS,TFTP,LDAP,SMTP on SSL,LDAP on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "212.81.61.1",
+    "ports": "19,110,389",
+    "services": "CHARGEN,POP3,LDAP"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "254.62.218.111",
+    "ports": "17,70,143,7140",
+    "services": "QOTD,Gopher,IMAP4,로그프레소센트리"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "20.35.71.218",
+    "ports": "49,70,79,109,445,445,995",
+    "services": "TACACS,Gopher,Finger,POP2,Active-Directory,SMB,POP3 on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "230.136.58.111",
+    "ports": "119,123,515",
+    "services": "NNTP,NTP,LPD"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "173.60.118.9",
+    "ports": "21,143,514,515",
+    "services": "FTP,IMAP4,syslog,LPD"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "9.237.104.175",
+    "ports": "49,69,143,162,515,587,873,981",
+    "services": "TACACS,TFTP,IMAP4,SNMP_Manager,LPD,email message submission,rsync,SofaWare Technologies Checkpoint Firewall-1"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "166.154.183.104",
+    "ports": "19,49,69,110,194,443,445,445",
+    "services": "CHARGEN,TACACS,TFTP,POP3,IRC,HTTPS,Active-Directory,SMB"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "192.5.133.134",
+    "ports": "1,9,13,70,79,162,515,591,666,992",
+    "services": "TCPMUX,DISCARD,DAYTIME,Gopher,Finger,SNMP_Manager,LPD,Web Sharing,doom,Telnet on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "0.86.170.123",
+    "ports": "20,22,37,69,79,666",
+    "services": "FTP,SSH,TIME,TFTP,Finger,doom"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "31.147.251.142",
+    "ports": "9,53,161,7004",
+    "services": "DISCARD,DNS,SNMP_Agent,로그프레소TELNET"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "13.210.216.40",
+    "ports": "19,20,22,49,111,139,540,666,992,7022",
+    "services": "CHARGEN,FTP,SSH,TACACS,RPC,NetBios,UUCP,doom,Telnet on SSL,로그프레소SSH"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "135.51.65.8",
+    "ports": "20,23,79,179,194",
+    "services": "FTP,Telnet ,Finger,BGP,IRC"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "107.218.16.20",
+    "ports": "22,23,70,123,139,194,666,990,995",
+    "services": "SSH,Telnet ,Gopher,NTP,NetBios,IRC,doom,FTP on SSL,POP3 on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "190.79.29.218",
+    "ports": "19,21,23,79,109,139,992",
+    "services": "CHARGEN,FTP,Telnet ,Finger,POP2,NetBios,Telnet on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "103.77.14.141",
+    "ports": "7,25",
+    "services": "ECHO,SMTP"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "171.65.211.63",
+    "ports": "21,70,194",
+    "services": "FTP,Gopher,IRC"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "27.2.48.9",
+    "ports": "21,69,113,162,179,443,7140",
+    "services": "FTP,TFTP,IRC,SNMP_Manager,BGP,HTTPS,로그프레소센트리"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "90.241.45.105",
+    "ports": "80,139,179,990",
+    "services": "HTTP,NetBios,BGP,FTP on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "150.209.168.128",
+    "ports": "7,37,119,162,591,666",
+    "services": "ECHO,TIME,NNTP,SNMP_Manager,Web Sharing,doom"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "246.227.224.95",
+    "ports": "179,666",
+    "services": "BGP,doom"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "211.222.248.224",
+    "ports": "69,110,111,119,515,981",
+    "services": "TFTP,POP3,RPC,NNTP,LPD,SofaWare Technologies Checkpoint Firewall-1"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "55.250.197.208",
+    "ports": "24,25,110,515,8888",
+    "services": "Private Mail ,SMTP,POP3,LPD,로그프레소WEB"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "143.58.222.23",
+    "ports": "1,9,17,22,24,69,79,123,873,993,8888,7022",
+    "services": "TCPMUX,DISCARD,QOTD,SSH,Private Mail ,TFTP,Finger,NTP,rsync,IMAP4 on SSL,로그프레소WEB,로그프레소SSH"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "78.17.231.228",
+    "ports": "7,13,68,79,179,445,445,465,587,666,981",
+    "services": "ECHO,DAYTIME,BOOTP,Finger,BGP,Active-Directory,SMB,SMTP on SSL,email message submission,doom,SofaWare Technologies Checkpoint Firewall-1"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "15.53.18.185",
+    "ports": "7,22,23,67,111,587,995",
+    "services": "ECHO,SSH,Telnet ,DHCP,RPC,email message submission,POP3 on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "101.114.4.2",
+    "ports": "79,80,179,514",
+    "services": "Finger,HTTP,BGP,syslog"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "77.85.149.72",
+    "ports": "19,37,68,88,113,123,194,515,990,7140",
+    "services": "CHARGEN,TIME,BOOTP,Kerberos,IRC,NTP,IRC,LPD,FTP on SSL,로그프레소센트리"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "38.213.210.134",
+    "ports": "9,67,111,993",
+    "services": "DISCARD,DHCP,RPC,IMAP4 on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "45.158.134.145",
+    "ports": "9,587,666,7004",
+    "services": "DISCARD,email message submission,doom,로그프레소TELNET"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "69.242.21.37",
+    "ports": "1,17,25,53,139,162,465,542,591",
+    "services": "TCPMUX,QOTD,SMTP,DNS,NetBios,SNMP_Manager,SMTP on SSL,Commerce Applications,Web Sharing"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "42.165.175.253",
+    "ports": "17,88,161,515,540,666,873,995",
+    "services": "QOTD,Kerberos,SNMP_Agent,LPD,UUCP,doom,rsync,POP3 on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "82.210.88.156",
+    "ports": "19,23,24,68,80,110,591,981,992,8888",
+    "services": "CHARGEN,Telnet ,Private Mail ,BOOTP,HTTP,POP3,Web Sharing,SofaWare Technologies Checkpoint Firewall-1,Telnet on SSL,로그프레소WEB"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "201.187.68.99",
+    "ports": "7,67,88,123,179,389,540,995",
+    "services": "ECHO,DHCP,Kerberos,NTP,BGP,LDAP,UUCP,POP3 on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "30.191.173.233",
+    "ports": "162,389",
+    "services": "SNMP_Manager,LDAP"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "79.0.5.194",
+    "ports": "25,49,110,636,992,8888",
+    "services": "SMTP,TACACS,POP3,LDAP on SSL,Telnet on SSL,로그프레소WEB"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "50.128.161.18",
+    "ports": "37,161,445,445,515",
+    "services": "TIME,SNMP_Agent,Active-Directory,SMB,LPD"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "6.155.66.187",
+    "ports": "981,7004",
+    "services": "SofaWare Technologies Checkpoint Firewall-1,로그프레소TELNET"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "29.113.56.10",
+    "ports": "53,540,993,8888",
+    "services": "DNS,UUCP,IMAP4 on SSL,로그프레소WEB"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "96.64.68.193",
+    "ports": "25,88,119,179,515,7140",
+    "services": "SMTP,Kerberos,NNTP,BGP,LPD,로그프레소센트리"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "183.103.124.207",
+    "ports": "53,143",
+    "services": "DNS,IMAP4"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "140.54.170.150",
+    "ports": "21,25,79,666,873,992",
+    "services": "FTP,SMTP,Finger,doom,rsync,Telnet on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "219.170.90.196",
+    "ports": "21,68,80,111,443,514,540",
+    "services": "FTP,BOOTP,HTTP,RPC,HTTPS,syslog,UUCP"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "125.129.23.141",
+    "ports": "53,109,111,119,445,445,542,666,7140",
+    "services": "DNS,POP2,RPC,NNTP,Active-Directory,SMB,Commerce Applications,doom,로그프레소센트리"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "218.148.130.158",
+    "ports": "68,110,7004",
+    "services": "BOOTP,POP3,로그프레소TELNET"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "124.147.189.15",
+    "ports": "19,22,25,514,990,7022",
+    "services": "CHARGEN,SSH,SMTP,syslog,FTP on SSL,로그프레소SSH"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "100.67.144.188",
+    "ports": "23,194,445,445",
+    "services": "Telnet ,IRC,Active-Directory,SMB"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "9.205.101.83",
+    "ports": "13,67,111,139,143,666",
+    "services": "DAYTIME,DHCP,RPC,NetBios,IMAP4,doom"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "241.220.236.194",
+    "ports": "68,109,162,873",
+    "services": "BOOTP,POP2,SNMP_Manager,rsync"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "208.210.153.43",
+    "ports": "9,22,88,123,139,161,540,636,990",
+    "services": "DISCARD,SSH,Kerberos,NTP,NetBios,SNMP_Agent,UUCP,LDAP on SSL,FTP on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "40.84.127.225",
+    "ports": "67,88,123,161,162,179,443,8888",
+    "services": "DHCP,Kerberos,NTP,SNMP_Agent,SNMP_Manager,BGP,HTTPS,로그프레소WEB"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "104.66.21.169",
+    "ports": "9,13,80,161,465,7004",
+    "services": "DISCARD,DAYTIME,HTTP,SNMP_Agent,SMTP on SSL,로그프레소TELNET"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "82.69.228.85",
+    "ports": "7,9,19,68,109,636,995,8888",
+    "services": "ECHO,DISCARD,CHARGEN,BOOTP,POP2,LDAP on SSL,POP3 on SSL,로그프레소WEB"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "113.197.250.164",
+    "ports": "1,53,88,109,161,389,542",
+    "services": "TCPMUX,DNS,Kerberos,POP2,SNMP_Agent,LDAP,Commerce Applications"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "208.61.17.208",
+    "ports": "9,49,123,445,445,990",
+    "services": "DISCARD,TACACS,NTP,Active-Directory,SMB,FTP on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "201.109.35.196",
+    "ports": "110,123,445,445,465,515,666,993",
+    "services": "POP3,NTP,Active-Directory,SMB,SMTP on SSL,LPD,doom,IMAP4 on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "98.1.69.172",
+    "ports": "1,9,70,79,143",
+    "services": "TCPMUX,DISCARD,Gopher,Finger,IMAP4"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "16.55.251.45",
+    "ports": "21,161,465,995,7004",
+    "services": "FTP,SNMP_Agent,SMTP on SSL,POP3 on SSL,로그프레소TELNET"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "176.220.110.186",
+    "ports": "24,49",
+    "services": "Private Mail ,TACACS"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "158.113.58.48",
+    "ports": "7,67,80,109,110",
+    "services": "ECHO,DHCP,HTTP,POP2,POP3"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "189.36.88.55",
+    "ports": "37,70,443,993,8888,7022",
+    "services": "TIME,Gopher,HTTPS,IMAP4 on SSL,로그프레소WEB,로그프레소SSH"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "170.194.59.121",
+    "ports": "111,143,540,995,7022",
+    "services": "RPC,IMAP4,UUCP,POP3 on SSL,로그프레소SSH"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "186.8.59.81",
+    "ports": "7,24,25,69,636,995",
+    "services": "ECHO,Private Mail ,SMTP,TFTP,LDAP on SSL,POP3 on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "72.195.169.87",
+    "ports": "67,80,139,143,443,445,445,591,666,7004,7140",
+    "services": "DHCP,HTTP,NetBios,IMAP4,HTTPS,Active-Directory,SMB,Web Sharing,doom,로그프레소TELNET,로그프레소센트리"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "59.185.202.119",
+    "ports": "1,67,69,515",
+    "services": "TCPMUX,DHCP,TFTP,LPD"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "187.21.155.113",
+    "ports": "7,20,110,179,7022",
+    "services": "ECHO,FTP,POP3,BGP,로그프레소SSH"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "235.215.144.173",
+    "ports": "24,70,113,123,7004",
+    "services": "Private Mail ,Gopher,IRC,NTP,로그프레소TELNET"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "157.126.171.69",
+    "ports": "1,17,69,70,111,389",
+    "services": "TCPMUX,QOTD,TFTP,Gopher,RPC,LDAP"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "151.131.164.184",
+    "ports": "119,445,445,515,666,873,8888,7140",
+    "services": "NNTP,Active-Directory,SMB,LPD,doom,rsync,로그프레소WEB,로그프레소센트리"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "87.80.50.229",
+    "ports": "1,88,123,194,389,591,995",
+    "services": "TCPMUX,Kerberos,NTP,IRC,LDAP,Web Sharing,POP3 on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "193.22.131.37",
+    "ports": "7,17,24,70,111,443,465,7140",
+    "services": "ECHO,QOTD,Private Mail ,Gopher,RPC,HTTPS,SMTP on SSL,로그프레소센트리"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "130.6.168.44",
+    "ports": "1,7,9,37,113,179,194,993",
+    "services": "TCPMUX,ECHO,DISCARD,TIME,IRC,BGP,IRC,IMAP4 on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "69.86.240.45",
+    "ports": "13,88,111,443,587,636,992,7140",
+    "services": "DAYTIME,Kerberos,RPC,HTTPS,email message submission,LDAP on SSL,Telnet on SSL,로그프레소센트리"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "230.69.98.2",
+    "ports": "68,69,80,113,143,445,445,666",
+    "services": "BOOTP,TFTP,HTTP,IRC,IMAP4,Active-Directory,SMB,doom"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "182.46.42.78",
+    "ports": "23,194,542",
+    "services": "Telnet ,IRC,Commerce Applications"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "104.168.108.5",
+    "ports": "9,20,70,110,540,7004",
+    "services": "DISCARD,FTP,Gopher,POP3,UUCP,로그프레소TELNET"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "119.190.73.169",
+    "ports": "17,21,139,143,540,591,636,993,7140",
+    "services": "QOTD,FTP,NetBios,IMAP4,UUCP,Web Sharing,LDAP on SSL,IMAP4 on SSL,로그프레소센트리"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "188.175.234.243",
+    "ports": "13,22,67,109,111,113,443,465,514,873,992",
+    "services": "DAYTIME,SSH,DHCP,POP2,RPC,IRC,HTTPS,SMTP on SSL,syslog,rsync,Telnet on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "206.252.115.238",
+    "ports": "20,514,542,7140",
+    "services": "FTP,syslog,Commerce Applications,로그프레소센트리"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "5.24.197.106",
+    "ports": "7,9,123,666",
+    "services": "ECHO,DISCARD,NTP,doom"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "57.162.52.179",
+    "ports": "67,123,179,445,445,981,992,7004",
+    "services": "DHCP,NTP,BGP,Active-Directory,SMB,SofaWare Technologies Checkpoint Firewall-1,Telnet on SSL,로그프레소TELNET"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "76.154.207.132",
+    "ports": "37,110,113,179",
+    "services": "TIME,POP3,IRC,BGP"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "166.77.232.112",
+    "ports": "53,67,542",
+    "services": "DNS,DHCP,Commerce Applications"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "135.222.226.6",
+    "ports": "9,68,79,111,113,179,992",
+    "services": "DISCARD,BOOTP,Finger,RPC,IRC,BGP,Telnet on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "106.239.87.102",
+    "ports": "1,110,389,443,465,514",
+    "services": "TCPMUX,POP3,LDAP,HTTPS,SMTP on SSL,syslog"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "169.96.51.83",
+    "ports": "20,514,7022",
+    "services": "FTP,syslog,로그프레소SSH"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "154.226.230.58",
+    "ports": "24,119,143,873,7004",
+    "services": "Private Mail ,NNTP,IMAP4,rsync,로그프레소TELNET"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "226.62.232.227",
+    "ports": "7,79,80,111,119,540,990",
+    "services": "ECHO,Finger,HTTP,RPC,NNTP,UUCP,FTP on SSL"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "0.159.244.122",
+    "ports": "17,19,22,111,194,540,542,636,7140",
+    "services": "QOTD,CHARGEN,SSH,RPC,IRC,UUCP,Commerce Applications,LDAP on SSL,로그프레소센트리"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "169.84.25.71",
+    "ports": "21,161,445,445,666",
+    "services": "FTP,SNMP_Agent,Active-Directory,SMB,doom"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "41.26.98.103",
+    "ports": "21,88,443,591",
+    "services": "FTP,Kerberos,HTTPS,Web Sharing"
+  },
+  {
+    "protocol": "TCP",
+    "ip": "100.1.37.216",
+    "ports": 22,
+    "services": "SSH"
+  }
+]
