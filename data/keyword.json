@@ -1,38 +1,38 @@
 [
   {
-    "keyword": "국민",
+    "keyword": "\"\"국민\"\"",
     "rule": "국가"
   },
   {
-    "keyword": "주권",
+    "keyword": "\"\"주권\"\"",
     "rule": "국가"
   },
   {
-    "keyword": "정당",
+    "keyword": "\"정당\"",
     "rule": "제도"
   },
   {
-    "keyword": "법률",
+    "keyword": "\"법률\"",
     "rule": "제도"
   },
   {
-    "keyword": "양심",
+    "keyword": "\"양심\"",
     "rule": "개념"
   },
   {
-    "keyword": "민주공화국",
+    "keyword": "\"민주공화국\"",
     "rule": "제도"
   },
   {
-    "keyword": "국가",
+    "keyword": "\"국가\"",
     "rule": "국가"
   },
   {
-    "keyword": "자유",
+    "keyword": "\"자유\"",
     "rule": "개념"
   },
   {
-    "keyword": "영토",
+    "keyword": "\"영토\"",
     "rule": "국가"
   }
 ]
